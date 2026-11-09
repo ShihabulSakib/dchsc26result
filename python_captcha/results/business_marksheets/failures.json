@@ -1,0 +1,107 @@
+[
+  {
+    "serial_no": 116,
+    "source": {
+      "id": 122,
+      "name": "NAFIZ",
+      "college_roll": "1202425020126",
+      "admission_roll": "208079",
+      "father_name": "MD.Jahangir Alam",
+      "mother_name": "Ayesha Akter Panna",
+      "group": "Business Studies",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "NAFIZ",
+      "name_returned": "MD NAFIZ HOSSAIN",
+      "hsc_roll_primary": "455397",
+      "hsc_roll_alt": null,
+      "roll_used": "455397",
+      "returned_roll": "455397",
+      "registration_no": "2111866753",
+      "returned_reg": "2111866753",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "BUSINESS STUDIES",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "4.25",
+      "gpa_expected": "4.25",
+      "gpa_match": true,
+      "subject_count": 8,
+      "total_marks": 733,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A-",
+          "subject": "BANGLA",
+          "marks": "127"
+        },
+        {
+          "code": "107-108",
+          "grade": "A-",
+          "subject": "ENGLISH",
+          "marks": "125"
+        },
+        {
+          "code": "275",
+          "grade": "A-",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "060"
+        },
+        {
+          "code": "253-254",
+          "grade": "B",
+          "subject": "ACCOUNTING",
+          "marks": "115"
+        },
+        {
+          "code": "277-278",
+          "grade": "A",
+          "subject": "BUSINESS ORGANIZATION & MANAGEMENT",
+          "marks": "143"
+        },
+        {
+          "code": "292-293",
+          "grade": "A+",
+          "subject": "FINANCE",
+          "marks": null
+        },
+        {
+          "raw": "BANKING & INSURANCE 163"
+        },
+        {
+          "code": "129-130",
+          "grade": "A+",
+          "subject": "STATISTICS",
+          "marks": "163"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": false,
+      "name_match": false,
+      "name_similarity": 0.476,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": [
+        "name_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 1,
+      "duration_s": 1.59,
+      "fetched_at": "2026-11-09T16:48:52",
+      "error": null,
+      "raw": null
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-09T16:49:40",
+  "elapsed_s": 440.1,
+  "elapsed": "00:07:20",
+  "total": 132,
+  "counts": {
+    "ok": 132
+  },
+  "verified": 131,
+  "flags": {
+    "gpa_unavailable": 4,
+    "name_mismatch": 1
+  },
+  "output": "results/business_marksheets"
+}

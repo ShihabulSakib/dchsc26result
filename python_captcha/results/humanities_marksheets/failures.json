@@ -1,0 +1,666 @@
+[
+  {
+    "serial_no": 142,
+    "source": {
+      "id": 82,
+      "name": "MD. FAHAD",
+      "college_roll": "1202425030084",
+      "admission_roll": "227413",
+      "father_name": "MD. ABUL BASHAR",
+      "mother_name": "SHAHIDA NAZNIN",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. FAHAD",
+      "name_returned": null,
+      "hsc_roll_primary": "255021",
+      "hsc_roll_alt": "254957",
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2118762389",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 3,
+      "api_attempts": 17,
+      "duration_s": 2.56,
+      "fetched_at": "2026-11-09T14:01:27",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 143,
+    "source": {
+      "id": 52,
+      "name": "MD. HANNAN SHAH",
+      "college_roll": "1202425030052",
+      "admission_roll": "146591",
+      "father_name": "MD. SONAULLA SORKAR",
+      "mother_name": "MST. SULTANA KHATUN",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. HANNAN SHAH",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2112752616",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.04,
+      "fetched_at": "2026-11-09T14:01:29",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 144,
+    "source": {
+      "id": 41,
+      "name": "NETAI SARKER",
+      "college_roll": "1202425030041",
+      "admission_roll": "163567",
+      "father_name": "BABLU SARKER",
+      "mother_name": "CHAINA RANI SARKER",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "NETAI SARKER",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110612918",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 2,
+      "api_attempts": 8,
+      "duration_s": 2.04,
+      "fetched_at": "2026-11-09T14:01:32",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 145,
+    "source": {
+      "id": 60,
+      "name": "NAZMUL ZIHAD RABBI",
+      "college_roll": "1202425030060",
+      "admission_roll": "110136",
+      "father_name": "KHOKAN",
+      "mother_name": "NASIMA AKTER",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "NAZMUL ZIHAD RABBI",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110931189",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.62,
+      "fetched_at": "2026-11-09T14:01:35",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 146,
+    "source": {
+      "id": 76,
+      "name": "SAJEDUR RAHMAN SAZED",
+      "college_roll": "1202425030077",
+      "admission_roll": "118989",
+      "father_name": "Motiur Rahman",
+      "mother_name": "Najnin Afroj Shanta",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "SAJEDUR RAHMAN SAZED",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110978096",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.69,
+      "fetched_at": "2026-11-09T14:01:39",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 147,
+    "source": {
+      "id": 107,
+      "name": "ANSAR UDDIN AHAMMAD",
+      "college_roll": "1202425030111",
+      "admission_roll": "188190",
+      "father_name": "AFSOR UDDIN AHAMMAD",
+      "mother_name": "MST. AKLIMA AKTHER",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "ANSAR UDDIN AHAMMAD",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110522545",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.67,
+      "fetched_at": "2026-11-09T14:01:42",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 148,
+    "source": {
+      "id": 133,
+      "name": "MD. MAHMUDUL HASAN",
+      "college_roll": "1202425030139",
+      "admission_roll": "428377",
+      "father_name": "Md.Abdul kadir",
+      "mother_name": "Mst.Morjina Begum",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. MAHMUDUL HASAN",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2118993086",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.66,
+      "fetched_at": "2026-11-09T14:01:45",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 149,
+    "source": {
+      "id": 144,
+      "name": "MD. SHARIFUL ISLAM",
+      "college_roll": "1202425030150",
+      "admission_roll": "200009",
+      "father_name": "Abul Kashem",
+      "mother_name": "Ayesha Begum",
+      "group": "Humanities",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. SHARIFUL ISLAM",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2111938627",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 7,
+      "duration_s": 1.65,
+      "fetched_at": "2026-11-09T14:01:48",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  }
+]

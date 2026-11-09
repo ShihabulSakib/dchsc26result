@@ -1,0 +1,374 @@
+{
+  "total_checked": 149,
+  "paid_count": 142,
+  "unpaid_count": 7,
+  "unpaid_rolls": [
+    "1202425030041",
+    "1202425030052",
+    "1202425030060",
+    "1202425030077",
+    "1202425030111",
+    "1202425030139",
+    "1202425030150"
+  ],
+  "students": [
+    {
+      "roll": "1202425030041",
+      "name": "NETAI SARKER",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715114840.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "123 - Psychology 1st paper",
+          "paper_2": "124 - Psychology 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "121 - Logic 1st  paper",
+          "paper_2": "122 - Logic 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "269 - Civics 1st paper",
+          "paper_2": "270 - Civics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "304 - History 1st paper",
+          "paper_2": "305 - History 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 41,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030052",
+      "name": "MD. HANNAN SHAH",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "2",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715152813.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "249 - Islamic Studies 1st paper",
+          "paper_2": "250 - Islamic Studies 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "125 - Geography 1st paper",
+          "paper_2": "126 - Geography 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "269 - Civics 1st paper",
+          "paper_2": "270 - Civics 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 52,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "Promotion",
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030060",
+      "name": "NAZMUL ZIHAD RABBI",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716044558.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "123 - Psychology 1st paper",
+          "paper_2": "124 - Psychology 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "117 - Social Science 1st paper",
+          "paper_2": "118 - Social Science 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "125 - Geography 1st paper",
+          "paper_2": "126 - Geography 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 60,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030077",
+      "name": "SAJEDUR RAHMAN SAZED",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716160702.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "117 - Social Science 1st paper",
+          "paper_2": "118 - Social Science 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "125 - Geography 1st paper",
+          "paper_2": "126 - Geography 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 76,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030111",
+      "name": "ANSAR UDDIN AHAMMAD",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913145605.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "123 - Psychology 1st paper",
+          "paper_2": "124 - Psychology 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "125 - Geography 1st paper",
+          "paper_2": "126 - Geography 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "269 - Civics 1st paper",
+          "paper_2": "270 - Civics 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 107,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030139",
+      "name": "MD. MAHMUDUL HASAN",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730131636.JPG",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "249 - Islamic Studies 1st paper",
+          "paper_2": "250 - Islamic Studies 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "117 - Social Science 1st paper",
+          "paper_2": "118 - Social Science 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "267 - Islamic History and Culture 1st paper",
+          "paper_2": "268 - Islamic History and Culture 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 133,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425030150",
+      "name": "MD. SHARIFUL ISLAM",
+      "student_group": "Humanities",
+      "department": "HSC - Humanities",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913145956.png",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "269 - Civics 1st paper",
+          "paper_2": "270 - Civics 2nd paper",
+          "type": "Elective"
+        },
+        {
+          "paper_1": "304 - History 1st paper",
+          "paper_2": "305 - History 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 144,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Dhaka College HSC Result Analysis & Scraper Pipeline
+# Install via: pip install -r requirements.txt
+
+# HTTP requests & retry adapter
+requests>=2.28.0
+
+# Numerical operations for image arrays & contours
+numpy>=1.24.0
+
+# Computer Vision & morphology for CAPTCHA solver
+opencv-python>=4.8.0
+
+# Image processing
+Pillow>=9.5.0
+
+# HTML parsing for Dhaka College eShiksa portal & receipts
+beautifulsoup4>=4.12.0
+urllib3>=2.0.0
+
+# System-level dependencies (install via apt on Debian/Ubuntu/Raspberry Pi OS):
+# sudo apt update && sudo apt install -y poppler-utils tesseract-ocr

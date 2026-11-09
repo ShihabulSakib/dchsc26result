@@ -1,0 +1,283 @@
+2026-11-09T14:52:59 start records=132 pending=132 out=results/business_marksheets board=10 year=2026
+2026-11-09T14:52:59 [1/132] serial=1 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:01 [2/132] serial=2 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:03 [3/132] serial=3 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:05 [4/132] serial=4 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:06 [5/132] serial=5 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:08 [6/132] serial=6 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:09 [7/132] serial=7 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:56 start records=132 pending=132 out=results/business_marksheets board=10 year=2026
+2026-11-09T14:53:56 [1/132] serial=1 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:57 [2/132] serial=2 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:53:59 [3/132] serial=3 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:00 [4/132] serial=4 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:49 start records=132 pending=132 out=results/business_marksheets board=10 year=2026
+2026-11-09T14:54:49 [1/132] serial=1 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:51 [2/132] serial=2 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:52 [3/132] serial=3 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:54 [4/132] serial=4 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:55 [5/132] serial=5 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:57 [6/132] serial=6 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:54:59 [7/132] serial=7 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:01 [8/132] serial=8 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:03 [9/132] serial=9 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:04 [10/132] serial=10 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:05 [11/132] serial=11 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:07 [12/132] serial=12 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:09 [13/132] serial=13 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:11 [14/132] serial=14 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:13 [15/132] serial=15 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:14 [16/132] serial=16 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:16 [17/132] serial=17 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:17 [18/132] serial=18 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:19 [19/132] serial=19 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:21 [20/132] serial=20 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:22 [21/132] serial=21 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:23 [22/132] serial=22 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:25 [23/132] serial=23 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:26 [24/132] serial=24 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:27 [25/132] serial=25 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:29 [26/132] serial=26 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:30 [27/132] serial=27 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:32 [28/132] serial=28 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:33 [29/132] serial=29 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:34 [30/132] serial=30 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:36 [31/132] serial=31 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:38 [32/132] serial=32 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:40 [33/132] serial=33 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:42 [34/132] serial=34 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:44 [35/132] serial=35 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:46 [36/132] serial=36 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:47 [37/132] serial=37 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:49 [38/132] serial=38 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:50 [39/132] serial=39 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:52 [40/132] serial=40 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:53 [41/132] serial=41 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:55 [42/132] serial=42 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:57 [43/132] serial=43 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:58 [44/132] serial=44 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:55:59 [45/132] serial=45 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:01 [46/132] serial=46 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:02 [47/132] serial=47 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:03 [48/132] serial=48 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:04 [49/132] serial=49 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:06 [50/132] serial=50 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:07 [51/132] serial=51 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:08 [52/132] serial=52 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:10 [53/132] serial=53 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:11 [54/132] serial=54 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:12 [55/132] serial=55 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:14 [56/132] serial=56 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:16 [57/132] serial=57 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:17 [58/132] serial=58 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:19 [59/132] serial=59 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:21 [60/132] serial=60 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:23 [61/132] serial=61 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:24 [62/132] serial=62 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:25 [63/132] serial=63 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:27 [64/132] serial=64 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:29 [65/132] serial=65 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:30 [66/132] serial=66 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:32 [67/132] serial=67 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:33 [68/132] serial=68 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:34 [69/132] serial=69 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:36 [70/132] serial=70 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:38 [71/132] serial=71 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:40 [72/132] serial=72 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:42 [73/132] serial=73 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:43 [74/132] serial=74 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:45 [75/132] serial=75 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:46 [76/132] serial=76 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T14:56:47 [77/132] serial=77 status=failed roll_used=None returned=None gpa=None attempts=0 error=ModuleNotFoundError: No module named 'easyocr'
+2026-11-09T15:08:58 start records=132 pending=55 out=results/business_marksheets board=10 year=2026
+2026-11-09T15:09:00 [1/55] serial=78 status=ok roll_used=455359 returned=IBNE AKIB RAHI gpa=5.00 attempts=1 error=None
+2026-11-09T15:09:03 [2/55] serial=79 status=ok roll_used=455360 returned=MD. SAKIB HOSSAIN gpa=4.83 attempts=1 error=None
+2026-11-09T15:09:05 [3/55] serial=80 status=ok roll_used=455361 returned=KOUSHIK AHMED ALIF gpa=4.42 attempts=2 error=None
+2026-11-09T15:09:07 [4/55] serial=81 status=ok roll_used=455362 returned=MD. RASEL RANA gpa=4.67 attempts=2 error=None
+2026-11-09T15:09:09 [5/55] serial=82 status=ok roll_used=455363 returned=MD. FAHIM ISLAM gpa=4.92 attempts=1 error=None
+2026-11-09T15:09:12 [6/55] serial=83 status=ok roll_used=455364 returned=MD. MEHEDI HASAN gpa=4.75 attempts=1 error=None
+2026-11-09T15:09:15 [7/55] serial=84 status=ok roll_used=455365 returned=MD. MAHIM DEWAN gpa=4.92 attempts=1 error=None
+2026-11-09T15:09:18 [8/55] serial=85 status=ok roll_used=455366 returned=SYED TOUFIQ HASAN gpa=4.83 attempts=8 error=None
+2026-11-09T15:09:21 [9/55] serial=86 status=ok roll_used=455367 returned=SADIQUR RAHMAN SAKIB gpa=4.83 attempts=1 error=None
+2026-11-09T15:09:24 [10/55] serial=87 status=ok roll_used=455368 returned=MD AL AMIN KHAN gpa=4.50 attempts=1 error=None
+2026-11-09T15:09:29 [11/55] serial=88 status=ok roll_used=455369 returned=KHALID SIFULLA gpa=4.75 attempts=10 error=None
+2026-11-09T15:09:32 [12/55] serial=89 status=ok roll_used=455370 returned=MASFIAN ZARIF gpa=4.75 attempts=2 error=None
+2026-11-09T15:09:35 [13/55] serial=90 status=ok roll_used=455371 returned=MD. ISMAIL gpa=5.00 attempts=1 error=None
+2026-11-09T15:09:38 [14/55] serial=91 status=ok roll_used=455372 returned=JARIF MAHMUD LABIB gpa=4.83 attempts=1 error=None
+2026-11-09T15:09:41 [15/55] serial=92 status=ok roll_used=455373 returned=MD ASHIQUR RAHAMAN FAHIM gpa=5.00 attempts=8 error=None
+2026-11-09T15:09:44 [16/55] serial=93 status=ok roll_used=455374 returned=MD. NAZMUL HAQUE SIAM gpa=5.00 attempts=1 error=None
+2026-11-09T15:09:46 [17/55] serial=94 status=ok roll_used=455375 returned=ARAFAT HOSSAIN JISAN gpa=4.42 attempts=1 error=None
+2026-11-09T15:09:50 [18/55] serial=95 status=ok roll_used=455376 returned=MD. SANJID BHUYAN gpa=5.00 attempts=9 error=None
+2026-11-09T15:09:53 [19/55] serial=96 status=ok roll_used=455377 returned=SAJIDUR RAHMAN SOHAN gpa=4.67 attempts=1 error=None
+2026-11-09T15:09:56 [20/55] serial=97 status=ok roll_used=455378 returned=S.M. SIAM gpa=4.33 attempts=1 error=None
+2026-11-09T15:09:58 [21/55] serial=98 status=ok roll_used=455379 returned=MD IMRAN gpa=4.17 attempts=1 error=None
+2026-11-09T15:10:01 [22/55] serial=99 status=ok roll_used=455380 returned=FAHIM HASAN BABO gpa=4.08 attempts=2 error=None
+2026-11-09T15:10:05 [23/55] serial=100 status=ok roll_used=455381 returned=MD. SHAHADAT HOSSEN gpa=4.58 attempts=2 error=None
+2026-11-09T15:10:07 [24/55] serial=101 status=ok roll_used=455382 returned=MD. JAHEDUL ISLAM FARDIN gpa=4.58 attempts=1 error=None
+2026-11-09T15:10:09 [25/55] serial=102 status=ok roll_used=455383 returned=MD. ASHIKUR RAHMAN gpa=4.42 attempts=3 error=None
+2026-11-09T15:10:12 [26/55] serial=103 status=ok roll_used=455384 returned=SHATCHA DAS gpa=4.50 attempts=1 error=None
+2026-11-09T15:10:16 [27/55] serial=104 status=ok roll_used=455385 returned=MD. SAJEDUR ISLAM SAJIB gpa=4.67 attempts=4 error=None
+2026-11-09T15:10:19 [28/55] serial=105 status=ok roll_used=455386 returned=MD. TASIN ISTIAK gpa=4.00 attempts=4 error=None
+2026-11-09T15:10:22 [29/55] serial=106 status=ok roll_used=455387 returned=SAIKAT DAS gpa=None attempts=1 error=None
+2026-11-09T15:10:24 [30/55] serial=107 status=ok roll_used=455388 returned=TUSHER SIKDER gpa=None attempts=1 error=None
+2026-11-09T15:10:26 [31/55] serial=108 status=ok roll_used=455389 returned=MD. ABU TALHA gpa=5.00 attempts=1 error=None
+2026-11-09T15:10:29 [32/55] serial=109 status=ok roll_used=455390 returned=MUNSI MD. KHALAD SAIFULLAH gpa=4.75 attempts=1 error=None
+2026-11-09T15:10:34 [33/55] serial=110 status=ok roll_used=455391 returned=SIYAM ALAM gpa=4.33 attempts=9 error=None
+2026-11-09T15:10:37 [34/55] serial=111 status=ok roll_used=455392 returned=MD. MUTTUKI SHAHRIYAR SIYAM gpa=4.25 attempts=1 error=None
+2026-11-09T15:10:40 [35/55] serial=112 status=ok roll_used=455393 returned=SADAT BIN SAYED gpa=3.58 attempts=1 error=None
+2026-11-09T15:10:43 [36/55] serial=113 status=ok roll_used=455394 returned=MD. TORIKUL ISLAM gpa=4.08 attempts=1 error=None
+2026-11-09T15:10:46 [37/55] serial=114 status=ok roll_used=455395 returned=TANJUL HASAN gpa=4.42 attempts=1 error=None
+2026-11-09T15:10:47 [38/55] serial=115 status=ok roll_used=455396 returned=KAZI MOSTOFA MAHADI gpa=4.33 attempts=1 error=None
+2026-11-09T15:10:51 [39/55] serial=116 status=ok roll_used=455397 returned=MD NAFIZ HOSSAIN gpa=4.25 attempts=1 error=None
+2026-11-09T15:10:54 [40/55] serial=117 status=ok roll_used=455398 returned=AHMED EFTEKHAR RUDRO gpa=4.17 attempts=1 error=None
+2026-11-09T15:10:56 [41/55] serial=118 status=ok roll_used=455399 returned=M. M. JUBAYET HOSSAIN HEMAL gpa=4.58 attempts=1 error=None
+2026-11-09T15:10:59 [42/55] serial=119 status=ok roll_used=455400 returned=AZWAD ABRAR gpa=4.58 attempts=2 error=None
+2026-11-09T15:11:02 [43/55] serial=120 status=ok roll_used=455401 returned=MD. AHSANUL HAQUE SHIMANTU gpa=4.92 attempts=1 error=None
+2026-11-09T15:11:05 [44/55] serial=121 status=ok roll_used=455402 returned=ABDULLAH AL ARAF gpa=4.42 attempts=1 error=None
+2026-11-09T15:11:08 [45/55] serial=122 status=ok roll_used=455403 returned=MAHID RAIYAN gpa=3.92 attempts=1 error=None
+2026-11-09T15:11:11 [46/55] serial=123 status=ok roll_used=455404 returned=NAZMUL ALAM RAFI gpa=4.25 attempts=1 error=None
+2026-11-09T15:11:14 [47/55] serial=124 status=ok roll_used=455405 returned=ALIF ISLAM MEYAD gpa=4.25 attempts=9 error=None
+2026-11-09T15:11:16 [48/55] serial=125 status=ok roll_used=455406 returned=MOHAMMAD ABDUR RAHMAN ADIB gpa=3.92 attempts=1 error=None
+2026-11-09T15:11:18 [49/55] serial=126 status=ok roll_used=455407 returned=MD. TURAJ gpa=5.00 attempts=1 error=None
+2026-11-09T15:11:21 [50/55] serial=127 status=ok roll_used=455408 returned=MAHRUF AHMED SUDDY gpa=4.33 attempts=2 error=None
+2026-11-09T15:11:24 [51/55] serial=128 status=ok roll_used=455409 returned=MD. YEASIN ARAFAT gpa=4.50 attempts=1 error=None
+2026-11-09T15:11:26 [52/55] serial=129 status=ok roll_used=455410 returned=MD. MAHIN KHAN gpa=5.00 attempts=1 error=None
+2026-11-09T15:11:29 [53/55] serial=130 status=ok roll_used=455411 returned=ABU BAKKAR SIDDIQ OURPON gpa=4.00 attempts=1 error=None
+2026-11-09T15:11:32 [54/55] serial=131 status=ok roll_used=455412 returned=MD. SUJON gpa=3.42 attempts=1 error=None
+2026-11-09T15:11:36 [55/55] serial=132 status=ok roll_used=455413 returned=ASVI RAHMAN AYON gpa=4.00 attempts=1 error=None
+2026-11-09T15:11:36 done total=132 counts={'failed': 77, 'ok': 55} verified=54 elapsed=00:02:37
+2026-11-09T16:42:20 start records=132 pending=132 out=results/business_marksheets board=10 year=2026
+2026-11-09T16:42:21 [1/132] serial=1 status=ok roll_used=455282 returned=AL MAHIMUZZAMAN ANANTA gpa=4.83 attempts=1 error=None
+2026-11-09T16:42:24 [2/132] serial=2 status=ok roll_used=455283 returned=A.K.M. SIRAJ HABIB AHMED gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:28 [3/132] serial=3 status=ok roll_used=455284 returned=FARDIN RAHMAN NABIL gpa=5.00 attempts=9 error=None
+2026-11-09T16:42:31 [4/132] serial=4 status=ok roll_used=455285 returned=MAHIB gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:33 [5/132] serial=5 status=ok roll_used=455286 returned=MD. AHNAF HOSSAIN ADIB gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:36 [6/132] serial=6 status=ok roll_used=455287 returned=BAPPI HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:39 [7/132] serial=7 status=ok roll_used=455288 returned=MD. TASHIN ALAM gpa=5.00 attempts=9 error=None
+2026-11-09T16:42:43 [8/132] serial=8 status=ok roll_used=455289 returned=MAHABUB ALAM gpa=4.33 attempts=1 error=None
+2026-11-09T16:42:46 [9/132] serial=9 status=ok roll_used=455290 returned=MD. EFATH PATOARI gpa=4.42 attempts=1 error=None
+2026-11-09T16:42:49 [10/132] serial=10 status=ok roll_used=455291 returned=TAHMID BIN TOHID gpa=4.50 attempts=1 error=None
+2026-11-09T16:42:53 [11/132] serial=11 status=ok roll_used=455292 returned=SAJEDUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:55 [12/132] serial=12 status=ok roll_used=455293 returned=MOHAMMAD SAKIBUDDIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:42:57 [13/132] serial=13 status=ok roll_used=455294 returned=SAKI MUHAMMAD gpa=5.00 attempts=2 error=None
+2026-11-09T16:43:00 [14/132] serial=14 status=ok roll_used=455295 returned=OLI AHMED gpa=4.17 attempts=1 error=None
+2026-11-09T16:43:02 [15/132] serial=15 status=ok roll_used=455296 returned=ROBIN HOQUE SANY gpa=4.92 attempts=1 error=None
+2026-11-09T16:43:05 [16/132] serial=16 status=ok roll_used=455297 returned=MD. RAZWAN HOSSAIN gpa=5.00 attempts=7 error=None
+2026-11-09T16:43:08 [17/132] serial=17 status=ok roll_used=455298 returned=SAKHAWAT ISLAM SHAFA gpa=4.42 attempts=2 error=None
+2026-11-09T16:43:11 [18/132] serial=18 status=ok roll_used=455299 returned=FARHAN ALAM RAIAN gpa=5.00 attempts=1 error=None
+2026-11-09T16:43:14 [19/132] serial=19 status=ok roll_used=455300 returned=ABDULLAH JUBAYER gpa=4.75 attempts=1 error=None
+2026-11-09T16:43:16 [20/132] serial=20 status=ok roll_used=455301 returned=SAKIBUL ISLAM SAMIR gpa=4.83 attempts=1 error=None
+2026-11-09T16:43:30 [21/132] serial=21 status=ok roll_used=455302 returned=JUBAYED HOSSAIN JISAN gpa=5.00 attempts=13 error=None
+2026-11-09T16:43:32 [22/132] serial=22 status=ok roll_used=455303 returned=MAHIN FAHAD PATWARY gpa=5.00 attempts=1 error=None
+2026-11-09T16:43:35 [23/132] serial=23 status=ok roll_used=455304 returned=MD. SHAFIQUL AL ZUBIN gpa=4.92 attempts=1 error=None
+2026-11-09T16:43:38 [24/132] serial=24 status=ok roll_used=455305 returned=MD. ZUBAYER HASAN SADAF gpa=5.00 attempts=1 error=None
+2026-11-09T16:43:41 [25/132] serial=25 status=ok roll_used=455306 returned=SOADUL ISLAM gpa=4.42 attempts=1 error=None
+2026-11-09T16:43:43 [26/132] serial=26 status=ok roll_used=455307 returned=MD. SABBIR HOSSIN SIAM gpa=4.58 attempts=1 error=None
+2026-11-09T16:43:46 [27/132] serial=27 status=ok roll_used=455308 returned=MD. RAIHAN MIAH gpa=None attempts=1 error=None
+2026-11-09T16:43:49 [28/132] serial=28 status=ok roll_used=455309 returned=AMINUL HASAN LIKHON gpa=5.00 attempts=1 error=None
+2026-11-09T16:43:51 [29/132] serial=29 status=ok roll_used=455310 returned=TAMJID HOSSAIN gpa=4.92 attempts=4 error=None
+2026-11-09T16:43:54 [30/132] serial=30 status=ok roll_used=455311 returned=MD. RAIHAN HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:43:57 [31/132] serial=31 status=ok roll_used=455312 returned=MAHIDUL ISLAM gpa=4.58 attempts=1 error=None
+2026-11-09T16:44:00 [32/132] serial=32 status=ok roll_used=455313 returned=MASHFI RAHMAN gpa=4.92 attempts=2 error=None
+2026-11-09T16:44:03 [33/132] serial=33 status=ok roll_used=455314 returned=TANVIR AHMED gpa=4.75 attempts=1 error=None
+2026-11-09T16:44:06 [34/132] serial=34 status=ok roll_used=455315 returned=SURJO GOSH gpa=4.17 attempts=1 error=None
+2026-11-09T16:44:08 [35/132] serial=35 status=ok roll_used=455316 returned=MD. MINHAJ UDDIN gpa=4.83 attempts=1 error=None
+2026-11-09T16:44:11 [36/132] serial=36 status=ok roll_used=455317 returned=REMON HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:44:13 [37/132] serial=37 status=ok roll_used=455318 returned=SAD HOSSAIN SADMAN gpa=4.67 attempts=1 error=None
+2026-11-09T16:44:16 [38/132] serial=38 status=ok roll_used=455319 returned=MD. ASHRAFUL ISLAM RAIYAN gpa=4.75 attempts=1 error=None
+2026-11-09T16:44:19 [39/132] serial=39 status=ok roll_used=455320 returned=MD. MAZHARUL ISLAM gpa=4.83 attempts=1 error=None
+2026-11-09T16:44:22 [40/132] serial=40 status=ok roll_used=455321 returned=MD. NAKIBUL ISLAM gpa=4.17 attempts=1 error=None
+2026-11-09T16:44:26 [41/132] serial=41 status=ok roll_used=455322 returned=MD. SHAFIQUL ISLAM SHAWON gpa=4.83 attempts=9 error=None
+2026-11-09T16:44:29 [42/132] serial=42 status=ok roll_used=455323 returned=TANVIR ISLAM gpa=4.58 attempts=1 error=None
+2026-11-09T16:44:32 [43/132] serial=43 status=ok roll_used=455324 returned=RUDRA ADHIKARY gpa=5.00 attempts=9 error=None
+2026-11-09T16:44:35 [44/132] serial=44 status=ok roll_used=455325 returned=MD. RIFAT MAHMUD gpa=4.75 attempts=1 error=None
+2026-11-09T16:44:38 [45/132] serial=45 status=ok roll_used=455326 returned=ARUP PAUL gpa=4.83 attempts=1 error=None
+2026-11-09T16:44:41 [46/132] serial=46 status=ok roll_used=455327 returned=ASHRAFUR HASAN SHAWON gpa=5.00 attempts=1 error=None
+2026-11-09T16:44:43 [47/132] serial=47 status=ok roll_used=455328 returned=GULAM BARI SHAFI gpa=4.83 attempts=1 error=None
+2026-11-09T16:44:46 [48/132] serial=48 status=ok roll_used=455329 returned=MD. OMAR SHARIF gpa=4.75 attempts=1 error=None
+2026-11-09T16:44:49 [49/132] serial=49 status=ok roll_used=455330 returned=YOUSUF HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:44:52 [50/132] serial=50 status=ok roll_used=455331 returned=YASIN SHARIF gpa=5.00 attempts=1 error=None
+2026-11-09T16:44:55 [51/132] serial=51 status=ok roll_used=455332 returned=MD. ARAF RAHMAN gpa=4.67 attempts=10 error=None
+2026-11-09T16:44:58 [52/132] serial=52 status=ok roll_used=455333 returned=NAHIDUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-09T16:45:11 [53/132] serial=53 status=ok roll_used=455334 returned=MAHARAB HOSSAIN SANJID gpa=5.00 attempts=12 error=None
+2026-11-09T16:45:15 [54/132] serial=54 status=ok roll_used=455335 returned=MD. JAHIRUL ISLAM MOJUMDER gpa=4.67 attempts=1 error=None
+2026-11-09T16:45:18 [55/132] serial=55 status=ok roll_used=455336 returned=MD. TAREK RAHMAN gpa=5.00 attempts=2 error=None
+2026-11-09T16:45:21 [56/132] serial=56 status=ok roll_used=455337 returned=MD. AMANULLAH gpa=None attempts=1 error=None
+2026-11-09T16:45:25 [57/132] serial=57 status=ok roll_used=455338 returned=MD. MANAF SHEIKH gpa=4.83 attempts=9 error=None
+2026-11-09T16:45:28 [58/132] serial=58 status=ok roll_used=455339 returned=ATIF SHARIAR gpa=4.50 attempts=1 error=None
+2026-11-09T16:45:32 [59/132] serial=59 status=ok roll_used=455340 returned=MD. MONTASIR WASI gpa=5.00 attempts=9 error=None
+2026-11-09T16:45:35 [60/132] serial=60 status=ok roll_used=455341 returned=SADEQUL ISLAM SAYEM gpa=4.67 attempts=1 error=None
+2026-11-09T16:45:38 [61/132] serial=61 status=ok roll_used=455342 returned=MD. ROBIUL AHMED gpa=4.50 attempts=1 error=None
+2026-11-09T16:45:42 [62/132] serial=62 status=ok roll_used=455343 returned=MAHIN HASAN gpa=4.67 attempts=1 error=None
+2026-11-09T16:45:46 [63/132] serial=63 status=ok roll_used=455344 returned=FARDIN AHMED gpa=4.83 attempts=9 error=None
+2026-11-09T16:45:50 [64/132] serial=64 status=ok roll_used=455345 returned=MD SAJID HOSSAIN gpa=4.75 attempts=1 error=None
+2026-11-09T16:45:52 [65/132] serial=65 status=ok roll_used=455346 returned=SADMAN MOSTOFA RIMON gpa=4.83 attempts=1 error=None
+2026-11-09T16:45:55 [66/132] serial=66 status=ok roll_used=455347 returned=ZARIF AMIN gpa=5.00 attempts=1 error=None
+2026-11-09T16:45:58 [67/132] serial=67 status=ok roll_used=455348 returned=MD. MINER gpa=4.75 attempts=1 error=None
+2026-11-09T16:46:00 [68/132] serial=68 status=ok roll_used=455349 returned=MD. ARAFAT MORSALIN PIAS gpa=4.67 attempts=1 error=None
+2026-11-09T16:46:03 [69/132] serial=69 status=ok roll_used=455350 returned=MD. FAHIM HOSSAIN gpa=4.50 attempts=1 error=None
+2026-11-09T16:46:06 [70/132] serial=70 status=ok roll_used=455351 returned=MD. SHAFIN HAYAT ZIDAN gpa=5.00 attempts=1 error=None
+2026-11-09T16:46:09 [71/132] serial=71 status=ok roll_used=455352 returned=SAAD SIRAJ KHAN gpa=3.75 attempts=3 error=None
+2026-11-09T16:46:12 [72/132] serial=72 status=ok roll_used=455353 returned=ABUL HASAN MOHAMMAD MAINUDDIN gpa=4.08 attempts=1 error=None
+2026-11-09T16:46:15 [73/132] serial=73 status=ok roll_used=455354 returned=NAYEM BIN ABU TAHER gpa=4.42 attempts=1 error=None
+2026-11-09T16:46:19 [74/132] serial=74 status=ok roll_used=455355 returned=MD. ARIFUL ISLAM SIYAM gpa=4.67 attempts=9 error=None
+2026-11-09T16:46:22 [75/132] serial=75 status=ok roll_used=455356 returned=S.M. HASIBUL HAQUE gpa=4.58 attempts=1 error=None
+2026-11-09T16:46:25 [76/132] serial=76 status=ok roll_used=455357 returned=MD. RASEL GAZI gpa=4.75 attempts=1 error=None
+2026-11-09T16:46:29 [77/132] serial=77 status=ok roll_used=455358 returned=MD. SHAHRIAR TOHA gpa=4.25 attempts=1 error=None
+2026-11-09T16:46:32 [78/132] serial=78 status=ok roll_used=455359 returned=IBNE AKIB RAHI gpa=5.00 attempts=9 error=None
+2026-11-09T16:46:36 [79/132] serial=79 status=ok roll_used=455360 returned=MD. SAKIB HOSSAIN gpa=4.83 attempts=9 error=None
+2026-11-09T16:46:38 [80/132] serial=80 status=ok roll_used=455361 returned=KOUSHIK AHMED ALIF gpa=4.42 attempts=1 error=None
+2026-11-09T16:46:41 [81/132] serial=81 status=ok roll_used=455362 returned=MD. RASEL RANA gpa=4.67 attempts=1 error=None
+2026-11-09T16:46:44 [82/132] serial=82 status=ok roll_used=455363 returned=MD. FAHIM ISLAM gpa=4.92 attempts=1 error=None
+2026-11-09T16:46:47 [83/132] serial=83 status=ok roll_used=455364 returned=MD. MEHEDI HASAN gpa=4.75 attempts=1 error=None
+2026-11-09T16:46:51 [84/132] serial=84 status=ok roll_used=455365 returned=MD. MAHIM DEWAN gpa=4.92 attempts=1 error=None
+2026-11-09T16:46:54 [85/132] serial=85 status=ok roll_used=455366 returned=SYED TOUFIQ HASAN gpa=4.83 attempts=1 error=None
+2026-11-09T16:46:56 [86/132] serial=86 status=ok roll_used=455367 returned=SADIQUR RAHMAN SAKIB gpa=4.83 attempts=1 error=None
+2026-11-09T16:46:59 [87/132] serial=87 status=ok roll_used=455368 returned=MD AL AMIN KHAN gpa=4.50 attempts=9 error=None
+2026-11-09T16:47:02 [88/132] serial=88 status=ok roll_used=455369 returned=KHALID SIFULLA gpa=4.75 attempts=2 error=None
+2026-11-09T16:47:05 [89/132] serial=89 status=ok roll_used=455370 returned=MASFIAN ZARIF gpa=4.75 attempts=1 error=None
+2026-11-09T16:47:08 [90/132] serial=90 status=ok roll_used=455371 returned=MD. ISMAIL gpa=5.00 attempts=1 error=None
+2026-11-09T16:47:10 [91/132] serial=91 status=ok roll_used=455372 returned=JARIF MAHMUD LABIB gpa=4.83 attempts=1 error=None
+2026-11-09T16:47:14 [92/132] serial=92 status=ok roll_used=455373 returned=MD ASHIQUR RAHAMAN FAHIM gpa=5.00 attempts=1 error=None
+2026-11-09T16:47:17 [93/132] serial=93 status=ok roll_used=455374 returned=MD. NAZMUL HAQUE SIAM gpa=5.00 attempts=1 error=None
+2026-11-09T16:47:20 [94/132] serial=94 status=ok roll_used=455375 returned=ARAFAT HOSSAIN JISAN gpa=4.42 attempts=1 error=None
+2026-11-09T16:47:22 [95/132] serial=95 status=ok roll_used=455376 returned=MD. SANJID BHUYAN gpa=5.00 attempts=1 error=None
+2026-11-09T16:47:26 [96/132] serial=96 status=ok roll_used=455377 returned=SAJIDUR RAHMAN SOHAN gpa=4.67 attempts=1 error=None
+2026-11-09T16:47:29 [97/132] serial=97 status=ok roll_used=455378 returned=S.M. SIAM gpa=4.33 attempts=1 error=None
+2026-11-09T16:47:32 [98/132] serial=98 status=ok roll_used=455379 returned=MD IMRAN gpa=4.17 attempts=1 error=None
+2026-11-09T16:47:35 [99/132] serial=99 status=ok roll_used=455380 returned=FAHIM HASAN BABO gpa=4.08 attempts=1 error=None
+2026-11-09T16:47:36 [100/132] serial=100 status=ok roll_used=455381 returned=MD. SHAHADAT HOSSEN gpa=4.58 attempts=4 error=None
+2026-11-09T16:47:36 cool-down 20s
+2026-11-09T16:48:08 [101/132] serial=101 status=ok roll_used=455382 returned=MD. JAHEDUL ISLAM FARDIN gpa=4.58 attempts=10 error=None
+2026-11-09T16:48:12 [102/132] serial=102 status=ok roll_used=455383 returned=MD. ASHIKUR RAHMAN gpa=4.42 attempts=1 error=None
+2026-11-09T16:48:14 [103/132] serial=103 status=ok roll_used=455384 returned=SHATCHA DAS gpa=4.50 attempts=1 error=None
+2026-11-09T16:48:17 [104/132] serial=104 status=ok roll_used=455385 returned=MD. SAJEDUR ISLAM SAJIB gpa=4.67 attempts=1 error=None
+2026-11-09T16:48:20 [105/132] serial=105 status=ok roll_used=455386 returned=MD. TASIN ISTIAK gpa=4.00 attempts=1 error=None
+2026-11-09T16:48:23 [106/132] serial=106 status=ok roll_used=455387 returned=SAIKAT DAS gpa=None attempts=1 error=None
+2026-11-09T16:48:26 [107/132] serial=107 status=ok roll_used=455388 returned=TUSHER SIKDER gpa=None attempts=1 error=None
+2026-11-09T16:48:29 [108/132] serial=108 status=ok roll_used=455389 returned=MD. ABU TALHA gpa=5.00 attempts=1 error=None
+2026-11-09T16:48:31 [109/132] serial=109 status=ok roll_used=455390 returned=MUNSI MD. KHALAD SAIFULLAH gpa=4.75 attempts=1 error=None
+2026-11-09T16:48:34 [110/132] serial=110 status=ok roll_used=455391 returned=SIYAM ALAM gpa=4.33 attempts=1 error=None
+2026-11-09T16:48:37 [111/132] serial=111 status=ok roll_used=455392 returned=MD. MUTTUKI SHAHRIYAR SIYAM gpa=4.25 attempts=2 error=None
+2026-11-09T16:48:40 [112/132] serial=112 status=ok roll_used=455393 returned=SADAT BIN SAYED gpa=3.58 attempts=1 error=None
+2026-11-09T16:48:43 [113/132] serial=113 status=ok roll_used=455394 returned=MD. TORIKUL ISLAM gpa=4.08 attempts=1 error=None
+2026-11-09T16:48:46 [114/132] serial=114 status=ok roll_used=455395 returned=TANJUL HASAN gpa=4.42 attempts=1 error=None
+2026-11-09T16:48:48 [115/132] serial=115 status=ok roll_used=455396 returned=KAZI MOSTOFA MAHADI gpa=4.33 attempts=4 error=None
+2026-11-09T16:48:52 [116/132] serial=116 status=ok roll_used=455397 returned=MD NAFIZ HOSSAIN gpa=4.25 attempts=1 error=None
+2026-11-09T16:48:55 [117/132] serial=117 status=ok roll_used=455398 returned=AHMED EFTEKHAR RUDRO gpa=4.17 attempts=1 error=None
+2026-11-09T16:48:58 [118/132] serial=118 status=ok roll_used=455399 returned=M. M. JUBAYET HOSSAIN HEMAL gpa=4.58 attempts=1 error=None
+2026-11-09T16:49:01 [119/132] serial=119 status=ok roll_used=455400 returned=AZWAD ABRAR gpa=4.58 attempts=1 error=None
+2026-11-09T16:49:04 [120/132] serial=120 status=ok roll_used=455401 returned=MD. AHSANUL HAQUE SHIMANTU gpa=4.92 attempts=1 error=None
+2026-11-09T16:49:07 [121/132] serial=121 status=ok roll_used=455402 returned=ABDULLAH AL ARAF gpa=4.42 attempts=1 error=None
+2026-11-09T16:49:10 [122/132] serial=122 status=ok roll_used=455403 returned=MAHID RAIYAN gpa=3.92 attempts=1 error=None
+2026-11-09T16:49:12 [123/132] serial=123 status=ok roll_used=455404 returned=NAZMUL ALAM RAFI gpa=4.25 attempts=1 error=None
+2026-11-09T16:49:16 [124/132] serial=124 status=ok roll_used=455405 returned=ALIF ISLAM MEYAD gpa=4.25 attempts=1 error=None
+2026-11-09T16:49:18 [125/132] serial=125 status=ok roll_used=455406 returned=MOHAMMAD ABDUR RAHMAN ADIB gpa=3.92 attempts=1 error=None
+2026-11-09T16:49:21 [126/132] serial=126 status=ok roll_used=455407 returned=MD. TURAJ gpa=5.00 attempts=1 error=None
+2026-11-09T16:49:24 [127/132] serial=127 status=ok roll_used=455408 returned=MAHRUF AHMED SUDDY gpa=4.33 attempts=1 error=None
+2026-11-09T16:49:27 [128/132] serial=128 status=ok roll_used=455409 returned=MD. YEASIN ARAFAT gpa=4.50 attempts=1 error=None
+2026-11-09T16:49:30 [129/132] serial=129 status=ok roll_used=455410 returned=MD. MAHIN KHAN gpa=5.00 attempts=1 error=None
+2026-11-09T16:49:33 [130/132] serial=130 status=ok roll_used=455411 returned=ABU BAKKAR SIDDIQ OURPON gpa=4.00 attempts=1 error=None
+2026-11-09T16:49:36 [131/132] serial=131 status=ok roll_used=455412 returned=MD. SUJON gpa=3.42 attempts=1 error=None
+2026-11-09T16:49:40 [132/132] serial=132 status=ok roll_used=455413 returned=ASVI RAHMAN AYON gpa=4.00 attempts=6 error=None
+2026-11-09T16:49:40 done total=132 counts={'ok': 132} verified=131 elapsed=00:07:20

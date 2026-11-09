@@ -1,0 +1,467 @@
+{
+  "total_checked": 141,
+  "paid_count": 132,
+  "unpaid_count": 9,
+  "unpaid_rolls": [
+    "1202425020006",
+    "1202425020010",
+    "1202425020027",
+    "1202425020034",
+    "1202425020091",
+    "1202425020115",
+    "1202425020136",
+    "1202425020141",
+    "1202425020144"
+  ],
+  "students": [
+    {
+      "roll": "1202425020006",
+      "name": "MD FOYSAL ISLAM",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715044330.JPG",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 5,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020010",
+      "name": "MD. ALI ABU BOKKAR WASI",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715053302.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 9,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020027",
+      "name": "MD. SALMAN",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715070748.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 26,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020034",
+      "name": "SAJID AL RAKIN",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715081037.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "129 - Statistics 1st paper",
+          "paper_2": "130 - Statistics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 33,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020091",
+      "name": "G. M. RIFAT RAIYAN",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003074914.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 88,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020115",
+      "name": "MONIR HOSEN",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827154225.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 112,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020136",
+      "name": "ARKO ROY",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730080858.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+          "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 131,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020141",
+      "name": "FARDIN FAZLE FAHIM",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003091122.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "109 - Economics 1st paper",
+          "paper_2": "110 - Economics 2nd paper",
+          "type": "Fourth"
+        },
+        {
+          "paper_1": "286 - Production Management and Marketing 1st paper",
+          "paper_2": "287 - Production Management and Marketing 2nd paper",
+          "type": "Elective"
+        }
+      ],
+      "id": 136,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    },
+    {
+      "roll": "1202425020144",
+      "name": "MASHRAFI",
+      "student_group": "Business Studies",
+      "department": "HSC - Business Studies",
+      "session": "2024-2025",
+      "academic_year": "1",
+      "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144606.jpg",
+      "subjects": [
+        {
+          "paper_1": "101 - Bangla 1st paper",
+          "paper_2": "102 - Bangla 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "107 - English 1st paper",
+          "paper_2": "108 - English 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "253 - Accounting 1st paper",
+          "paper_2": "254 - Accounting 2nd paper",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "275 - ICT",
+          "paper_2": "",
+          "type": "Mandatory"
+        },
+        {
+          "paper_1": "277 - Business Organization & Management  1st paper",
+          "paper_2": "278 - Business Organization & Management 2nd paper",
+          "type": "Mandatory"
+        }
+      ],
+      "id": 139,
+      "unpaid_reason": "missing_form_fill_up",
+      "other_fee_types": [
+        "New Admission without ICT"
+      ]
+    }
+  ]
+}

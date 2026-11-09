@@ -1,0 +1,2871 @@
+{
+  "1202425030005": {
+    "roll": "1202425030005",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030005.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485254",
+        "tx_no": "DC87TXOVU5",
+        "tx_date": "08-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TAWRAT ZAMAN"
+      }
+    ]
+  },
+  "1202425030009": {
+    "roll": "1202425030009",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030009.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484924",
+        "tx_no": "DC68RC27P0",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SHEIKH TASRIF"
+      }
+    ]
+  },
+  "1202425030007": {
+    "roll": "1202425030007",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030007.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484922",
+        "tx_no": "DC37MYIIJB",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SORROWER HOSSAIN"
+      }
+    ]
+  },
+  "1202425030001": {
+    "roll": "1202425030001",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030001.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484917",
+        "tx_no": "DC23LIU9DH",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SIAM KHAN THAKUR"
+      }
+    ]
+  },
+  "1202425030012": {
+    "roll": "1202425030012",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030012.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484927",
+        "tx_no": "DC13L3T11N",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. HABIBUR RAHMAN TUSHAR"
+      }
+    ]
+  },
+  "1202425030002": {
+    "roll": "1202425030002",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030002.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484918",
+        "tx_no": "DC11LF4J07",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. RUHITUZZAMAN NISHAT"
+      }
+    ]
+  },
+  "1202425030006": {
+    "roll": "1202425030006",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030006.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484921",
+        "tx_no": "DC36MYI2IM",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. FAYAZ AHMED SHAWON"
+      }
+    ]
+  },
+  "1202425030008": {
+    "roll": "1202425030008",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030008.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484923",
+        "tx_no": "DC21MJFR35",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "YAKEEN AHMED JAHAN"
+      }
+    ]
+  },
+  "1202425030004": {
+    "roll": "1202425030004",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030004.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484920",
+        "tx_no": "DC21MLHYCF",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. NISAT ANAN SOPNO"
+      }
+    ]
+  },
+  "1202425030011": {
+    "roll": "1202425030011",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030011.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484926",
+        "tx_no": "DC24M0UMAA",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TARIQUL ISLAM"
+      }
+    ]
+  },
+  "1202425030010": {
+    "roll": "1202425030010",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030010.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484925",
+        "tx_no": "DC41O359JB",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. IMRAN HASAN (BIPLOB)"
+      }
+    ]
+  },
+  "1202425030003": {
+    "roll": "1202425030003",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030003.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484919",
+        "tx_no": "DC14L2ESVS",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ROUDRO MAHMUD"
+      }
+    ]
+  },
+  "1202425030014": {
+    "roll": "1202425030014",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030014.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484929",
+        "tx_no": "DC49OBY45B",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TAYEF AL MAHMUD"
+      }
+    ]
+  },
+  "1202425030013": {
+    "roll": "1202425030013",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030013.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484928",
+        "tx_no": "2603019012298222",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. RAKIBUL ISLAM"
+      }
+    ]
+  },
+  "1202425030015": {
+    "roll": "1202425030015",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030015.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484930",
+        "tx_no": "2603039012296135",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MUBARAK HASAN"
+      }
+    ]
+  },
+  "1202425030021": {
+    "roll": "1202425030021",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030021.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484936",
+        "tx_no": "DC13KTB07B",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MAHFUZUR RAHMAN"
+      }
+    ]
+  },
+  "1202425030023": {
+    "roll": "1202425030023",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030023.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484938",
+        "tx_no": "DC27LY356X",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SK. MD. SHADMAN SAKI"
+      }
+    ]
+  },
+  "1202425030016": {
+    "roll": "1202425030016",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030016.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484931",
+        "tx_no": "DC34NANS6Y",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "K.M.A TAWAB"
+      }
+    ]
+  },
+  "1202425030018": {
+    "roll": "1202425030018",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030018.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484933",
+        "tx_no": "DC46OH8FBG",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ARIAN RANA SAD"
+      }
+    ]
+  },
+  "1202425030017": {
+    "roll": "1202425030017",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030017.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484932",
+        "tx_no": "DC29LXWZ1R",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MEHEDI HASAN"
+      }
+    ]
+  },
+  "1202425030019": {
+    "roll": "1202425030019",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030019.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484934",
+        "tx_no": "DC34MX883A",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MAHMUD RAHMAN"
+      }
+    ]
+  },
+  "1202425030020": {
+    "roll": "1202425030020",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030020.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484935",
+        "tx_no": "DC57PG1CL7",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ARFAN AHAMMED TAHSIN"
+      }
+    ]
+  },
+  "1202425030022": {
+    "roll": "1202425030022",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030022.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484937",
+        "tx_no": "2603029012245752",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. OMAR AL MAHADI SAHED"
+      }
+    ]
+  },
+  "1202425030025": {
+    "roll": "1202425030025",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030025.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484940",
+        "tx_no": "DC15L12EP7",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABDULLAH AL ROMAN"
+      }
+    ]
+  },
+  "1202425030024": {
+    "roll": "1202425030024",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030024.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484939",
+        "tx_no": "DC48NX3DMY",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "OLI ULLAH"
+      }
+    ]
+  },
+  "1202425030026": {
+    "roll": "1202425030026",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030026.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484941",
+        "tx_no": "2603029012247640",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. MOMINUN TARAFDER"
+      }
+    ]
+  },
+  "1202425030027": {
+    "roll": "1202425030027",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030027.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484942",
+        "tx_no": "DC83SVV2A1",
+        "tx_date": "08-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TACHIN IKBAL"
+      }
+    ]
+  },
+  "1202425030028": {
+    "roll": "1202425030028",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030028.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484943",
+        "tx_no": "DC35MSIKI9",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TAHSIN AHMED"
+      }
+    ]
+  },
+  "1202425030029": {
+    "roll": "1202425030029",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030029.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484944",
+        "tx_no": "DC91UKD2XX",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "NOUSHIN AHAMED NIROB"
+      }
+    ]
+  },
+  "1202425030033": {
+    "roll": "1202425030033",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030033.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484948",
+        "tx_no": "DC27ME9VI3",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ABDUL ALIM"
+      }
+    ]
+  },
+  "1202425030034": {
+    "roll": "1202425030034",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030034.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484949",
+        "tx_no": "DC23M6HYDL",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ASADUZZAMAN ASHIK"
+      }
+    ]
+  },
+  "1202425030031": {
+    "roll": "1202425030031",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030031.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484946",
+        "tx_no": "DC70SHK94M",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "RABBIL SARKER"
+      }
+    ]
+  },
+  "1202425030030": {
+    "roll": "1202425030030",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030030.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484945",
+        "tx_no": "DC37MZ09ZL",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ISTIAK AHMED SAIDI"
+      }
+    ]
+  },
+  "1202425030032": {
+    "roll": "1202425030032",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030032.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484947",
+        "tx_no": "DC37NKKEMX",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ARSHADUL HAQ"
+      }
+    ]
+  },
+  "1202425030036": {
+    "roll": "1202425030036",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030036.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484951",
+        "tx_no": "DC39NRI4WZ",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ABIR HASSAN"
+      }
+    ]
+  },
+  "1202425030035": {
+    "roll": "1202425030035",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030035.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484950",
+        "tx_no": "DC13L8L8Q9",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABDULLAH AL ARIF"
+      }
+    ]
+  },
+  "1202425030038": {
+    "roll": "1202425030038",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030038.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484952",
+        "tx_no": "DC23MK2GM1",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SADNAN NAFIS"
+      }
+    ]
+  },
+  "1202425030039": {
+    "roll": "1202425030039",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030039.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484954",
+        "tx_no": "DC54P4QOLO",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD.SAMIUL ISLAM"
+      }
+    ]
+  },
+  "1202425030037": {
+    "roll": "1202425030037",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030037.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484953",
+        "tx_no": "DC24LXGM70",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. HASHINUZZAMAN ZIHAD"
+      }
+    ]
+  },
+  "1202425030040": {
+    "roll": "1202425030040",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030040.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484955",
+        "tx_no": "DC58PXYUUG",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SHAKIB AL HASAN"
+      }
+    ]
+  },
+  "1202425030041": {
+    "roll": "1202425030041",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030041.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "113378",
+        "tx_no": "BGF25V6C3A",
+        "tx_date": "15-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "NETAI SARKER"
+      }
+    ]
+  },
+  "1202425030042": {
+    "roll": "1202425030042",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030042.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484956",
+        "tx_no": "2603019012236390",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "ABDULLA  AL MUJAHID"
+      }
+    ]
+  },
+  "1202425030045": {
+    "roll": "1202425030045",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030045.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484959",
+        "tx_no": "2603019012267015",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "SADMAN MUHTAMIM REMIM"
+      }
+    ]
+  },
+  "1202425030043": {
+    "roll": "1202425030043",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030043.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484957",
+        "tx_no": "DC26MK5RU2",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ADNAN AHMED SIDDIQUE"
+      }
+    ]
+  },
+  "1202425030044": {
+    "roll": "1202425030044",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030044.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484958",
+        "tx_no": "DC25LY9PUL",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SYED TANJIM AHAMAD"
+      }
+    ]
+  },
+  "1202425030048": {
+    "roll": "1202425030048",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030048.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484962",
+        "tx_no": "DC63R9ZG33",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "NAIMUL ISLAM ABID"
+      }
+    ]
+  },
+  "1202425030047": {
+    "roll": "1202425030047",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030047.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484961",
+        "tx_no": "DC70SFYTC2",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD.RYAN ISLAM"
+      }
+    ]
+  },
+  "1202425030046": {
+    "roll": "1202425030046",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030046.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484960",
+        "tx_no": "2603019012243708",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. TANVIR ADNAN LABIB"
+      }
+    ]
+  },
+  "1202425030049": {
+    "roll": "1202425030049",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030049.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484963",
+        "tx_no": "DC29M8JAAP",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ZIDAN ABRAR"
+      }
+    ]
+  },
+  "1202425030050": {
+    "roll": "1202425030050",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030050.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484964",
+        "tx_no": "DC25MAN14Z",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MOHAMMAD WAKIL UDDIN SHAHID"
+      }
+    ]
+  },
+  "1202425030051": {
+    "roll": "1202425030051",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030051.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484965",
+        "tx_no": "DC23LRF3F7",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD AL FAHAD"
+      }
+    ]
+  },
+  "1202425030052": {
+    "roll": "1202425030052",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "Promotion",
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030052.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "204320",
+        "tx_no": "CHP0S9F22E",
+        "tx_date": "25-Aug-2025",
+        "fee_type": "Promotion",
+        "amount": "3,924",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. HANNAN SHAH"
+      },
+      {
+        "receipt_id": "113467",
+        "tx_no": "BGF664M0M2",
+        "tx_date": "15-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. HANNAN SHAH"
+      }
+    ]
+  },
+  "1202425030053": {
+    "roll": "1202425030053",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030053.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484967",
+        "tx_no": "DC36N1KUBQ",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. RAKIB HOSSAIN"
+      }
+    ]
+  },
+  "1202425030054": {
+    "roll": "1202425030054",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030054.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484968",
+        "tx_no": "DC94UB5XRI",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ISRAFIL MOHIM"
+      }
+    ]
+  },
+  "1202425030055": {
+    "roll": "1202425030055",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030055.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484969",
+        "tx_no": "DC27LXUN5Z",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MUHTASIM AREFIN"
+      }
+    ]
+  },
+  "1202425030057": {
+    "roll": "1202425030057",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030057.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484971",
+        "tx_no": "DC23M46SNF",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ARAFAT HOSSAIN"
+      }
+    ]
+  },
+  "1202425030056": {
+    "roll": "1202425030056",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030056.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484970",
+        "tx_no": "DC28M1MCTW",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. FAHIM RAJ BAPPI"
+      }
+    ]
+  },
+  "1202425030058": {
+    "roll": "1202425030058",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030058.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484972",
+        "tx_no": "DC48O30FTM",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABDUL MOTALAB"
+      }
+    ]
+  },
+  "1202425030060": {
+    "roll": "1202425030060",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030060.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "113564",
+        "tx_no": "BGG56E255N",
+        "tx_date": "16-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "NAZMUL ZIHAD RABBI"
+      }
+    ]
+  },
+  "1202425030059": {
+    "roll": "1202425030059",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030059.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484973",
+        "tx_no": "DC66QU802K",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MARUF"
+      }
+    ]
+  },
+  "1202425030061": {
+    "roll": "1202425030061",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030061.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484974",
+        "tx_no": "6231266336",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "rocket",
+        "student_name_on_receipt": "A B M RUBAYET SHAFI"
+      }
+    ]
+  },
+  "1202425030062": {
+    "roll": "1202425030062",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030062.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484975",
+        "tx_no": "2603019012235205",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "RAKIBUL ISLAM RAFI"
+      }
+    ]
+  },
+  "1202425030063": {
+    "roll": "1202425030063",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030063.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484976",
+        "tx_no": "6231259942",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "rocket",
+        "student_name_on_receipt": "TAREK MUNAWAR"
+      }
+    ]
+  },
+  "1202425030064": {
+    "roll": "1202425030064",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030064.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484977",
+        "tx_no": "2603019012328290",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. JISHAN AHMMED"
+      }
+    ]
+  },
+  "1202425030067": {
+    "roll": "1202425030067",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030067.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484979",
+        "tx_no": "DC48O8HCO8",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MOSTAFIZUR RAHMAN NAFIZ"
+      }
+    ]
+  },
+  "1202425030069": {
+    "roll": "1202425030069",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030069.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484981",
+        "tx_no": "DC47OO18D7",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "RIFAT SARKAR"
+      }
+    ]
+  },
+  "1202425030070": {
+    "roll": "1202425030070",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030070.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484982",
+        "tx_no": "DC32N6Y6US",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. RAMIM KHAN"
+      }
+    ]
+  },
+  "1202425030068": {
+    "roll": "1202425030068",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030068.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484980",
+        "tx_no": "DC36NGNG26",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MUBTASIM PATHAN"
+      }
+    ]
+  },
+  "1202425030066": {
+    "roll": "1202425030066",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030066.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484978",
+        "tx_no": "DC22M9O8TA",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SUHAN MIA"
+      }
+    ]
+  },
+  "1202425030071": {
+    "roll": "1202425030071",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030071.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484983",
+        "tx_no": "DC37MV1W1Z",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABDUL AZIZ"
+      }
+    ]
+  },
+  "1202425030073": {
+    "roll": "1202425030073",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030073.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484985",
+        "tx_no": "DC21MGA89L",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "JAEID BIN AHSAN"
+      }
+    ]
+  },
+  "1202425030074": {
+    "roll": "1202425030074",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030074.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484986",
+        "tx_no": "DC55P1MYKN",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "S. M. ASHFAQ ALAM"
+      }
+    ]
+  },
+  "1202425030072": {
+    "roll": "1202425030072",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030072.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484984",
+        "tx_no": "DC56PY9JRW",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MAJJIDUL HOSSEN PRANTO"
+      }
+    ]
+  },
+  "1202425030075": {
+    "roll": "1202425030075",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030075.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484987",
+        "tx_no": "DC26LRCBPU",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. RAKIBUL ISLAM"
+      }
+    ]
+  },
+  "1202425030077": {
+    "roll": "1202425030077",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030077.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "113732",
+        "tx_no": "BGG6723MEI",
+        "tx_date": "16-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SAJEDUR RAHMAN SAZED"
+      }
+    ]
+  },
+  "1202425030076": {
+    "roll": "1202425030076",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030076.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484988",
+        "tx_no": "DC29MAVUFB",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SOYKOT SIKDER"
+      }
+    ]
+  },
+  "1202425030079": {
+    "roll": "1202425030079",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030079.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484990",
+        "tx_no": "2603019012243734",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. MAHI ALAM"
+      }
+    ]
+  },
+  "1202425030078": {
+    "roll": "1202425030078",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030078.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484989",
+        "tx_no": "2603039012366407",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "ARIYAN YOUSUF"
+      }
+    ]
+  },
+  "1202425030082": {
+    "roll": "1202425030082",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030082.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484992",
+        "tx_no": "DC23MACZ63",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SHAHRIAR TAMIM"
+      }
+    ]
+  },
+  "1202425030084": {
+    "roll": "1202425030084",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030084.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485599",
+        "tx_no": "DFF0D1JQ0G",
+        "tx_date": "15-Jun-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,585",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. FAHAD"
+      }
+    ]
+  },
+  "1202425030085": {
+    "roll": "1202425030085",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030085.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484995",
+        "tx_no": "DC17L3D3X9",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SABBIR RAHMAN BIDDUT"
+      }
+    ]
+  },
+  "1202425030081": {
+    "roll": "1202425030081",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030081.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484991",
+        "tx_no": "DC31MZSOZ7",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TANJIM SARKER"
+      }
+    ]
+  },
+  "1202425030083": {
+    "roll": "1202425030083",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030083.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484993",
+        "tx_no": "DC54PQBUG6",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ADHAM IBNE TAHMID SAKIL"
+      }
+    ]
+  },
+  "1202425030086": {
+    "roll": "1202425030086",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030086.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484994",
+        "tx_no": "DC99U1X16X",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "NURUJ SHAFA"
+      }
+    ]
+  },
+  "1202425030090": {
+    "roll": "1202425030090",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030090.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484999",
+        "tx_no": "DC73SFY8IF",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABIR HOSSAIN"
+      }
+    ]
+  },
+  "1202425030087": {
+    "roll": "1202425030087",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030087.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484996",
+        "tx_no": "DC42OE8SZI",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "SREE GOPAL CHANDRA DAS"
+      }
+    ]
+  },
+  "1202425030088": {
+    "roll": "1202425030088",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030088.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484997",
+        "tx_no": "DC55PGE7K3",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "A.H.M. FAHIM MUNTASIR NABIL"
+      }
+    ]
+  },
+  "1202425030091": {
+    "roll": "1202425030091",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030091.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485000",
+        "tx_no": "DC35N8VMW9",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MAHADEB DEBNATH"
+      }
+    ]
+  },
+  "1202425030092": {
+    "roll": "1202425030092",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030092.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485001",
+        "tx_no": "DC32N8112W",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "AL-FAHAD"
+      }
+    ]
+  },
+  "1202425030089": {
+    "roll": "1202425030089",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030089.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "484998",
+        "tx_no": "DC62QYGPJC",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SHAZEED HOSSAIN"
+      }
+    ]
+  },
+  "1202425030096": {
+    "roll": "1202425030096",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030096.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485004",
+        "tx_no": "6229341743",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "rocket",
+        "student_name_on_receipt": "KHAN MD. MEHEDI HASAN"
+      }
+    ]
+  },
+  "1202425030095": {
+    "roll": "1202425030095",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030095.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485003",
+        "tx_no": "2603019012238186",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. RASHIDUL ISLAM RAHAT"
+      }
+    ]
+  },
+  "1202425030094": {
+    "roll": "1202425030094",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030094.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485002",
+        "tx_no": "DC30MZ1VMY",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "GOLAM MUSFIQ KHAN"
+      }
+    ]
+  },
+  "1202425030098": {
+    "roll": "1202425030098",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030098.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485006",
+        "tx_no": "DC37NL4KQ3",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABU BAKAR SIDDIK"
+      }
+    ]
+  },
+  "1202425030097": {
+    "roll": "1202425030097",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030097.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485005",
+        "tx_no": "DC22LYEPPI",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "HARUN OR RASHID SAJIB"
+      }
+    ]
+  },
+  "1202425030101": {
+    "roll": "1202425030101",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030101.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485009",
+        "tx_no": "DC74SKTSYK",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TAUSIF AHAMED"
+      }
+    ]
+  },
+  "1202425030099": {
+    "roll": "1202425030099",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030099.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485007",
+        "tx_no": "DC81SX5839",
+        "tx_date": "08-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SAJADUR RAHMAN JADID"
+      }
+    ]
+  },
+  "1202425030102": {
+    "roll": "1202425030102",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030102.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485010",
+        "tx_no": "DC47NTRTCR",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. NIFAUR RAHMAN"
+      }
+    ]
+  },
+  "1202425030103": {
+    "roll": "1202425030103",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030103.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485011",
+        "tx_no": "DC28MC6FMQ",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "KHALID HASAN BAPPY"
+      }
+    ]
+  },
+  "1202425030100": {
+    "roll": "1202425030100",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030100.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485008",
+        "tx_no": "DC22MLABYE",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. NABIL AL SAROWER SARKER"
+      }
+    ]
+  },
+  "1202425030104": {
+    "roll": "1202425030104",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030104.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485012",
+        "tx_no": "DC20LWHEX8",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD.SIAM TALUKDER"
+      }
+    ]
+  },
+  "1202425030106": {
+    "roll": "1202425030106",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030106.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485013",
+        "tx_no": "DC69R9WJ61",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TAHMID HOSSAIN"
+      }
+    ]
+  },
+  "1202425030108": {
+    "roll": "1202425030108",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030108.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485015",
+        "tx_no": "DC47O61CUJ",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TAHMID RAHMAN TONMOY"
+      }
+    ]
+  },
+  "1202425030109": {
+    "roll": "1202425030109",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030109.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485016",
+        "tx_no": "DC28MKSX8M",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SAIF UDDIN MASUM"
+      }
+    ]
+  },
+  "1202425030107": {
+    "roll": "1202425030107",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030107.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485014",
+        "tx_no": "DC51PFZN7L",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MARUF ISLAM"
+      }
+    ]
+  },
+  "1202425030111": {
+    "roll": "1202425030111",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030111.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "113774",
+        "tx_no": "BGQ9A8YQGF",
+        "tx_date": "26-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ANSAR UDDIN AHAMMAD"
+      }
+    ]
+  },
+  "1202425030112": {
+    "roll": "1202425030112",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030112.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485018",
+        "tx_no": "DC46O6RZ3G",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TOUFIQUL ISLAM TONMOY"
+      }
+    ]
+  },
+  "1202425030110": {
+    "roll": "1202425030110",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030110.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485017",
+        "tx_no": "DC74RHAKQO",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ASRAFUL ALAM RAFI"
+      }
+    ]
+  },
+  "1202425030114": {
+    "roll": "1202425030114",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030114.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485020",
+        "tx_no": "DC42OZRXUI",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MASUM BILLAH SEFAT"
+      }
+    ]
+  },
+  "1202425030115": {
+    "roll": "1202425030115",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030115.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485021",
+        "tx_no": "DC55PRVNLD",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "TANVIR RAHMAN MAHEDI"
+      }
+    ]
+  },
+  "1202425030113": {
+    "roll": "1202425030113",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030113.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485019",
+        "tx_no": "2603019012436431",
+        "tx_date": "08-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. YEASIR ARAFAT"
+      }
+    ]
+  },
+  "1202425030117": {
+    "roll": "1202425030117",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030117.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485023",
+        "tx_no": "DC29MBQ8JD",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. NAKIB MAHMUD"
+      }
+    ]
+  },
+  "1202425030116": {
+    "roll": "1202425030116",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030116.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485022",
+        "tx_no": "DC11KL6WU7",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "ABRAR RAHMAN DRUVO"
+      }
+    ]
+  },
+  "1202425030119": {
+    "roll": "1202425030119",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030119.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485296",
+        "tx_no": "6254096315",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "rocket",
+        "student_name_on_receipt": "HUSSAIN AHAMMAD"
+      }
+    ]
+  },
+  "1202425030120": {
+    "roll": "1202425030120",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030120.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485024",
+        "tx_no": "2603019012232870",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. SHAHRIYA HASAN SIFAT"
+      }
+    ]
+  },
+  "1202425030121": {
+    "roll": "1202425030121",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030121.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485025",
+        "tx_no": "DC54Q44RJO",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MUHAMMAD OBAIDULLA KHAN"
+      }
+    ]
+  },
+  "1202425030124": {
+    "roll": "1202425030124",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030124.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485027",
+        "tx_no": "DC44OJFTXY",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "RADJWAN AHAMMED"
+      }
+    ]
+  },
+  "1202425030123": {
+    "roll": "1202425030123",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030123.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485297",
+        "tx_no": "DC95UGMP2P",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "JUNAID AL HABIB"
+      }
+    ]
+  },
+  "1202425030122": {
+    "roll": "1202425030122",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030122.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485026",
+        "tx_no": "DC43OQ767D",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "BORSON BANIK"
+      }
+    ]
+  },
+  "1202425030125": {
+    "roll": "1202425030125",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030125.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485028",
+        "tx_no": "DC23MBJ6EL",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SIAM KHAN"
+      }
+    ]
+  },
+  "1202425030128": {
+    "roll": "1202425030128",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030128.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485030",
+        "tx_no": "DC46O1RP5Y",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "JUBAER HOSSAIN SIAM"
+      }
+    ]
+  },
+  "1202425030127": {
+    "roll": "1202425030127",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030127.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485029",
+        "tx_no": "DC46O2D0VG",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MOSHIUR RAHMAN PRODANIA"
+      }
+    ]
+  },
+  "1202425030129": {
+    "roll": "1202425030129",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030129.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485031",
+        "tx_no": "DC30NCT9R0",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SAIFUL ISLAM JABED"
+      }
+    ]
+  },
+  "1202425030130": {
+    "roll": "1202425030130",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030130.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485032",
+        "tx_no": "DC43NVRJRB",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. TANVIRUL ISLAM"
+      }
+    ]
+  },
+  "1202425030131": {
+    "roll": "1202425030131",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030131.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485033",
+        "tx_no": "DC10L1QUDY",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MOHAMMAD BAKI BILLAH"
+      }
+    ]
+  },
+  "1202425030133": {
+    "roll": "1202425030133",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030133.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485035",
+        "tx_no": "DC50P47JMI",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD.TALHA JOBAYER"
+      }
+    ]
+  },
+  "1202425030132": {
+    "roll": "1202425030132",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030132.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485034",
+        "tx_no": "2603059012340673",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. MUSTAFIZUR RAHMAN SWEET"
+      }
+    ]
+  },
+  "1202425030134": {
+    "roll": "1202425030134",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030134.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485036",
+        "tx_no": "DC61R5N7L3",
+        "tx_date": "06-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD AINUDDIN KHAN"
+      }
+    ]
+  },
+  "1202425030137": {
+    "roll": "1202425030137",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030137.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485039",
+        "tx_no": "DC76SLP35E",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MOHIUDDIN"
+      }
+    ]
+  },
+  "1202425030136": {
+    "roll": "1202425030136",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030136.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485038",
+        "tx_no": "DC78SKZ03M",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "RASHEL MIA"
+      }
+    ]
+  },
+  "1202425030139": {
+    "roll": "1202425030139",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030139.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "114006",
+        "tx_no": "BGV0DQRA1I",
+        "tx_date": "31-Jul-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. MAHMUDUL HASAN"
+      }
+    ]
+  },
+  "1202425030135": {
+    "roll": "1202425030135",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030135.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485037",
+        "tx_no": "DC40O6JVC8",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. HEMEL AHAMMED"
+      }
+    ]
+  },
+  "1202425030143": {
+    "roll": "1202425030143",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030143.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485043",
+        "tx_no": "DC18KY1PQW",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "Md. Moshirul Hasan"
+      }
+    ]
+  },
+  "1202425030138": {
+    "roll": "1202425030138",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030138.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485054",
+        "tx_no": "DC91UCYNE3",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. OBAIDULLAH TAREK"
+      }
+    ]
+  },
+  "1202425030140": {
+    "roll": "1202425030140",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030140.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485040",
+        "tx_no": "DC37NF75D9",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. ZOBAYER"
+      }
+    ]
+  },
+  "1202425030144": {
+    "roll": "1202425030144",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030144.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485044",
+        "tx_no": "DC16KLE3KI",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "Maruf Hasan"
+      }
+    ]
+  },
+  "1202425030142": {
+    "roll": "1202425030142",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030142.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485042",
+        "tx_no": "DC20LTXU6Q",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SHAOUN"
+      }
+    ]
+  },
+  "1202425030141": {
+    "roll": "1202425030141",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030141.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485041",
+        "tx_no": "DC51P8R7B3",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SOJIB"
+      }
+    ]
+  },
+  "1202425030147": {
+    "roll": "1202425030147",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030147.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485047",
+        "tx_no": "6221631016",
+        "tx_date": "01-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,765",
+        "bank_name": "rocket",
+        "student_name_on_receipt": "K. M. NAYEEM  ISLAM"
+      }
+    ]
+  },
+  "1202425030146": {
+    "roll": "1202425030146",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030146.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485046",
+        "tx_no": "DC38N3LFX8",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "Nahiyan Jawad Judan"
+      }
+    ]
+  },
+  "1202425030148": {
+    "roll": "1202425030148",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030148.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485048",
+        "tx_no": "DC22MBO8WK",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "JIHADUL ISLAM SIFAT"
+      }
+    ]
+  },
+  "1202425030149": {
+    "roll": "1202425030149",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030149.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485049",
+        "tx_no": "DC51PDEQY9",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SIYEM SHEAK"
+      }
+    ]
+  },
+  "1202425030151": {
+    "roll": "1202425030151",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030151.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485050",
+        "tx_no": "DC45O4XSW9",
+        "tx_date": "04-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MUNTASIM HASAN"
+      }
+    ]
+  },
+  "1202425030145": {
+    "roll": "1202425030145",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030145.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485045",
+        "tx_no": "DC74SNA134",
+        "tx_date": "07-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "Md. Toriqul Islam"
+      }
+    ]
+  },
+  "1202425030150": {
+    "roll": "1202425030150",
+    "paid": false,
+    "reason": "missing_form_fill_up",
+    "other_fee_types": [
+      "New Admission without ICT"
+    ],
+    "files": [
+      "1202425030150.pdf"
+    ],
+    "entries": [],
+    "all_entries": [
+      {
+        "receipt_id": "114147",
+        "tx_no": "BHU465OQ9Y",
+        "tx_date": "30-Aug-2024",
+        "fee_type": "New Admission without ICT",
+        "amount": "4,456",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. SHARIFUL ISLAM"
+      }
+    ]
+  },
+  "1202425030154": {
+    "roll": "1202425030154",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030154.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485052",
+        "tx_no": "2603039012271772",
+        "tx_date": "03-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,625",
+        "bank_name": "sonali",
+        "student_name_on_receipt": "MD. SHIHAB SHA"
+      }
+    ]
+  },
+  "1202425030153": {
+    "roll": "1202425030153",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030153.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485051",
+        "tx_no": "DC25MEFVML",
+        "tx_date": "02-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. AHOSAN HABIB SOBUJ"
+      }
+    ]
+  },
+  "1202425030152": {
+    "roll": "1202425030152",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030152.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485299",
+        "tx_no": "DC93UJAMUH",
+        "tx_date": "09-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MEHEDI HASAN  MARUF"
+      }
+    ]
+  },
+  "1202425030155": {
+    "roll": "1202425030155",
+    "paid": true,
+    "reason": "paid",
+    "files": [
+      "1202425030155.pdf"
+    ],
+    "entries": [
+      {
+        "receipt_id": "485053",
+        "tx_no": "DC51Q4BJSN",
+        "tx_date": "05-Mar-2026",
+        "fee_type": "Form fill-up",
+        "amount": "2,485",
+        "bank_name": "bKash",
+        "student_name_on_receipt": "MD. AFFAN"
+      }
+    ]
+  }
+}

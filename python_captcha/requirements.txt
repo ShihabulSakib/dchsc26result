@@ -1,0 +1,25 @@
+# Core Dependencies for Education Board Result Scraper & CAPTCHA Solver
+# Compatible with Python 3.9+ (including Python 3.12 & 3.13)
+
+# HTTP networking with session pooling & retry logic
+requests>=2.28.0
+
+# Numerical operations for image arrays & contour manipulation
+numpy>=1.24.0
+
+# Computer Vision & morphology for CAPTCHA image thresholding & segmentation
+# Note: Either opencv-python or opencv-python-headless can be used.
+opencv-python>=4.8.0
+
+# Image handling & preprocessing
+Pillow>=9.5.0
+
+# HTML parsing (for Dhaka College portal & fee receipt tables)
+beautifulsoup4>=4.12.0
+urllib3>=2.0.0
+
+# --- OCR Engines ---
+# Required: uses the system tesseract-ocr binary (sudo apt install tesseract-ocr)
+pytesseract>=0.3.10
+# Optional deep-learning fallback only if tesseract is unavailable (PyTorch-based)
+# easyocr>=1.7.0

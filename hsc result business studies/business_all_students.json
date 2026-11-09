@@ -1,0 +1,6619 @@
+[
+  {
+    "roll": "1202425020001",
+    "name": "AL MAHIMUZZAMAN ANANTA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913143750.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "roll": "1202425020002",
+    "name": "A.K.M. SIRAJ HABIB AHMED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715041940.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "roll": "1202425020003",
+    "name": "FARDIN RAHMAN NABIL",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715042435.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 3
+  },
+  {
+    "roll": "1202425020004",
+    "name": "MAHIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715035524.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 4
+  },
+  {
+    "roll": "1202425020006",
+    "name": "MD FOYSAL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715044330.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 5
+  },
+  {
+    "roll": "1202425020007",
+    "name": "MD. AHNAF HOSSAIN ADIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715044712.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 6
+  },
+  {
+    "roll": "1202425020008",
+    "name": "BAPPI HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715050149.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 7
+  },
+  {
+    "roll": "1202425020009",
+    "name": "MD. TASHIN ALAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715052740.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 8
+  },
+  {
+    "roll": "1202425020010",
+    "name": "MD. ALI ABU BOKKAR WASI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715053302.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 9
+  },
+  {
+    "roll": "1202425020011",
+    "name": "MAHABUB ALAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715054727.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 10
+  },
+  {
+    "roll": "1202425020012",
+    "name": "MD. EFATH PATOARI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715055812.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 11
+  },
+  {
+    "roll": "1202425020013",
+    "name": "TAHMID BIN TOHID",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715060842.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 12
+  },
+  {
+    "roll": "1202425020014",
+    "name": "SAJEDUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144131.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 13
+  },
+  {
+    "roll": "1202425020015",
+    "name": "MOHAMMAD SAKIBUDDIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715060934.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 14
+  },
+  {
+    "roll": "1202425020016",
+    "name": "SAKI MUHAMMAD",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715061211.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 15
+  },
+  {
+    "roll": "1202425020017",
+    "name": "OLI AHMED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715061214.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 16
+  },
+  {
+    "roll": "1202425020018",
+    "name": "ROBIN HOQUE SANY",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715063823.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 17
+  },
+  {
+    "roll": "1202425020019",
+    "name": "MD. RAZWAN HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715063954.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 18
+  },
+  {
+    "roll": "1202425020020",
+    "name": "SAKHAWAT ISLAM SHAFA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715064218.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 19
+  },
+  {
+    "roll": "1202425020021",
+    "name": "FARHAN ALAM RAIAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715064215.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 20
+  },
+  {
+    "roll": "1202425020022",
+    "name": "ABDULLAH JUBAYER",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715065235.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 21
+  },
+  {
+    "roll": "1202425020023",
+    "name": "SAKIBUL ISLAM SAMIR",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715063900.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 22
+  },
+  {
+    "roll": "1202425020024",
+    "name": "JUBAYED HOSSAIN JISAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715065352.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 23
+  },
+  {
+    "roll": "1202425020025",
+    "name": "MAHIN FAHAD PATWARY",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715064959.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 24
+  },
+  {
+    "roll": "1202425020026",
+    "name": "MD. SHAFIQUL AL ZUBIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715065657.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 25
+  },
+  {
+    "roll": "1202425020027",
+    "name": "MD. SALMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715070748.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 26
+  },
+  {
+    "roll": "1202425020028",
+    "name": "MD. ZUBAYER HASAN SADAF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715070855.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 27
+  },
+  {
+    "roll": "1202425020029",
+    "name": "SOADUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715065539.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 28
+  },
+  {
+    "roll": "1202425020030",
+    "name": "MD. SABBIR HOSSIN SIAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715072212.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 29
+  },
+  {
+    "roll": "1202425020031",
+    "name": "MD. RAIHAN MIAH",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715073431.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 30
+  },
+  {
+    "roll": "1202425020032",
+    "name": "AMINUL HASAN LIKHON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715073843.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 31
+  },
+  {
+    "roll": "1202425020033",
+    "name": "TAMJID HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715073421.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 32
+  },
+  {
+    "roll": "1202425020034",
+    "name": "SAJID AL RAKIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715081037.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 33
+  },
+  {
+    "roll": "1202425020035",
+    "name": "MD. RAIHAN HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715081552.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 34
+  },
+  {
+    "roll": "1202425020036",
+    "name": "MAHIDUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715080511.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 35
+  },
+  {
+    "roll": "1202425020037",
+    "name": "MASHFI RAHMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715081321.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 36
+  },
+  {
+    "roll": "1202425020038",
+    "name": "TANVIR AHMED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715082042.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 37
+  },
+  {
+    "roll": "1202425020039",
+    "name": "SURJO GOSH",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715082002.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 38
+  },
+  {
+    "roll": "1202425020040",
+    "name": "MD. MINHAJ UDDIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715081644.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 39
+  },
+  {
+    "roll": "1202425020041",
+    "name": "REMON HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715071620.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 40
+  },
+  {
+    "roll": "1202425020042",
+    "name": "SAD HOSSAIN SADMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715084134.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 41
+  },
+  {
+    "roll": "1202425020043",
+    "name": "MD. ASHRAFUL ISLAM RAIYAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715085153.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 42
+  },
+  {
+    "roll": "1202425020044",
+    "name": "MD. MAZHARUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715085514.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 43
+  },
+  {
+    "roll": "1202425020045",
+    "name": "MD. NAKIBUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715085754.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 44
+  },
+  {
+    "roll": "1202425020046",
+    "name": "MD. SHAFIQUL ISLAM SHAWON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715093527.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 45
+  },
+  {
+    "roll": "1202425020047",
+    "name": "TANVIR ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144226.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 46
+  },
+  {
+    "roll": "1202425020048",
+    "name": "RUDRA ADHIKARY",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715084106.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 47
+  },
+  {
+    "roll": "1202425020049",
+    "name": "MD. RIFAT MAHMUD",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715121059.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 48
+  },
+  {
+    "roll": "1202425020050",
+    "name": "ARUP PAUL",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715082627.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 49
+  },
+  {
+    "roll": "1202425020051",
+    "name": "ASHRAFUR HASAN SHAWON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715123107.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 50
+  },
+  {
+    "roll": "1202425020052",
+    "name": "GULAM BARI SHAFI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715122343.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 51
+  },
+  {
+    "roll": "1202425020053",
+    "name": "MD. OMAR SHARIF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715124630.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 52
+  },
+  {
+    "roll": "1202425020054",
+    "name": "YOUSUF HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715131309.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 53
+  },
+  {
+    "roll": "1202425020055",
+    "name": "YASIN SHARIF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715134238.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 54
+  },
+  {
+    "roll": "1202425020056",
+    "name": "MD. ARAF RAHMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715135128.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 55
+  },
+  {
+    "roll": "1202425020057",
+    "name": "NAHIDUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715140338.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 56
+  },
+  {
+    "roll": "1202425020058",
+    "name": "MAHARAB HOSSAIN SANJID",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715141956.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 57
+  },
+  {
+    "roll": "1202425020060",
+    "name": "MD. JAHIRUL ISLAM MOJUMDER",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715143839.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 58
+  },
+  {
+    "roll": "1202425020061",
+    "name": "MD. TAREK RAHMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715145456.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 59
+  },
+  {
+    "roll": "1202425020062",
+    "name": "MD. AMANULLAH",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715150812.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 60
+  },
+  {
+    "roll": "1202425020063",
+    "name": "MD. MANAF SHEIKH",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715151627.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 61
+  },
+  {
+    "roll": "1202425020064",
+    "name": "ATIF SHARIAR",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715150906.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 62
+  },
+  {
+    "roll": "1202425020065",
+    "name": "MD. MONTASIR WASI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715154012.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 63
+  },
+  {
+    "roll": "1202425020066",
+    "name": "SADEQUL ISLAM SAYEM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715154306.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 64
+  },
+  {
+    "roll": "1202425020067",
+    "name": "MD. ROBIUL AHMED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715155529.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 65
+  },
+  {
+    "roll": "1202425020068",
+    "name": "MAHIN HASAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715134722.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 66
+  },
+  {
+    "roll": "1202425020069",
+    "name": "FARDIN AHMED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715161022.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 67
+  },
+  {
+    "roll": "1202425020070",
+    "name": "MD SAJID HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715162903.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 68
+  },
+  {
+    "roll": "1202425020071",
+    "name": "SADMAN MOSTOFA RIMON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715163903.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 69
+  },
+  {
+    "roll": "1202425020072",
+    "name": "ZARIF AMIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715165937.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 70
+  },
+  {
+    "roll": "1202425020073",
+    "name": "MD. MINER",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715171514.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 71
+  },
+  {
+    "roll": "1202425020074",
+    "name": "MD. ARAFAT MORSALIN PIAS",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715165009.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 72
+  },
+  {
+    "roll": "1202425020075",
+    "name": "MD. FAHIM HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144256.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 73
+  },
+  {
+    "roll": "1202425020076",
+    "name": "MD. SHAFIN HAYAT ZIDAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715174506.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 74
+  },
+  {
+    "roll": "1202425020078",
+    "name": "SAAD SIRAJ KHAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715182543.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 75
+  },
+  {
+    "roll": "1202425020079",
+    "name": "ABUL HASAN MOHAMMAD MAINUDDIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144332.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 76
+  },
+  {
+    "roll": "1202425020080",
+    "name": "NAYEM BIN ABU TAHER",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716040518.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 77
+  },
+  {
+    "roll": "1202425020081",
+    "name": "MD. ARIFUL ISLAM SIYAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716041854.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 78
+  },
+  {
+    "roll": "1202425020082",
+    "name": "S.M. HASIBUL HAQUE",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716044428.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 79
+  },
+  {
+    "roll": "1202425020083",
+    "name": "MD. RASEL GAZI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716050820.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 80
+  },
+  {
+    "roll": "1202425020084",
+    "name": "MD. SHAHRIAR TOHA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716064837.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 81
+  },
+  {
+    "roll": "1202425020085",
+    "name": "IBNE AKIB RAHI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716064816.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 82
+  },
+  {
+    "roll": "1202425020086",
+    "name": "MD. SAKIB HOSSAIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716065639.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 83
+  },
+  {
+    "roll": "1202425020087",
+    "name": "KOUSHIK AHMED ALIF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716064902.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 84
+  },
+  {
+    "roll": "1202425020088",
+    "name": "MD. RASEL RANA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240902055953.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 85
+  },
+  {
+    "roll": "1202425020089",
+    "name": "MD. FAHIM ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716073533.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 86
+  },
+  {
+    "roll": "1202425020090",
+    "name": "MD. MEHEDI HASAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716073804.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 87
+  },
+  {
+    "roll": "1202425020091",
+    "name": "G. M. RIFAT RAIYAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003074914.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 88
+  },
+  {
+    "roll": "1202425020092",
+    "name": "MD. MAHIM DEWAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827152333.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 89
+  },
+  {
+    "roll": "1202425020093",
+    "name": "SYED TOUFIQ HASAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716112429.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 90
+  },
+  {
+    "roll": "1202425020094",
+    "name": "SADIQUR RAHMAN SAKIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716121111.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 91
+  },
+  {
+    "roll": "1202425020095",
+    "name": "MD. ALAMIN KHAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716142033.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 92
+  },
+  {
+    "roll": "1202425020096",
+    "name": "KHALID SIFULLA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144428.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 93
+  },
+  {
+    "roll": "1202425020097",
+    "name": "MASFIAN ZARIF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827152155.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 94
+  },
+  {
+    "roll": "1202425020098",
+    "name": "MD. ISMAIL",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716165940.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 95
+  },
+  {
+    "roll": "1202425020099",
+    "name": "JARIF MAHMUD LABIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716175401.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 96
+  },
+  {
+    "roll": "1202425020100",
+    "name": "MD. ASHIQUR RAHAMAN FAHIM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717044234.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 97
+  },
+  {
+    "roll": "1202425020101",
+    "name": "MD. NAZMUL HAQUE SIAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717052210.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 98
+  },
+  {
+    "roll": "1202425020102",
+    "name": "ARAFAT HOSSAIN JISAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717062319.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 99
+  },
+  {
+    "roll": "1202425020103",
+    "name": "MD. SANJID BHUYAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717064017.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 100
+  },
+  {
+    "roll": "1202425020104",
+    "name": "SAJIDUR RAHMAN SOHAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717074514.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 101
+  },
+  {
+    "roll": "1202425020105",
+    "name": "S.M. SIAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717075332.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 102
+  },
+  {
+    "roll": "1202425020106",
+    "name": "MD IMRAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717080149.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 103
+  },
+  {
+    "roll": "1202425020107",
+    "name": "FAHIM HASAN BABO",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153758.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 104
+  },
+  {
+    "roll": "1202425020108",
+    "name": "MD. SHAHADAT HOSSEN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717102304.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 105
+  },
+  {
+    "roll": "1202425020109",
+    "name": "MD. JAHEDUL ISLAM FARDIN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717103535.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 106
+  },
+  {
+    "roll": "1202425020110",
+    "name": "MD. ASHIKUR RAHMAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717132358.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 107
+  },
+  {
+    "roll": "1202425020111",
+    "name": "SHATCHA DAS",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717145035.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 108
+  },
+  {
+    "roll": "1202425020112",
+    "name": "MD. SAJEDUR ISLAM SAJIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717154725.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 109
+  },
+  {
+    "roll": "1202425020113",
+    "name": "MD. TASIN ISTIAK",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718082147.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 110
+  },
+  {
+    "roll": "1202425020114",
+    "name": "SAIKAT DAS",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718074030.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 111
+  },
+  {
+    "roll": "1202425020115",
+    "name": "MONIR HOSEN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827154225.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 112
+  },
+  {
+    "roll": "1202425020116",
+    "name": "TUSHER SIKDER",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003090054.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 113
+  },
+  {
+    "roll": "1202425020117",
+    "name": "MD. ABU TALHA",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718140842.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 114
+  },
+  {
+    "roll": "1202425020118",
+    "name": "MUNSI MD. KHALAD SAIFULLAH",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240724075831.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 115
+  },
+  {
+    "roll": "1202425020119",
+    "name": "SIYAM ALAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240724125219.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 116
+  },
+  {
+    "roll": "1202425020120",
+    "name": "MD. MUTTUKI SHAHRIYAR SIYAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003105045.jpeg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 117
+  },
+  {
+    "roll": "1202425020121",
+    "name": "SADAT BIN SAYED",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725064044.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 118
+  },
+  {
+    "roll": "1202425020122",
+    "name": "MD. TORIKUL ISLAM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725053046.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 119
+  },
+  {
+    "roll": "1202425020123",
+    "name": "TANJUL HASAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725102520.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 120
+  },
+  {
+    "roll": "1202425020124",
+    "name": "KAZI MOSTOFA MAHADI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725151705.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 121
+  },
+  {
+    "roll": "1202425020126",
+    "name": "NAFIZ",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240727071749.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 122
+  },
+  {
+    "roll": "1202425020128",
+    "name": "AHMED EFTEKHAR RUDRO",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728062610.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 123
+  },
+  {
+    "roll": "1202425020129",
+    "name": "M. M. JUBAYET HOSSAIN HEMAL",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725153945.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 124
+  },
+  {
+    "roll": "1202425020130",
+    "name": "AZWAD ABRAR",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728142850.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 125
+  },
+  {
+    "roll": "1202425020131",
+    "name": "MD. AHSANUL HAQUE SHIMANTU",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728143055.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 126
+  },
+  {
+    "roll": "1202425020132",
+    "name": "ABDULLAH AL ARAF",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728181121.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 127
+  },
+  {
+    "roll": "1202425020133",
+    "name": "MAHID RAIYAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729062436.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 128
+  },
+  {
+    "roll": "1202425020134",
+    "name": "NAZMUL ALAM RAFI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729093208.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 129
+  },
+  {
+    "roll": "1202425020135",
+    "name": "ALIF ISLAM MEYAD",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729142440.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 130
+  },
+  {
+    "roll": "1202425020136",
+    "name": "ARKO ROY",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730080858.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 131
+  },
+  {
+    "roll": "1202425020137",
+    "name": "MOHAMMAD ABDUR RAHMAN ADIB",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827152403.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 132
+  },
+  {
+    "roll": "1202425020138",
+    "name": "MD. TURAJ",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240731045837.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 133
+  },
+  {
+    "roll": "1202425020139",
+    "name": "MAHRUF AHMED SUDDY",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144525.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 134
+  },
+  {
+    "roll": "1202425020140",
+    "name": "MD. YEASIN ARAFAT",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240801060238.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 135
+  },
+  {
+    "roll": "1202425020141",
+    "name": "FARDIN FAZLE FAHIM",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003091122.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 136
+  },
+  {
+    "roll": "1202425020142",
+    "name": "MD. MAHIN KHAN",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240807063306.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 137
+  },
+  {
+    "roll": "1202425020143",
+    "name": "ABU BAKKAR SIDDIQ OURPON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240828080237.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 138
+  },
+  {
+    "roll": "1202425020144",
+    "name": "MASHRAFI",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "1",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144606.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      }
+    ],
+    "id": 139
+  },
+  {
+    "roll": "1202425020145",
+    "name": "MD. SUJON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240830140052.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "292 - Finance, Banking and Insurance 1st paper",
+        "paper_2": "293 - Finance, Banking and Insurance 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 140
+  },
+  {
+    "roll": "1202425020146",
+    "name": "ASVI RAHMAN AYON",
+    "student_group": "Business Studies",
+    "department": "HSC - Business Studies",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240901044009.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "253 - Accounting 1st paper",
+        "paper_2": "254 - Accounting 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "277 - Business Organization & Management  1st paper",
+        "paper_2": "278 - Business Organization & Management 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "286 - Production Management and Marketing 1st paper",
+        "paper_2": "287 - Production Management and Marketing 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 141
+  }
+]
