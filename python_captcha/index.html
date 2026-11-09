@@ -4,8 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dhaka College HSC 2026 — Student Results &amp; Rankings</title>
-  <meta name="description" content="Dhaka College HSC 2026 Science Student Results, Section Filter (A-F), Total Marks Ranking, and PCM Percentile Portal." />
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="Dhaka College HSC 2026 Student Results Portal for Science, Humanities, and Business Studies Divisions — Total Marks Ranking, Section Filters, and Academic Transcripts." />
+  <link rel="stylesheet" href="styles.css?v=2.2" />
 </head>
 <body>
   <!-- Sticky Minimalist Header -->
@@ -15,13 +15,13 @@
         <div class="brand-monogram">DC</div>
         <div class="brand-titles">
           <h1>Dhaka College HSC 2026 Results</h1>
-          <div class="brand-subtitle">Science Division &bull; Session 2024&ndash;25</div>
+          <div class="brand-subtitle" id="headerSubtitleText">Science Division &bull; Session 2024&ndash;25</div>
         </div>
       </div>
 
       <div class="header-actions">
         <span class="cache-pill" id="cacheStatusPill" title="Dataset cached locally for instant loading">
-          <span class="cache-dot"></span>
+          <span class="cache-dot" id="cacheStatusDot"></span>
           <span id="cacheStatusText">Loading JSON&hellip;</span>
         </span>
         <button type="button" class="btn no-print" id="refreshCacheBtn" title="Reload JSON data and update cache">
@@ -45,11 +45,58 @@
     <section id="loadingView" class="loading-screen" aria-live="polite">
       <div class="spinner"></div>
       <div class="loading-title">Loading student result dataset&hellip;</div>
-      <div class="loading-sub" id="loadingSubText">Fetching JSON and preparing rankings</div>
+      <div class="loading-sub" id="loadingSubText">Fetching group JSONs and preparing rankings</div>
     </section>
 
     <!-- 2. MAIN DIRECTORY & RANKING VIEW -->
     <section id="directoryView" class="view-hidden" aria-label="Student Results Directory">
+      <!-- Academic Group / Division Switcher Bar -->
+      <div class="group-switcher-bar no-print" role="region" aria-label="Select Academic Group">
+        <div class="group-bar-header">
+          <span class="control-label">Academic Division (Group):</span>
+          <span class="group-source-hint" id="activeGroupSourceText">data/science.json</span>
+        </div>
+        <div class="group-tabs" id="groupTabsContainer" role="tablist" aria-label="Academic divisions">
+          <button type="button" class="group-tab active" data-group="science" role="tab" aria-selected="true">
+            <div class="group-tab-top">
+              <span class="group-tab-name">Science</span>
+              <span class="group-tab-badge" id="badgeCountScience">862</span>
+            </div>
+            <span class="group-tab-sub" id="subTextScience">850 Marksheets &bull; Sec A&ndash;F</span>
+          </button>
+
+          <button type="button" class="group-tab" data-group="humanities" role="tab" aria-selected="false">
+            <div class="group-tab-top">
+              <span class="group-tab-name">Humanities</span>
+              <span class="group-tab-badge" id="badgeCountHumanities">143</span>
+            </div>
+            <span class="group-tab-sub" id="subTextHumanities">143 Candidates &bull; Scraping</span>
+          </button>
+
+          <button type="button" class="group-tab" data-group="business_studies" role="tab" aria-selected="false">
+            <div class="group-tab-top">
+              <span class="group-tab-name">Business Studies</span>
+              <span class="group-tab-badge" id="badgeCountBusiness">0</span>
+            </div>
+            <span class="group-tab-sub" id="subTextBusiness">Base Ready &bull; 120242502</span>
+          </button>
+
+          <button type="button" class="group-tab" data-group="all" role="tab" aria-selected="false">
+            <div class="group-tab-top">
+              <span class="group-tab-name">All Divisions</span>
+              <span class="group-tab-badge" id="badgeCountAll">1005</span>
+            </div>
+            <span class="group-tab-sub" id="subTextAll">Combined Cohort View</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Dynamic Scraping / Status Notice Banner -->
+      <div id="groupNoticeBanner" class="group-notice-banner view-hidden no-print" role="status" aria-live="polite">
+        <span class="notice-dot"></span>
+        <div class="notice-content" id="groupNoticeText"></div>
+      </div>
+
       <!-- Summary Statistics -->
       <div class="stats-grid" id="summaryStatsGrid">
         <div class="stat-card">
@@ -68,16 +115,16 @@
           <div class="stat-meta" id="statHighestTotalName">Out of 1300</div>
         </div>
         <div class="stat-card">
-          <div class="stat-label">Highest PCM Percentile</div>
+          <div class="stat-label" id="statFourthCardLabel">Highest PCM Percentile</div>
           <div class="stat-value" id="statHighestPcm">&mdash;</div>
           <div class="stat-meta" id="statHighestPcmName">Physics + Chem + Math</div>
         </div>
       </div>
 
-      <!-- College Section Filter Bar (Sections A - F) -->
-      <div class="section-filter-bar no-print" role="region" aria-label="Filter by College Section">
+      <!-- College Section Filter Bar (Dynamic per Group) -->
+      <div class="section-filter-bar no-print" id="sectionFilterBar" role="region" aria-label="Filter by College Section">
         <div class="section-bar-header">
-          <span class="control-label">College Section:</span>
+          <span class="control-label" id="sectionBarLabel">College Section:</span>
           <span class="section-range-indicator" id="activeSectionRangeText">All Sections (Rolls 1202425010001 &ndash; 1202425010900)</span>
         </div>
         <div class="section-pills" id="sectionPillsContainer" role="group" aria-label="Section filter buttons">
@@ -149,9 +196,9 @@
           <div class="control-group">
             <label for="statusFilterSelect" class="control-label">Show:</label>
             <select id="statusFilterSelect" class="select-box">
-              <option value="with_marks">With Marksheets (844)</option>
+              <option value="with_marks">With Marksheets</option>
               <option value="gpa_5">GPA 5.00 Only</option>
-              <option value="all">All Enrolled (862)</option>
+              <option value="all">All Enrolled</option>
             </select>
           </div>
         </div>
@@ -159,7 +206,7 @@
 
       <div class="list-meta-bar">
         <div id="resultsCountText">Showing students</div>
-        <div class="formula-hint" title="Physics (200) + Chemistry (200) + Higher Math (200) = 600 max">
+        <div class="formula-hint" id="formulaHintText" title="Physics (200) + Chemistry (200) + Higher Math (200) = 600 max">
           PCM Percentile = (Physics + Chem + Math) &divide; 6
         </div>
       </div>
@@ -173,10 +220,10 @@
                 <th class="rank-cell" id="rankColHeader">Rank</th>
                 <th>Student Name</th>
                 <th>College Roll</th>
-                <th class="center-col">Section</th>
+                <th class="center-col" id="secColHeader">Section</th>
                 <th class="center-col">GPA</th>
                 <th class="num-col">Total Marks</th>
-                <th class="num-col">PCM Percentile</th>
+                <th class="num-col" id="metricColHeader">PCM Percentile</th>
                 <th class="num-col hide-tablet no-print">Marksheet</th>
               </tr>
             </thead>
@@ -253,10 +300,10 @@
 
   <footer class="site-footer no-print">
     <div>
-      Dhaka College HSC 2026 Result Portal &bull; Privacy-Safe Identification (Name &amp; College Roll Only)
+      Dhaka College HSC 2026 Result Portal &bull; Science, Humanities &amp; Business Studies &bull; Privacy-Safe Identification
     </div>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=2.2"></script>
 </body>
 </html>

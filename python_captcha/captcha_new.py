@@ -17,9 +17,12 @@ import cv2
 import numpy as np
 
 ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
-HAVE_TESS = shutil.which("tesseract") is not None
-if HAVE_TESS:
+HAVE_TESS = False
+try:
     import pytesseract
+    HAVE_TESS = shutil.which("tesseract") is not None
+except ImportError:
+    pytesseract = None
 
 
 # ---------------------------------------------------------------- preprocessing

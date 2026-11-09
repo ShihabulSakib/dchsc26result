@@ -329,9 +329,12 @@ def record_rolls(rec):
             rolls.append(value)
 
     serial = rec.get("serial_no")
-    add(RECOVERY_ROLL_OVERRIDES.get(serial) or RECOVERY_ROLL_OVERRIDES.get(str(serial)))
+    group = str(rec.get("student_group") or "").strip().lower()
+    if group == "science":
+        add(RECOVERY_ROLL_OVERRIDES.get(serial) or RECOVERY_ROLL_OVERRIDES.get(str(serial)))
     primary = str(rec.get("hsc_roll") or "").strip()
     alt = rec.get("hsc_roll_alt_by_payment_date")
+    alt_reg21 = rec.get("hsc_roll_alt_reg21")
     add(primary)
     if primary.isdigit():
         width = len(primary)
@@ -340,6 +343,13 @@ def record_rolls(rec):
     if primary.isdigit():
         width = len(primary)
         add(str(int(primary) - 1).zfill(width))
+    if alt and str(alt).isdigit():
+        width = len(str(alt))
+        add(str(int(alt) - 1).zfill(width))
+        add(str(int(alt) + 1).zfill(width))
+    add(alt_reg21)
+    for tail_roll in rec.get("candidate_tail_rolls") or []:
+        add(tail_roll)
     return rolls
 
 
