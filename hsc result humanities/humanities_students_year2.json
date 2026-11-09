@@ -1,0 +1,6723 @@
+[
+  {
+    "roll": "1202425030001",
+    "name": "SIAM KHAN THAKUR",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715041106.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "roll": "1202425030002",
+    "name": "MD. RUHITUZZAMAN NISHAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715044027.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "roll": "1202425030003",
+    "name": "ROUDRO MAHMUD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715045747.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 3
+  },
+  {
+    "roll": "1202425030004",
+    "name": "MD. NISAT ANAN SOPNO",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715045857.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 4
+  },
+  {
+    "roll": "1202425030005",
+    "name": "MD. TAWRAT ZAMAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144640.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 5
+  },
+  {
+    "roll": "1202425030006",
+    "name": "MD. FAYAZ AHMED SHAWON",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715050310.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 6
+  },
+  {
+    "roll": "1202425030007",
+    "name": "MD. SORROWER HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715050311.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 7
+  },
+  {
+    "roll": "1202425030008",
+    "name": "YAKEEN AHMED JAHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715050313.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 8
+  },
+  {
+    "roll": "1202425030009",
+    "name": "MD. SHEIKH TASRIF",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715051426.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 9
+  },
+  {
+    "roll": "1202425030010",
+    "name": "MD. IMRAN HASAN (BIPLOB)",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715045309.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 10
+  },
+  {
+    "roll": "1202425030011",
+    "name": "MD. TARIQUL ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715052958.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 11
+  },
+  {
+    "roll": "1202425030012",
+    "name": "MD. HABIBUR RAHMAN TUSHAR",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715055903.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 12
+  },
+  {
+    "roll": "1202425030013",
+    "name": "MD. RAKIBUL ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715060404.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 13
+  },
+  {
+    "roll": "1202425030014",
+    "name": "TAYEF AL MAHMUD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715061235.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 14
+  },
+  {
+    "roll": "1202425030015",
+    "name": "MUBARAK HASAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827152641.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 15
+  },
+  {
+    "roll": "1202425030016",
+    "name": "K.M.A TAWAB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715061154.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 16
+  },
+  {
+    "roll": "1202425030017",
+    "name": "MEHEDI HASAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715054933.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 17
+  },
+  {
+    "roll": "1202425030018",
+    "name": "ARIAN RANA SAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827152230.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 18
+  },
+  {
+    "roll": "1202425030019",
+    "name": "MAHMUD RAHMAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715062701.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 19
+  },
+  {
+    "roll": "1202425030020",
+    "name": "ARFAN AHAMMED TAHSIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715064632.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 20
+  },
+  {
+    "roll": "1202425030021",
+    "name": "MD. MAHFUZUR RAHMAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715065647.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 21
+  },
+  {
+    "roll": "1202425030022",
+    "name": "MD. OMAR AL MAHADI SAHED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715035512.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 22
+  },
+  {
+    "roll": "1202425030023",
+    "name": "SK. MD. SHADMAN SAKI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715071243.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 23
+  },
+  {
+    "roll": "1202425030024",
+    "name": "OLI ULLAH",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715073042.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 24
+  },
+  {
+    "roll": "1202425030025",
+    "name": "ABDULLAH AL ROMAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715073630.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 25
+  },
+  {
+    "roll": "1202425030026",
+    "name": "MD. MOMINUN TARAFDER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715080115.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 26
+  },
+  {
+    "roll": "1202425030027",
+    "name": "MD. TACHIN IKBAL",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715084232.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 27
+  },
+  {
+    "roll": "1202425030028",
+    "name": "TAHSIN AHMED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715095338.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 28
+  },
+  {
+    "roll": "1202425030029",
+    "name": "NOUSHIN AHAMED NIROB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715100120.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 29
+  },
+  {
+    "roll": "1202425030030",
+    "name": "MD. ISTIAK AHMED SAIDI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715094810.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 30
+  },
+  {
+    "roll": "1202425030031",
+    "name": "RABBIL SARKER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715101005.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 31
+  },
+  {
+    "roll": "1202425030032",
+    "name": "MD. ARSHADUL HAQ",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715102330.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 32
+  },
+  {
+    "roll": "1202425030033",
+    "name": "MD. ABDUL ALIM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715100504.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 33
+  },
+  {
+    "roll": "1202425030034",
+    "name": "MD. ASADUZZAMAN ASHIK",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913144815.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 34
+  },
+  {
+    "roll": "1202425030035",
+    "name": "ABDULLAH AL ARIF",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715101956.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 35
+  },
+  {
+    "roll": "1202425030036",
+    "name": "MD. ABIR HASSAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715095739.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 36
+  },
+  {
+    "roll": "1202425030037",
+    "name": "MD. HASHINUZZAMAN ZIHAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715105149.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 37
+  },
+  {
+    "roll": "1202425030038",
+    "name": "MD. SADNAN NAFIS",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715112835.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 38
+  },
+  {
+    "roll": "1202425030039",
+    "name": "MD.SAMIUL ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715075424.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 39
+  },
+  {
+    "roll": "1202425030040",
+    "name": "SHAKIB AL HASAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715115303.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 40
+  },
+  {
+    "roll": "1202425030042",
+    "name": "ABDULLA  AL MUJAHID",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715123951.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 42
+  },
+  {
+    "roll": "1202425030043",
+    "name": "MD. ADNAN AHMED SIDDIQUE",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715125327.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 43
+  },
+  {
+    "roll": "1202425030044",
+    "name": "SYED TANJIM AHAMAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715132626.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 44
+  },
+  {
+    "roll": "1202425030045",
+    "name": "SADMAN MUHTAMIM REMIM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153407.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 45
+  },
+  {
+    "roll": "1202425030046",
+    "name": "MD. TANVIR ADNAN LABIB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715121337.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 46
+  },
+  {
+    "roll": "1202425030047",
+    "name": "MD.RYAN ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715133640.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 47
+  },
+  {
+    "roll": "1202425030048",
+    "name": "NAIMUL ISLAM ABID",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715133643.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 48
+  },
+  {
+    "roll": "1202425030049",
+    "name": "MD. ZIDAN ABRAR",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715101635.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 49
+  },
+  {
+    "roll": "1202425030050",
+    "name": "MOHAMMAD WAKIL UDDIN SHAHID",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715143422.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 50
+  },
+  {
+    "roll": "1202425030051",
+    "name": "MD AL FAHAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715143443.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 51
+  },
+  {
+    "roll": "1202425030052",
+    "name": "MD. HANNAN SHAH",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715152813.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 52
+  },
+  {
+    "roll": "1202425030053",
+    "name": "MD. RAKIB HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715154148.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 53
+  },
+  {
+    "roll": "1202425030054",
+    "name": "ISRAFIL MOHIM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715160713.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 54
+  },
+  {
+    "roll": "1202425030055",
+    "name": "MD. MUHTASIM AREFIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715161621.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 55
+  },
+  {
+    "roll": "1202425030056",
+    "name": "MD. FAHIM RAJ BAPPI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715172756.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 56
+  },
+  {
+    "roll": "1202425030057",
+    "name": "MD. ARAFAT HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715173405.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 57
+  },
+  {
+    "roll": "1202425030058",
+    "name": "ABDUL MOTALAB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715180450.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 58
+  },
+  {
+    "roll": "1202425030059",
+    "name": "MD. MARUF",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715175716.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 59
+  },
+  {
+    "roll": "1202425030061",
+    "name": "A B M RUBAYET SHAFI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715044546.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 61
+  },
+  {
+    "roll": "1202425030062",
+    "name": "RAKIBUL ISLAM RAFI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003102716.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 62
+  },
+  {
+    "roll": "1202425030063",
+    "name": "TAREK MUNAWAR",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716060831.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 63
+  },
+  {
+    "roll": "1202425030064",
+    "name": "MD. JISHAN AHMMED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716071533.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 64
+  },
+  {
+    "roll": "1202425030066",
+    "name": "SUHAN MIA",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716071951.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 65
+  },
+  {
+    "roll": "1202425030067",
+    "name": "MD. MOSTAFIZUR RAHMAN NAFIZ",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827154143.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 66
+  },
+  {
+    "roll": "1202425030068",
+    "name": "MUBTASIM PATHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716074405.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 67
+  },
+  {
+    "roll": "1202425030069",
+    "name": "RIFAT SARKAR",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716075517.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 68
+  },
+  {
+    "roll": "1202425030070",
+    "name": "MD. RAMIM KHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716081903.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 69
+  },
+  {
+    "roll": "1202425030071",
+    "name": "ABDUL AZIZ",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827154012.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 70
+  },
+  {
+    "roll": "1202425030072",
+    "name": "MD. MAJJIDUL HOSSEN PRANTO",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716101647.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 71
+  },
+  {
+    "roll": "1202425030073",
+    "name": "JAEID BIN AHSAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715142253.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 72
+  },
+  {
+    "roll": "1202425030074",
+    "name": "S. M. ASHFAQ ALAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716134037.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 73
+  },
+  {
+    "roll": "1202425030075",
+    "name": "MD. RAKIBUL ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716124649.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 74
+  },
+  {
+    "roll": "1202425030076",
+    "name": "SOYKOT SIKDER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716154728.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 75
+  },
+  {
+    "roll": "1202425030078",
+    "name": "ARIYAN YOUSUF",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716161005.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 77
+  },
+  {
+    "roll": "1202425030079",
+    "name": "MD. MAHI ALAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716161636.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 78
+  },
+  {
+    "roll": "1202425030081",
+    "name": "MD. TANJIM SARKER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240716085421.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 79
+  },
+  {
+    "roll": "1202425030082",
+    "name": "MD. SHAHRIAR TAMIM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717050434.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 80
+  },
+  {
+    "roll": "1202425030083",
+    "name": "MD. ADHAM IBNE TAHMID SAKIL",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717071238.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 81
+  },
+  {
+    "roll": "1202425030084",
+    "name": "MD. FAHAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717071724.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 82
+  },
+  {
+    "roll": "1202425030085",
+    "name": "MD. SABBIR RAHMAN BIDDUT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153300.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 83
+  },
+  {
+    "roll": "1202425030086",
+    "name": "NURUJ SHAFA",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717065624.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 84
+  },
+  {
+    "roll": "1202425030087",
+    "name": "SREE GOPAL CHANDRA DAS",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717142034.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 85
+  },
+  {
+    "roll": "1202425030088",
+    "name": "A.H.M. FAHIM MUNTASIR NABIL",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717141617.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 86
+  },
+  {
+    "roll": "1202425030089",
+    "name": "MD. SHAZEED HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717145343.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 87
+  },
+  {
+    "roll": "1202425030090",
+    "name": "ABIR HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717151808.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 88
+  },
+  {
+    "roll": "1202425030091",
+    "name": "MAHADEB DEBNATH",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717153323.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 89
+  },
+  {
+    "roll": "1202425030092",
+    "name": "AL-FAHAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240717160503.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 90
+  },
+  {
+    "roll": "1202425030094",
+    "name": "GOLAM MUSFIQ KHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718051108.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 91
+  },
+  {
+    "roll": "1202425030095",
+    "name": "MD. RASHIDUL ISLAM RAHAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718052521.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 92
+  },
+  {
+    "roll": "1202425030096",
+    "name": "KHAN MD. MEHEDI HASAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718061927.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 93
+  },
+  {
+    "roll": "1202425030097",
+    "name": "HARUN OR RASHID SAJIB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718110408.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 94
+  },
+  {
+    "roll": "1202425030098",
+    "name": "ABU BAKAR SIDDIK",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718110413.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 95
+  },
+  {
+    "roll": "1202425030099",
+    "name": "MD. SAJADUR RAHMAN JADID",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240724044948.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 96
+  },
+  {
+    "roll": "1202425030100",
+    "name": "MD. NABIL AL SAROWER SARKER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240724154249.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 97
+  },
+  {
+    "roll": "1202425030101",
+    "name": "TAUSIF AHAMED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240718101221.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 98
+  },
+  {
+    "roll": "1202425030102",
+    "name": "MD. NIFAUR RAHMAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725040907.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 99
+  },
+  {
+    "roll": "1202425030103",
+    "name": "KHALID HASAN BAPPY",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725050908.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 100
+  },
+  {
+    "roll": "1202425030104",
+    "name": "MD.SIAM TALUKDER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725052342.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 101
+  },
+  {
+    "roll": "1202425030106",
+    "name": "MD. TAHMID HOSSAIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725061823.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 102
+  },
+  {
+    "roll": "1202425030107",
+    "name": "MARUF ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725081611.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 103
+  },
+  {
+    "roll": "1202425030108",
+    "name": "TAHMID RAHMAN TONMOY",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725090317.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 104
+  },
+  {
+    "roll": "1202425030109",
+    "name": "MD. SAIF UDDIN MASUM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725134429.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 105
+  },
+  {
+    "roll": "1202425030110",
+    "name": "MD. ASRAFUL ALAM RAFI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240725174706.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 106
+  },
+  {
+    "roll": "1202425030112",
+    "name": "TOUFIQUL ISLAM TONMOY",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240726151013.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 108
+  },
+  {
+    "roll": "1202425030113",
+    "name": "MD. YEASIR ARAFAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913145633.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 109
+  },
+  {
+    "roll": "1202425030114",
+    "name": "MASUM BILLAH SEFAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240726210349.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 110
+  },
+  {
+    "roll": "1202425030115",
+    "name": "TANVIR RAHMAN MAHEDI",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728051457.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 111
+  },
+  {
+    "roll": "1202425030116",
+    "name": "ABRAR RAHMAN DRUVO",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728045254.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 112
+  },
+  {
+    "roll": "1202425030117",
+    "name": "MD. NAKIB MAHMUD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728070308.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 113
+  },
+  {
+    "roll": "1202425030119",
+    "name": "HUSSAIN AHAMMAD",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728083633.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 114
+  },
+  {
+    "roll": "1202425030120",
+    "name": "MD. SHAHRIYA HASAN SIFAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728091642.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 115
+  },
+  {
+    "roll": "1202425030121",
+    "name": "MUHAMMAD OBAIDULLA KHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728122828.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 116
+  },
+  {
+    "roll": "1202425030122",
+    "name": "BORSON BANIK",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913145840.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 117
+  },
+  {
+    "roll": "1202425030123",
+    "name": "JUNAID AL HABIB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728091504.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 118
+  },
+  {
+    "roll": "1202425030124",
+    "name": "RADJWAN AHAMMED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728163902.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 119
+  },
+  {
+    "roll": "1202425030125",
+    "name": "MD. SIAM KHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729034625.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 120
+  },
+  {
+    "roll": "1202425030127",
+    "name": "MD. MOSHIUR RAHMAN PRODANIA",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729054604.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 121
+  },
+  {
+    "roll": "1202425030128",
+    "name": "JUBAER HOSSAIN SIAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729061249.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 122
+  },
+  {
+    "roll": "1202425030129",
+    "name": "MD. SAIFUL ISLAM JABED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240729080931.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 123
+  },
+  {
+    "roll": "1202425030130",
+    "name": "MD. TANVIRUL ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153656.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 124
+  },
+  {
+    "roll": "1202425030131",
+    "name": "MOHAMMAD BAKI BILLAH",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240913145914.png",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 125
+  },
+  {
+    "roll": "1202425030132",
+    "name": "MD. MUSTAFIZUR RAHMAN SWEET",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153724.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 126
+  },
+  {
+    "roll": "1202425030133",
+    "name": "MD.TALHA JOBAYER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730054703.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 127
+  },
+  {
+    "roll": "1202425030134",
+    "name": "MD AINUDDIN KHAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730070445.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 128
+  },
+  {
+    "roll": "1202425030135",
+    "name": "MD. HEMEL AHAMMED",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730093528.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 129
+  },
+  {
+    "roll": "1202425030136",
+    "name": "RASHEL MIA",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730171056.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 130
+  },
+  {
+    "roll": "1202425030137",
+    "name": "MD. MOHIUDDIN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240827153155.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 131
+  },
+  {
+    "roll": "1202425030138",
+    "name": "MD. OBAIDULLAH TAREK",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730182824.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 132
+  },
+  {
+    "roll": "1202425030140",
+    "name": "MD. ZOBAYER",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240730054254.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 134
+  },
+  {
+    "roll": "1202425030141",
+    "name": "MD. SOJIB",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728065815.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 135
+  },
+  {
+    "roll": "1202425030142",
+    "name": "MD. SHAOUN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240801055227.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 136
+  },
+  {
+    "roll": "1202425030143",
+    "name": "Md. Moshirul Hasan",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240804113850.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 137
+  },
+  {
+    "roll": "1202425030144",
+    "name": "Maruf Hasan",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240806051507.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 138
+  },
+  {
+    "roll": "1202425030145",
+    "name": "Md. Toriqul Islam",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240819055009.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 139
+  },
+  {
+    "roll": "1202425030146",
+    "name": "Nahiyan Jawad Judan",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240808075044.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 140
+  },
+  {
+    "roll": "1202425030147",
+    "name": "K. M. NAYEEM  ISLAM",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240828070834.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "129 - Statistics 1st paper",
+        "paper_2": "130 - Statistics 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 141
+  },
+  {
+    "roll": "1202425030148",
+    "name": "JIHADUL ISLAM SIFAT",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240828050048.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "117 - Social Science 1st paper",
+        "paper_2": "118 - Social Science 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 142
+  },
+  {
+    "roll": "1202425030149",
+    "name": "MD. SIYEM SHEAK",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240917072757.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "125 - Geography 1st paper",
+        "paper_2": "126 - Geography 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 143
+  },
+  {
+    "roll": "1202425030151",
+    "name": "MUNTASIM HASAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20241003061827.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 145
+  },
+  {
+    "roll": "1202425030152",
+    "name": "MEHEDI HASAN  MARUF",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715043932.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "121 - Logic 1st  paper",
+        "paper_2": "122 - Logic 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 146
+  },
+  {
+    "roll": "1202425030153",
+    "name": "MD. AHOSAN HABIB SOBUJ",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240728063931.JPG",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 147
+  },
+  {
+    "roll": "1202425030154",
+    "name": "MD. SHIHAB SHA",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240727052406.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "123 - Psychology 1st paper",
+        "paper_2": "124 - Psychology 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "304 - History 1st paper",
+        "paper_2": "305 - History 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 148
+  },
+  {
+    "roll": "1202425030155",
+    "name": "MD. AFFAN",
+    "student_group": "Humanities",
+    "department": "HSC - Humanities",
+    "session": "2024-2025",
+    "academic_year": "2",
+    "image_url": "https://dhakacollege.eshiksabd.com/image/student/20240715175527.jpg",
+    "subjects": [
+      {
+        "paper_1": "101 - Bangla 1st paper",
+        "paper_2": "102 - Bangla 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "107 - English 1st paper",
+        "paper_2": "108 - English 2nd paper",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "275 - ICT",
+        "paper_2": "",
+        "type": "Mandatory"
+      },
+      {
+        "paper_1": "249 - Islamic Studies 1st paper",
+        "paper_2": "250 - Islamic Studies 2nd paper",
+        "type": "Fourth"
+      },
+      {
+        "paper_1": "109 - Economics 1st paper",
+        "paper_2": "110 - Economics 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "267 - Islamic History and Culture 1st paper",
+        "paper_2": "268 - Islamic History and Culture 2nd paper",
+        "type": "Elective"
+      },
+      {
+        "paper_1": "269 - Civics 1st paper",
+        "paper_2": "270 - Civics 2nd paper",
+        "type": "Elective"
+      }
+    ],
+    "id": 149
+  }
+]

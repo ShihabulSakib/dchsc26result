@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dhaka College HSC 2026 — Student Results &amp; Rankings</title>
+  <meta name="description" content="Dhaka College HSC 2026 Science Student Results, Section Filter (A-F), Total Marks Ranking, and PCM Percentile Portal." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Sticky Minimalist Header -->
+  <header class="top-header">
+    <div class="header-inner">
+      <div class="brand-group" id="brandHomeBtn" role="button" tabindex="0" aria-label="Return to student rankings">
+        <div class="brand-monogram">DC</div>
+        <div class="brand-titles">
+          <h1>Dhaka College HSC 2026 Results</h1>
+          <div class="brand-subtitle">Science Division &bull; Session 2024&ndash;25</div>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <span class="cache-pill" id="cacheStatusPill" title="Dataset cached locally for instant loading">
+          <span class="cache-dot"></span>
+          <span id="cacheStatusText">Loading JSON&hellip;</span>
+        </span>
+        <button type="button" class="btn no-print" id="refreshCacheBtn" title="Reload JSON data and update cache">
+          <svg class="btn-icon" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h5M20 20v-5h-5M5.5 9A7.5 7.5 0 0 1 18 6.7L20 9M4 15l2 2.3A7.5 7.5 0 0 0 18.5 15" />
+          </svg>
+          <span>Sync</span>
+        </button>
+        <button type="button" class="btn btn-primary no-print" id="globalPrintBtn" title="Print current view">
+          <svg class="btn-icon" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 9V3h12v6M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v7H6v-7z" />
+          </svg>
+          <span>Print</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <!-- 1. INITIAL JSON LOADING VIEW -->
+    <section id="loadingView" class="loading-screen" aria-live="polite">
+      <div class="spinner"></div>
+      <div class="loading-title">Loading student result dataset&hellip;</div>
+      <div class="loading-sub" id="loadingSubText">Fetching JSON and preparing rankings</div>
+    </section>
+
+    <!-- 2. MAIN DIRECTORY & RANKING VIEW -->
+    <section id="directoryView" class="view-hidden" aria-label="Student Results Directory">
+      <!-- Summary Statistics -->
+      <div class="stats-grid" id="summaryStatsGrid">
+        <div class="stat-card">
+          <div class="stat-label" id="statStudentsLabel">Marksheets Loaded</div>
+          <div class="stat-value" id="statTotalStudents">&mdash;</div>
+          <div class="stat-meta" id="statTotalMeta">Science Cohort</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">GPA 5.00 Achieved</div>
+          <div class="stat-value" id="statGpa5Count">&mdash;</div>
+          <div class="stat-meta" id="statGpa5Pct">Top grade distinction</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Highest Total Marks</div>
+          <div class="stat-value" id="statHighestTotal">&mdash;</div>
+          <div class="stat-meta" id="statHighestTotalName">Out of 1300</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Highest PCM Percentile</div>
+          <div class="stat-value" id="statHighestPcm">&mdash;</div>
+          <div class="stat-meta" id="statHighestPcmName">Physics + Chem + Math</div>
+        </div>
+      </div>
+
+      <!-- College Section Filter Bar (Sections A - F) -->
+      <div class="section-filter-bar no-print" role="region" aria-label="Filter by College Section">
+        <div class="section-bar-header">
+          <span class="control-label">College Section:</span>
+          <span class="section-range-indicator" id="activeSectionRangeText">All Sections (Rolls 1202425010001 &ndash; 1202425010900)</span>
+        </div>
+        <div class="section-pills" id="sectionPillsContainer" role="group" aria-label="Section filter buttons">
+          <button type="button" class="section-pill active" data-section="ALL">
+            <span class="sec-name">All Sections</span>
+            <span class="sec-roll-hint">0001&ndash;0900</span>
+          </button>
+          <button type="button" class="section-pill" data-section="A" title="Roll 1202425010001 to 1202425010150">
+            <span class="sec-name">Section A</span>
+            <span class="sec-roll-hint">0001&ndash;0150</span>
+          </button>
+          <button type="button" class="section-pill" data-section="B" title="Roll 1202425010151 to 1202425010300">
+            <span class="sec-name">Section B</span>
+            <span class="sec-roll-hint">0151&ndash;0300</span>
+          </button>
+          <button type="button" class="section-pill" data-section="C" title="Roll 1202425010301 to 1202425010450">
+            <span class="sec-name">Section C</span>
+            <span class="sec-roll-hint">0301&ndash;0450</span>
+          </button>
+          <button type="button" class="section-pill" data-section="D" title="Roll 1202425010451 to 1202425010600">
+            <span class="sec-name">Section D</span>
+            <span class="sec-roll-hint">0451&ndash;0600</span>
+          </button>
+          <button type="button" class="section-pill" data-section="E" title="Roll 1202425010601 to 1202425010750">
+            <span class="sec-name">Section E</span>
+            <span class="sec-roll-hint">0601&ndash;0750</span>
+          </button>
+          <button type="button" class="section-pill" data-section="F" title="Roll 1202425010751 to 1202425010900">
+            <span class="sec-name">Section F</span>
+            <span class="sec-roll-hint">0751&ndash;0900</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Search & Ranking Filter Controls -->
+      <div class="toolbar-panel no-print">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input
+            type="search"
+            id="searchInput"
+            class="search-input"
+            placeholder="Search by student name or college roll (e.g. 1202425010001 or 0001)..."
+            autocomplete="off"
+            aria-label="Search students by name or college roll"
+          />
+          <button type="button" id="clearSearchBtn" class="search-clear" aria-label="Clear search">&times;</button>
+        </div>
+
+        <div class="filter-controls">
+          <div class="control-group">
+            <span class="control-label">Rank By:</span>
+            <div class="segmented-group" role="group" aria-label="Ranking mode">
+              <button type="button" class="seg-btn active" data-sort="total_marks" id="sortMarksBtn">
+                Highest Marks
+              </button>
+              <button type="button" class="seg-btn" data-sort="pcm_percentile" id="sortPcmBtn">
+                Highest PCM %
+              </button>
+              <button type="button" class="seg-btn" data-sort="college_roll" id="sortRollBtn">
+                College Roll
+              </button>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label for="statusFilterSelect" class="control-label">Show:</label>
+            <select id="statusFilterSelect" class="select-box">
+              <option value="with_marks">With Marksheets (844)</option>
+              <option value="gpa_5">GPA 5.00 Only</option>
+              <option value="all">All Enrolled (862)</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="list-meta-bar">
+        <div id="resultsCountText">Showing students</div>
+        <div class="formula-hint" title="Physics (200) + Chemistry (200) + Higher Math (200) = 600 max">
+          PCM Percentile = (Physics + Chem + Math) &divide; 6
+        </div>
+      </div>
+
+      <!-- Compact Student Data Table / Mobile Cards (Click row to open separate Marksheet page) -->
+      <div class="table-card" id="tableCardTop">
+        <div class="table-scroll">
+          <table class="results-table" aria-label="Student rankings table">
+            <thead>
+              <tr>
+                <th class="rank-cell" id="rankColHeader">Rank</th>
+                <th>Student Name</th>
+                <th>College Roll</th>
+                <th class="center-col">Section</th>
+                <th class="center-col">GPA</th>
+                <th class="num-col">Total Marks</th>
+                <th class="num-col">PCM Percentile</th>
+                <th class="num-col hide-tablet no-print">Marksheet</th>
+              </tr>
+            </thead>
+            <tbody id="studentsTableBody"></tbody>
+          </table>
+        </div>
+        <div id="emptyTableState" class="empty-state view-hidden">
+          No students matched your filter or search criteria.
+        </div>
+
+        <!-- Responsive Pagination Bar -->
+        <div class="pagination-bar no-print" id="paginationBar">
+          <div class="pagination-info" id="paginationInfoText">
+            Page 1 of 1
+          </div>
+
+          <div class="pagination-controls">
+            <button type="button" class="btn page-nav-btn" id="prevPageBtn" aria-label="Previous page">
+              &larr; Prev
+            </button>
+            <div class="page-numbers" id="pageNumbersContainer" role="navigation" aria-label="Pagination pages"></div>
+            <button type="button" class="btn page-nav-btn" id="nextPageBtn" aria-label="Next page">
+              Next &rarr;
+            </button>
+          </div>
+
+          <div class="page-size-wrap">
+            <label for="pageSizeSelect" class="control-label">Per page:</label>
+            <select id="pageSizeSelect" class="select-box page-size-select">
+              <option value="25">25</option>
+              <option value="50">50</option>
+              <option value="100">100</option>
+              <option value="9999">All</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. SEPARATE STUDENT MARKSHEET VIEW PAGE -->
+    <section id="marksheetView" class="view-hidden" aria-label="Student Academic Marksheet">
+      <div class="marksheet-nav-bar no-print">
+        <div class="nav-left-group">
+          <button type="button" class="btn" id="backToListBtn">
+            <svg class="btn-icon" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            <span>Back to Rankings</span>
+          </button>
+          <span class="back-hint">
+            Press <kbd class="kbd-tag">Backspace</kbd> / <kbd class="kbd-tag">Esc</kbd> or Android Back
+          </span>
+        </div>
+
+        <div class="nav-right-group">
+          <button type="button" class="btn" id="prevStudentBtn" title="Previous student in current list">
+            &larr; Prev
+          </button>
+          <button type="button" class="btn" id="nextStudentBtn" title="Next student in current list">
+            Next &rarr;
+          </button>
+          <button type="button" class="btn btn-primary" id="printMarksheetBtn">
+            <svg class="btn-icon" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 9V3h12v6M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v7H6v-7z" />
+            </svg>
+            <span>Print Marksheet</span>
+          </button>
+        </div>
+      </div>
+
+      <article class="marksheet-sheet" id="marksheetArticle"></article>
+    </section>
+  </main>
+
+  <footer class="site-footer no-print">
+    <div>
+      Dhaka College HSC 2026 Result Portal &bull; Privacy-Safe Identification (Name &amp; College Roll Only)
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

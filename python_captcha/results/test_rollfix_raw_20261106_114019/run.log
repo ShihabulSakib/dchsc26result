@@ -1,0 +1,4 @@
+2026-11-06T11:40:19 start records=2 pending=2 out=results/test_rollfix_raw_20261106_114019 board=10 year=2026
+2026-11-06T11:40:22 [1/2] serial=33 status=invalid_reg roll_used=None returned=None gpa=None attempts=3 error=invalid registration/roll
+2026-11-06T11:40:27 [2/2] serial=107 status=ok roll_used=108834 returned=MD. NUR SADIK gpa=5.00 attempts=8 error=None
+2026-11-06T11:40:27 done total=2 counts={'invalid_reg': 1, 'ok': 1} verified=1 elapsed=00:00:07

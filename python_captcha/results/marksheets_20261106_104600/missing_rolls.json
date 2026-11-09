@@ -1,0 +1,407 @@
+[
+  {
+    "serial_no": 854,
+    "source": {
+      "id": 24,
+      "name": "ASHIKUR RAHMAN",
+      "college_roll": "1202425010038",
+      "admission_roll": "225988",
+      "father_name": "MD. LAL MIA",
+      "mother_name": "ALPONA",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "ASHIKUR RAHMAN",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2121012218",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:36",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 855,
+    "source": {
+      "id": 335,
+      "name": "M ZAKARIA SAJID",
+      "college_roll": "1202425010176",
+      "admission_roll": "120688",
+      "father_name": "MD ZOHURUL ISLAM",
+      "mother_name": "MST SHAMMI AKTER",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "M ZAKARIA SAJID",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2112668414",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:37",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 856,
+    "source": {
+      "id": 420,
+      "name": "MD. RIFAT",
+      "college_roll": "1202425010262",
+      "admission_roll": "242630",
+      "father_name": "MOHAMMAD MINAR HOSSAIN",
+      "mother_name": "RUMA AKTER",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. RIFAT",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110695899",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:39",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 857,
+    "source": {
+      "id": 435,
+      "name": "TEERTHA JYOTI BISWAS",
+      "college_roll": "1202425010277",
+      "admission_roll": "117869",
+      "father_name": "TUSAR KANTI BISWAS",
+      "mother_name": "CHABI RANI BISWAS",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "TEERTHA JYOTI BISWAS",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2113207116",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:41",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 858,
+    "source": {
+      "id": 537,
+      "name": "RAKIB HASNAT APON",
+      "college_roll": "1202425010379",
+      "admission_roll": "139246",
+      "father_name": "MD MOJIT ALI",
+      "mother_name": "MST SAHEDA KHATUN",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "RAKIB HASNAT APON",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2113246048",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:42",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 859,
+    "source": {
+      "id": 828,
+      "name": "MD. HUZAIFA ISLAM HASIB",
+      "college_roll": "1202425010670",
+      "admission_roll": "200731",
+      "father_name": "MD. HUMAYUN KABIR",
+      "mother_name": "MST. HASINA AKTHER",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. HUZAIFA ISLAM HASIB",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2121068014",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:44",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 860,
+    "source": {
+      "id": 907,
+      "name": "MD MASFIAN MRIDHA",
+      "college_roll": "1202425010749",
+      "admission_roll": "141932",
+      "father_name": "Mohammod Mohasin",
+      "mother_name": "Mst Shamim Ara Perven",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD MASFIAN MRIDHA",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110721904",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:46",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 861,
+    "source": {
+      "id": 915,
+      "name": "S. M. SHAHARIA SAKIB JOY",
+      "college_roll": "1202425010757",
+      "admission_roll": "252268",
+      "father_name": "MD. AZMAL HAQUE SARDAR",
+      "mother_name": "MST. SUFIA BEGUM",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "S. M. SHAHARIA SAKIB JOY",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2117777604",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:48",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 862,
+    "source": {
+      "id": 1010,
+      "name": "ABID HOSSAIN FAHAD",
+      "college_roll": "1202425010852",
+      "admission_roll": "135281",
+      "father_name": "MU. FARUK HOSSAIN HOWLADER",
+      "mother_name": "JESMIN NAHAR",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "ABID HOSSAIN FAHAD",
+      "name_returned": null,
+      "hsc_roll_primary": null,
+      "hsc_roll_alt": null,
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110786870",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "missing_roll",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 0,
+      "api_attempts": 0,
+      "duration_s": 0.0,
+      "fetched_at": "2026-11-06T12:36:49",
+      "error": null,
+      "raw": null
+    }
+  }
+]

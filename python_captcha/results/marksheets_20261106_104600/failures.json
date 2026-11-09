@@ -1,0 +1,206 @@
+[
+  {
+    "serial_no": 38,
+    "source": {
+      "id": 44,
+      "name": "TAHHA",
+      "college_roll": "1202425010042",
+      "admission_roll": "146002",
+      "father_name": "MD . ABDUL WADUD",
+      "mother_name": "MST, AYESHA KHATUN",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "TAHHA",
+      "name_returned": "ABRAR ASIF TAHHA",
+      "hsc_roll_primary": "108764",
+      "hsc_roll_alt": "108765",
+      "roll_used": "108764",
+      "returned_roll": "108764",
+      "registration_no": "2112749290",
+      "returned_reg": "2112749290",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "5.00",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 1104,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A+",
+          "subject": "BANGLA",
+          "marks": "173"
+        },
+        {
+          "code": "107-108",
+          "grade": "A+",
+          "subject": "ENGLISH",
+          "marks": "162"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "081"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "183"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "180"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "163"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "162"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": false,
+      "name_match": false,
+      "name_similarity": 0.476,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": [
+        "name_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 2,
+      "api_attempts": 2,
+      "duration_s": 2.0,
+      "fetched_at": "2026-11-06T10:48:47",
+      "error": null,
+      "raw": null
+    }
+  },
+  {
+    "serial_no": 805,
+    "source": {
+      "id": 1003,
+      "name": "ADEL",
+      "college_roll": "1202425010845",
+      "admission_roll": "234701",
+      "father_name": "MD. AL-AMIN",
+      "mother_name": "ASMA AKTER",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "ADEL",
+      "name_returned": "MOHAMMAD ADEL",
+      "hsc_roll_primary": "109531",
+      "hsc_roll_alt": null,
+      "roll_used": "109531",
+      "returned_roll": "109531",
+      "registration_no": "2110914877",
+      "returned_reg": "2110914877",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "4.83",
+      "gpa_expected": "4.83",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 998,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "142"
+        },
+        {
+          "code": "107-108",
+          "grade": "A",
+          "subject": "ENGLISH",
+          "marks": "148"
+        },
+        {
+          "code": "275",
+          "grade": "A",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "078"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "159"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "163"
+        },
+        {
+          "code": "265-266",
+          "grade": "A",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "144"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "164"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": false,
+      "name_match": false,
+      "name_similarity": 0.471,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": [
+        "name_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 1,
+      "duration_s": 1.59,
+      "fetched_at": "2026-11-06T12:33:34",
+      "error": null,
+      "raw": null
+    }
+  }
+]

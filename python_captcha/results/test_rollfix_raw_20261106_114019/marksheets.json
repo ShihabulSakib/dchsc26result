@@ -1,0 +1,167 @@
+[
+  {
+    "serial_no": 33,
+    "source": {
+      "id": 51,
+      "name": "Mohammad Radit Mehsan",
+      "college_roll": "1202425010036",
+      "admission_roll": "2110987858",
+      "father_name": "Mohammad Abdullahil Baki",
+      "mother_name": "Jannatul Fardous Lipi",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "Mohammad Radit Mehsan",
+      "name_returned": null,
+      "hsc_roll_primary": "108759",
+      "hsc_roll_alt": "108760",
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110987858",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 3,
+      "duration_s": 2.4,
+      "fetched_at": "2026-11-06T11:40:22",
+      "error": "invalid registration/roll",
+      "raw": [
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        },
+        {
+          "status": 210,
+          "message": "Invalid reg no",
+          "result": []
+        }
+      ]
+    }
+  },
+  {
+    "serial_no": 107,
+    "source": {
+      "id": 141,
+      "name": "MD. NUR SADIK",
+      "college_roll": "1202425010114",
+      "admission_roll": "184671",
+      "father_name": "Md. Shahnewaj Sadik",
+      "mother_name": "Mst.Noor Mahal",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. NUR SADIK",
+      "name_returned": "MD. NUR SADIK",
+      "hsc_roll_primary": "108833",
+      "hsc_roll_alt": "108835",
+      "roll_used": "108834",
+      "returned_roll": "108834",
+      "registration_no": "2112843824",
+      "returned_reg": "2112843824",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "4.83",
+      "gpa_match": false,
+      "subject_count": 7,
+      "total_marks": 1084,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "157"
+        },
+        {
+          "code": "107-108",
+          "grade": "A",
+          "subject": "ENGLISH",
+          "marks": "154"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "086"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "175"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "180"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "159"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "173"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": false,
+      "flags": [
+        "gpa_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 2,
+      "api_attempts": 8,
+      "duration_s": 3.61,
+      "fetched_at": "2026-11-06T11:40:27",
+      "error": null,
+      "raw": null
+    }
+  }
+]

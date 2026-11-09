@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-11-06T14:30:01",
+  "elapsed_s": 35.9,
+  "elapsed": "00:00:35",
+  "total": 862,
+  "counts": {
+    "ok": 853,
+    "missing_roll": 9
+  },
+  "verified": 851,
+  "flags": {
+    "gpa_mismatch": 32,
+    "name_mismatch": 2,
+    "gpa_unavailable": 5
+  },
+  "output": "results/marksheets_20261106_104600"
+}

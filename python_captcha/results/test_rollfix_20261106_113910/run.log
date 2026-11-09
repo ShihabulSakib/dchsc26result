@@ -1,0 +1,9 @@
+2026-11-06T11:39:10 start records=7 pending=7 out=results/test_rollfix_20261106_113910 board=10 year=2026
+2026-11-06T11:39:12 [1/7] serial=28 status=ok roll_used=108755 returned=FAHIM SHAHRIAR SHAWN gpa=5.00 attempts=3 error=None
+2026-11-06T11:39:16 [2/7] serial=33 status=invalid_reg roll_used=None returned=None gpa=None attempts=11 error=invalid registration/roll
+2026-11-06T11:39:18 [3/7] serial=107 status=ok roll_used=108834 returned=MD. NUR SADIK gpa=5.00 attempts=2 error=None
+2026-11-06T11:39:21 [4/7] serial=108 status=ok roll_used=108835 returned=AHMED MOZAM NIPUN gpa=5.00 attempts=2 error=None
+2026-11-06T11:39:23 [5/7] serial=109 status=ok roll_used=108836 returned=ATIF AT TASDIK gpa=5.00 attempts=3 error=None
+2026-11-06T11:39:27 [6/7] serial=148 status=ok roll_used=108875 returned=RAKIB HOSSAIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:39:30 [7/7] serial=149 status=ok roll_used=108876 returned=MD. SIFAT RAHMAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:39:30 done total=7 counts={'ok': 6, 'invalid_reg': 1} verified=6 elapsed=00:00:19

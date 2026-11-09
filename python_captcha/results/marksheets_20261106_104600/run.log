@@ -1,0 +1,930 @@
+2026-11-06T10:46:00 start records=862 pending=862 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T10:46:01 [1/862] serial=1 status=ok roll_used=108727 returned=MD.  NAGIB  MAHAFUZ gpa=5.00 attempts=1
+2026-11-06T10:46:04 [2/862] serial=2 status=ok roll_used=108728 returned=MD. SHOYB HASAN gpa=5.00 attempts=2
+2026-11-06T10:46:07 [3/862] serial=3 status=ok roll_used=108729 returned=SAZID MAHMUD gpa=5.00 attempts=1
+2026-11-06T10:46:10 [4/862] serial=4 status=ok roll_used=108730 returned=MD. SAYEED AL JUBAYER gpa=5.00 attempts=1
+2026-11-06T10:46:13 [5/862] serial=5 status=ok roll_used=108731 returned=MD. TANJIT MAHBUB gpa=4.83 attempts=1
+2026-11-06T10:46:16 [6/862] serial=6 status=ok roll_used=108732 returned=AFFAN HOWLADER gpa=5.00 attempts=1
+2026-11-06T10:46:18 [7/862] serial=7 status=ok roll_used=108733 returned=TASNIM HOSSAIN ZESAN gpa=5.00 attempts=2
+2026-11-06T10:46:22 [8/862] serial=8 status=ok roll_used=108734 returned=MD. SOAIB AHMED gpa=4.75 attempts=1
+2026-11-06T10:46:25 [9/862] serial=9 status=ok roll_used=108735 returned=TARIKUN NABI SHAYEN gpa=4.67 attempts=1
+2026-11-06T10:46:29 [10/862] serial=10 status=ok roll_used=108736 returned=TAHMID MUNTAKA MUGDHA gpa=5.00 attempts=1
+2026-11-06T10:46:33 [11/862] serial=11 status=ok roll_used=108737 returned=NILOY CHAKMA ARYA gpa=5.00 attempts=9
+2026-11-06T10:46:36 [12/862] serial=12 status=ok roll_used=108738 returned=SHEIKH NAVID UL HASAN gpa=5.00 attempts=2
+2026-11-06T10:46:40 [13/862] serial=13 status=ok roll_used=108739 returned=MD. MAHADI HASAN SIMON gpa=5.00 attempts=9
+2026-11-06T10:46:44 [14/862] serial=14 status=ok roll_used=108740 returned=ABID AZAD gpa=5.00 attempts=1
+2026-11-06T10:46:49 [15/862] serial=15 status=ok roll_used=108741 returned=MD. TANVIR ISLAM RAFI gpa=4.75 attempts=9
+2026-11-06T10:46:53 [16/862] serial=16 status=ok roll_used=108742 returned=SADAF MAHMOOD SAMIN gpa=5.00 attempts=9
+2026-11-06T10:46:56 [17/862] serial=17 status=ok roll_used=108743 returned=NAHIYAN AHMED gpa=5.00 attempts=1
+2026-11-06T10:46:58 [18/862] serial=18 status=ok roll_used=108744 returned=JOYONTA SAHA gpa=5.00 attempts=1
+2026-11-06T10:47:00 [19/862] serial=19 status=ok roll_used=108745 returned=AVRAJIT SAHA ATUL gpa=5.00 attempts=1
+2026-11-06T10:47:03 [20/862] serial=20 status=ok roll_used=108746 returned=MOHAMMAD SAIDUR RAHMAN gpa=5.00 attempts=1
+2026-11-06T10:47:08 [21/862] serial=21 status=ok roll_used=108747 returned=NAFIS BIN MAHABUB gpa=5.00 attempts=9
+2026-11-06T10:47:11 [22/862] serial=22 status=ok roll_used=108748 returned=MD. ASLAM HOSSAIN gpa=4.83 attempts=1
+2026-11-06T10:47:14 [23/862] serial=23 status=ok roll_used=108749 returned=AHAD MAHMUD RONI gpa=4.83 attempts=1
+2026-11-06T10:47:16 [24/862] serial=24 status=ok roll_used=108750 returned=MUSTAMIN YAZDAN gpa=5.00 attempts=1
+2026-11-06T10:47:19 [25/862] serial=25 status=ok roll_used=108751 returned=JUNAID AHMED JISAN gpa=4.83 attempts=1
+2026-11-06T10:47:23 [26/862] serial=26 status=ok roll_used=108752 returned=MD. AJMAIN KHAN SAHED gpa=4.67 attempts=1
+2026-11-06T10:47:37 [27/862] serial=27 status=ok roll_used=108753 returned=FAHMID SHAHRIAR MAHI gpa=4.83 attempts=3
+2026-11-06T10:47:39 [28/862] serial=28 status=ok roll_used=108755 returned=FAHIM SHAHRIAR SHAWN gpa=5.00 attempts=2
+2026-11-06T10:47:42 [29/862] serial=29 status=ok roll_used=108756 returned=MOSTAQUE SHARIER TONMOY gpa=5.00 attempts=2
+2026-11-06T10:47:45 [30/862] serial=30 status=ok roll_used=108757 returned=MD. ANAS HOSSAIN gpa=5.00 attempts=10
+2026-11-06T10:47:48 [31/862] serial=31 status=ok roll_used=108758 returned=MD. INQIYAD ZAMAN gpa=5.00 attempts=2
+2026-11-06T10:47:52 [32/862] serial=32 status=ok roll_used=108759 returned=MD. MAHDI HASAN SAYEM gpa=5.00 attempts=2
+2026-11-06T10:48:31 [33/862] serial=33 status=failed roll_used=None returned=None gpa=None attempts=14
+2026-11-06T10:48:34 [34/862] serial=34 status=ok roll_used=108760 returned=FOWAD AL HOSSAIN gpa=5.00 attempts=1
+2026-11-06T10:48:37 [35/862] serial=35 status=ok roll_used=108761 returned=MD. ISRAK HOSSAIN gpa=4.92 attempts=1
+2026-11-06T10:48:40 [36/862] serial=36 status=ok roll_used=108762 returned=DHRUBO DEBNATH gpa=5.00 attempts=2
+2026-11-06T10:48:43 [37/862] serial=37 status=ok roll_used=108763 returned=MOHAMMAD MOSHEUR RAHMAN gpa=5.00 attempts=2
+2026-11-06T10:48:47 [38/862] serial=38 status=ok roll_used=108764 returned=ABRAR ASIF TAHHA gpa=5.00 attempts=2
+2026-11-06T10:48:49 [39/862] serial=39 status=ok roll_used=108765 returned=ARPON SAHA gpa=4.83 attempts=1
+2026-11-06T10:48:52 [40/862] serial=40 status=ok roll_used=108766 returned=ARTHO AHMED gpa=5.00 attempts=2
+2026-11-06T10:48:55 [41/862] serial=41 status=ok roll_used=108767 returned=MD. IMRAN SAMI gpa=5.00 attempts=1
+2026-11-06T10:49:09 [42/862] serial=42 status=ok roll_used=108768 returned=A.K.M. KHALID HASAN gpa=5.00 attempts=13
+2026-11-06T10:49:13 [43/862] serial=43 status=ok roll_used=108769 returned=TALHA IBN RAZZAQUE gpa=5.00 attempts=1
+2026-11-06T10:49:16 [44/862] serial=44 status=ok roll_used=108770 returned=MD.AN-NAFI gpa=4.75 attempts=1
+2026-11-06T10:49:19 [45/862] serial=45 status=ok roll_used=108771 returned=MD. IBRAHIM HOSSAIN RAFI gpa=5.00 attempts=2
+2026-11-06T10:49:23 [46/862] serial=46 status=ok roll_used=108772 returned=NAFIZ ANJUM gpa=4.67 attempts=5
+2026-11-06T10:49:26 [47/862] serial=47 status=ok roll_used=108773 returned=MAHIBUR RAHMAN gpa=4.67 attempts=1
+2026-11-06T10:49:30 [48/862] serial=48 status=ok roll_used=108774 returned=TAHSAN AL AMIN gpa=4.58 attempts=1
+2026-11-06T10:49:33 [49/862] serial=49 status=ok roll_used=108775 returned=MD. FAHIM FAISAL gpa=4.92 attempts=2
+2026-11-06T10:49:37 [50/862] serial=50 status=ok roll_used=108776 returned=MD. RAYHAN ISLAM NAYEEM gpa=4.67 attempts=1
+2026-11-06T10:49:40 [51/862] serial=51 status=ok roll_used=108777 returned=JAMI ABDULLAH gpa=5.00 attempts=1
+2026-11-06T10:49:43 [52/862] serial=52 status=ok roll_used=108778 returned=MD. JAHID HASAN gpa=5.00 attempts=1
+2026-11-06T10:49:45 [53/862] serial=53 status=ok roll_used=108779 returned=ADIB ILHAN gpa=5.00 attempts=1
+2026-11-06T10:49:47 [54/862] serial=54 status=ok roll_used=108780 returned=MD. SAHIDUR RAHMAN gpa=5.00 attempts=1
+2026-11-06T10:49:51 [55/862] serial=55 status=ok roll_used=108781 returned=SABYASACHI SAHA MUGDHO gpa=5.00 attempts=1
+2026-11-06T10:49:53 [56/862] serial=56 status=ok roll_used=108782 returned=MD. WALIULLAH gpa=5.00 attempts=1
+2026-11-06T10:49:57 [57/862] serial=57 status=ok roll_used=108783 returned=FARHAN SADIK RAIYAN gpa=5.00 attempts=2
+2026-11-06T10:50:00 [58/862] serial=58 status=ok roll_used=108784 returned=TASHIUR RAIHAN TAHSAN gpa=5.00 attempts=1
+2026-11-06T10:50:02 [59/862] serial=59 status=ok roll_used=108785 returned=A. NM TASHDID AHASAN gpa=4.50 attempts=1
+2026-11-06T10:50:06 [60/862] serial=60 status=ok roll_used=108786 returned=MD. MAHIYAN ZISHAN CHOWDHURY gpa=5.00 attempts=1
+2026-11-06T10:50:09 [61/862] serial=61 status=ok roll_used=108787 returned=S.M. ABU HURAIRA gpa=5.00 attempts=2
+2026-11-06T10:50:13 [62/862] serial=62 status=ok roll_used=108788 returned=MD. FARHANUL ALAM SARKER gpa=5.00 attempts=1
+2026-11-06T10:50:16 [63/862] serial=63 status=ok roll_used=108789 returned=NABIL MONTASIR gpa=5.00 attempts=1
+2026-11-06T10:50:18 [64/862] serial=64 status=ok roll_used=108790 returned=MD. RASHNIM FERDOUSH ADIPTTA gpa=5.00 attempts=1
+2026-11-06T10:50:22 [65/862] serial=65 status=ok roll_used=108791 returned=MISKAT HAIDER gpa=5.00 attempts=1
+2026-11-06T10:50:25 [66/862] serial=66 status=ok roll_used=108792 returned=SAHITTA KUMAR HALDAR gpa=5.00 attempts=1
+2026-11-06T10:50:28 [67/862] serial=67 status=ok roll_used=108793 returned=TAMJEED JUBAIR APON gpa=5.00 attempts=1
+2026-11-06T10:50:31 [68/862] serial=68 status=ok roll_used=108794 returned=SHAH MOHAMMAD TASIN gpa=4.67 attempts=1
+2026-11-06T10:50:34 [69/862] serial=69 status=ok roll_used=108795 returned=JUBAYER AHMED gpa=5.00 attempts=1
+2026-11-06T10:50:37 [70/862] serial=70 status=ok roll_used=108796 returned=MD. RUBAIYAT HUSSAIN TRIDIB gpa=5.00 attempts=2
+2026-11-06T10:50:41 [71/862] serial=71 status=ok roll_used=108797 returned=FARABI ZAHAN CHOWDHURY gpa=5.00 attempts=1
+2026-11-06T10:50:44 [72/862] serial=72 status=ok roll_used=108798 returned=POROMBROTO SARKER gpa=5.00 attempts=1
+2026-11-06T10:50:47 [73/862] serial=73 status=ok roll_used=108799 returned=FAYSAL AHMED gpa=5.00 attempts=1
+2026-11-06T10:50:50 [74/862] serial=74 status=ok roll_used=108800 returned=SAMIUL HASAN BRINTO gpa=4.33 attempts=1
+2026-11-06T10:50:54 [75/862] serial=75 status=ok roll_used=108801 returned=ABDUL  HAI  SAJIM gpa=4.83 attempts=1
+2026-11-06T10:50:57 [76/862] serial=76 status=ok roll_used=108802 returned=MD. SADIQUL ISLAM gpa=5.00 attempts=1
+2026-11-06T10:51:00 [77/862] serial=77 status=ok roll_used=108803 returned=MD. FORHAD HOSSAIN gpa=5.00 attempts=1
+2026-11-06T10:51:03 [78/862] serial=78 status=ok roll_used=108804 returned=MD. AZIZUL HAKIM gpa=5.00 attempts=1
+2026-11-06T10:51:05 [79/862] serial=79 status=ok roll_used=108805 returned=ARIQ RAHMAN gpa=5.00 attempts=1
+2026-11-06T10:51:07 [80/862] serial=80 status=ok roll_used=108806 returned=MD. ISHAK HOSSAIN gpa=5.00 attempts=1
+2026-11-06T10:51:10 [81/862] serial=81 status=ok roll_used=108807 returned=SHAKIB HOSSAIN TAHMID gpa=5.00 attempts=1
+2026-11-06T10:51:13 [82/862] serial=82 status=ok roll_used=108808 returned=MOHAMMAD ZUHAYER MAHTAB gpa=5.00 attempts=1
+2026-11-06T10:51:17 [83/862] serial=83 status=ok roll_used=108809 returned=MD. MEAHEADI HASAN ANIK gpa=4.67 attempts=2
+2026-11-06T10:51:19 [84/862] serial=84 status=ok roll_used=108810 returned=MD. TASFIRUL HAQUE gpa=4.25 attempts=1
+2026-11-06T10:51:22 [85/862] serial=85 status=ok roll_used=108811 returned=MUNTASIN RAHMAN gpa=5.00 attempts=1
+2026-11-06T10:51:25 [86/862] serial=86 status=ok roll_used=108812 returned=FYZAN BIN HASAN gpa=4.75 attempts=1
+2026-11-06T10:51:28 [87/862] serial=87 status=ok roll_used=108813 returned=TAMIM AHMED gpa=5.00 attempts=1
+2026-11-06T10:51:41 [88/862] serial=88 status=ok roll_used=108814 returned=BAYEZID AHMED KOWSHIK gpa=5.00 attempts=5
+2026-11-06T10:51:43 [89/862] serial=89 status=ok roll_used=108815 returned=MD. IBTIHAZ RAHMAN gpa=5.00 attempts=1
+2026-11-06T10:51:47 [90/862] serial=90 status=ok roll_used=108816 returned=GOLAM KAWSER TANVIR gpa=5.00 attempts=1
+2026-11-06T10:51:50 [91/862] serial=91 status=ok roll_used=108817 returned=FAHIM AHMED gpa=5.00 attempts=1
+2026-11-06T10:51:54 [92/862] serial=92 status=ok roll_used=108818 returned=MOHAMMAD RUBAYED ISLAM gpa=5.00 attempts=9
+2026-11-06T10:51:56 [93/862] serial=93 status=ok roll_used=108819 returned=FARSAD BIN HAROUN gpa=5.00 attempts=1
+2026-11-06T10:51:59 [94/862] serial=94 status=ok roll_used=108820 returned=TAHSAN SAKIB gpa=5.00 attempts=1
+2026-11-06T10:52:02 [95/862] serial=95 status=ok roll_used=108821 returned=S.M. TAYEF gpa=5.00 attempts=1
+2026-11-06T10:52:07 [96/862] serial=96 status=ok roll_used=108822 returned=MEHERAB HASAN HUZAIFA gpa=5.00 attempts=9
+2026-11-06T10:52:10 [97/862] serial=97 status=ok roll_used=108823 returned=AFNAN BHUIYA NABIL gpa=5.00 attempts=1
+2026-11-06T10:52:12 [98/862] serial=98 status=ok roll_used=108824 returned=MAHEDI HASAN gpa=4.83 attempts=1
+2026-11-06T10:52:15 [99/862] serial=99 status=ok roll_used=108825 returned=MD. SAIDUL HAQUE gpa=4.83 attempts=1
+2026-11-06T10:52:18 [100/862] serial=100 status=ok roll_used=108826 returned=MONIR ISLAM gpa=5.00 attempts=1
+2026-11-06T10:52:18 cool-down 20s
+2026-11-06T10:52:41 [101/862] serial=101 status=ok roll_used=108827 returned=IQTIDAR gpa=5.00 attempts=1
+2026-11-06T10:52:45 [102/862] serial=102 status=ok roll_used=108828 returned=PROJJWAL SARDAR gpa=5.00 attempts=2
+2026-11-06T10:52:48 [103/862] serial=103 status=ok roll_used=108829 returned=ARNOB ROY gpa=5.00 attempts=1
+2026-11-06T10:52:50 [104/862] serial=104 status=ok roll_used=108830 returned=AZWAD ANJUM LABIB gpa=5.00 attempts=1
+2026-11-06T10:52:53 [105/862] serial=105 status=ok roll_used=108831 returned=TAHASIN RAJ KHAN gpa=5.00 attempts=1
+2026-11-06T10:52:56 [106/862] serial=106 status=ok roll_used=108832 returned=K.M SIFAOWA SAKOM gpa=5.00 attempts=7
+2026-11-06T10:53:30 [107/862] serial=107 status=failed roll_used=None returned=None gpa=None attempts=18
+2026-11-06T10:53:46 [108/862] serial=108 status=failed roll_used=None returned=None gpa=None attempts=24
+2026-11-06T10:54:29 [109/862] serial=109 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T10:54:53 [110/862] serial=110 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T10:55:23 [111/862] serial=111 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T10:56:02 [112/862] serial=112 status=failed roll_used=None returned=None gpa=None attempts=14
+2026-11-06T10:56:38 [113/862] serial=113 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T10:56:38 pacing reduced
+2026-11-06T10:57:28 [114/862] serial=114 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T10:58:13 [115/862] serial=115 status=failed roll_used=None returned=None gpa=None attempts=18
+2026-11-06T10:58:55 [116/862] serial=116 status=failed roll_used=None returned=None gpa=None attempts=17
+2026-11-06T10:59:37 [117/862] serial=117 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:00:09 [118/862] serial=118 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T11:00:53 [119/862] serial=119 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:01:31 [120/862] serial=120 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:02:06 [121/862] serial=121 status=failed roll_used=None returned=None gpa=None attempts=14
+2026-11-06T11:02:54 [122/862] serial=122 status=failed roll_used=None returned=None gpa=None attempts=17
+2026-11-06T11:03:35 [123/862] serial=123 status=failed roll_used=None returned=None gpa=None attempts=18
+2026-11-06T11:04:05 [124/862] serial=124 status=failed roll_used=None returned=None gpa=None attempts=17
+2026-11-06T11:04:44 [125/862] serial=125 status=failed roll_used=None returned=None gpa=None attempts=22
+2026-11-06T11:04:56 [126/862] serial=126 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T11:05:43 [127/862] serial=127 status=failed roll_used=None returned=None gpa=None attempts=18
+2026-11-06T11:06:09 [128/862] serial=128 status=failed roll_used=None returned=None gpa=None attempts=22
+2026-11-06T11:06:51 [129/862] serial=129 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T11:07:30 [130/862] serial=130 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T11:08:10 [131/862] serial=131 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:08:45 [132/862] serial=132 status=failed roll_used=None returned=None gpa=None attempts=21
+2026-11-06T11:09:15 [133/862] serial=133 status=failed roll_used=None returned=None gpa=None attempts=25
+2026-11-06T11:09:49 [134/862] serial=134 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:10:28 [135/862] serial=135 status=failed roll_used=None returned=None gpa=None attempts=24
+2026-11-06T11:10:55 [136/862] serial=136 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T11:11:25 [137/862] serial=137 status=failed roll_used=None returned=None gpa=None attempts=18
+2026-11-06T11:11:48 [138/862] serial=138 status=failed roll_used=None returned=None gpa=None attempts=19
+2026-11-06T11:12:30 [139/862] serial=139 status=failed roll_used=None returned=None gpa=None attempts=17
+2026-11-06T11:12:59 [140/862] serial=140 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:13:32 [141/862] serial=141 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:14:05 [142/862] serial=142 status=failed roll_used=None returned=None gpa=None attempts=14
+2026-11-06T11:14:34 [143/862] serial=143 status=failed roll_used=None returned=None gpa=None attempts=23
+2026-11-06T11:15:03 [144/862] serial=144 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T11:15:36 [145/862] serial=145 status=failed roll_used=None returned=None gpa=None attempts=13
+2026-11-06T11:16:13 [146/862] serial=146 status=failed roll_used=None returned=None gpa=None attempts=12
+2026-11-06T11:18:01 start records=862 pending=716 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T11:18:34 [1/716] serial=147 status=failed roll_used=None returned=None gpa=None attempts=22
+2026-11-06T11:18:34 pacing reduced
+2026-11-06T11:34:08 start records=862 pending=757 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T11:45:27 start records=862 pending=757 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T11:45:29 [1/757] serial=33 status=invalid_reg roll_used=None returned=None gpa=None attempts=3 error=invalid registration/roll
+2026-11-06T11:45:32 [2/757] serial=107 status=ok roll_used=108834 returned=MD. NUR SADIK gpa=5.00 attempts=2 error=None
+2026-11-06T11:45:45 [3/757] serial=108 status=ok roll_used=108835 returned=AHMED MOZAM NIPUN gpa=5.00 attempts=11 error=None
+2026-11-06T11:45:51 [4/757] serial=109 status=ok roll_used=108836 returned=ATIF AT TASDIK gpa=5.00 attempts=18 error=None
+2026-11-06T11:45:53 [5/757] serial=110 status=ok roll_used=108837 returned=MD.ABU KAWSAR HADI gpa=5.00 attempts=2 error=None
+2026-11-06T11:45:56 [6/757] serial=111 status=ok roll_used=108838 returned=RAFIAD SADAT RANGON gpa=5.00 attempts=3 error=None
+2026-11-06T11:45:59 [7/757] serial=112 status=ok roll_used=108839 returned=MD. MOBASHSHIR HOSSAIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:02 [8/757] serial=113 status=ok roll_used=108840 returned=RAGIB AHMED gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:04 [9/757] serial=114 status=ok roll_used=108841 returned=MUBTASIM FUAD gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:07 [10/757] serial=115 status=ok roll_used=108842 returned=MD. RASHEDUL ABEDIN BHUIYAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:11 [11/757] serial=116 status=ok roll_used=108843 returned=MD. MAHMUDUL HASAN gpa=4.83 attempts=2 error=None
+2026-11-06T11:46:14 [12/757] serial=117 status=ok roll_used=108844 returned=MD. YEASIN ARAFAT gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:17 [13/757] serial=118 status=ok roll_used=108845 returned=MOTAHSIM FUAD SUHRID gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:20 [14/757] serial=119 status=ok roll_used=108846 returned=AKIL AHNAF gpa=5.00 attempts=10 error=None
+2026-11-06T11:46:22 [15/757] serial=120 status=ok roll_used=108847 returned=MD. AMIRUL JARIF gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:26 [16/757] serial=121 status=ok roll_used=108848 returned=MD. ABDULLAH AL KAIUM gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:29 [17/757] serial=122 status=ok roll_used=108849 returned=MD. ASADUR RAHMAN ADOR gpa=5.00 attempts=9 error=None
+2026-11-06T11:46:32 [18/757] serial=123 status=ok roll_used=108850 returned=ABDULLAH AL SIAM gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:36 [19/757] serial=124 status=ok roll_used=108851 returned=MD. ABIR HASAN gpa=4.67 attempts=2 error=None
+2026-11-06T11:46:39 [20/757] serial=125 status=ok roll_used=108852 returned=SAYEED SULTAN AL - ARIFIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:52 [21/757] serial=126 status=ok roll_used=108853 returned=KAZI SALEHIN SWADHIN gpa=5.00 attempts=7 error=None
+2026-11-06T11:46:55 [22/757] serial=127 status=ok roll_used=108854 returned=NONI GOPAL SHAHA gpa=5.00 attempts=2 error=None
+2026-11-06T11:46:58 [23/757] serial=128 status=ok roll_used=108855 returned=REZWAN AHMED RIZVI gpa=5.00 attempts=3 error=None
+2026-11-06T11:47:00 [24/757] serial=129 status=ok roll_used=108856 returned=ALAM RABBANI gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:03 [25/757] serial=130 status=ok roll_used=108857 returned=SRABON PODDER gpa=4.83 attempts=2 error=None
+2026-11-06T11:47:07 [26/757] serial=131 status=ok roll_used=108858 returned=TANVIR RAHMAN gpa=5.00 attempts=10 error=None
+2026-11-06T11:47:09 [27/757] serial=132 status=ok roll_used=108859 returned=MD. HAMIM KHAN gpa=4.83 attempts=2 error=None
+2026-11-06T11:47:12 [28/757] serial=133 status=ok roll_used=108860 returned=NABIL AL HASAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:15 [29/757] serial=134 status=ok roll_used=108861 returned=MD. IMTIAZ AHMED gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:19 [30/757] serial=135 status=ok roll_used=108862 returned=IMTIAJ HOSSAIN MOLLA gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:21 [31/757] serial=136 status=ok roll_used=108863 returned=FAYSAL AHMAD gpa=4.83 attempts=2 error=None
+2026-11-06T11:47:35 [32/757] serial=137 status=ok roll_used=108864 returned=NAZMUS SALEKIN gpa=5.00 attempts=11 error=None
+2026-11-06T11:47:38 [33/757] serial=138 status=ok roll_used=108865 returned=SAIDUZZAMAN SAIHAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:41 [34/757] serial=139 status=ok roll_used=108866 returned=ONISH KUMAR MAHATO NOBO gpa=4.67 attempts=2 error=None
+2026-11-06T11:47:44 [35/757] serial=140 status=ok roll_used=108867 returned=MD. JUNAAD AL HABIB gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:47 [36/757] serial=141 status=ok roll_used=108868 returned=MD. SAJIDUL ISLAM KABBO gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:50 [37/757] serial=142 status=ok roll_used=108869 returned=RIFAT SHAHARIAR SHAHI gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:53 [38/757] serial=143 status=ok roll_used=108870 returned=MD. JAHEDUR RAHMAN THOHA gpa=4.08 attempts=2 error=None
+2026-11-06T11:47:56 [39/757] serial=144 status=ok roll_used=108871 returned=WASIF SAADAT gpa=5.00 attempts=2 error=None
+2026-11-06T11:47:59 [40/757] serial=145 status=ok roll_used=108872 returned=RAFID RAIYAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:02 [41/757] serial=146 status=ok roll_used=108873 returned=MD.MEHEDI HASSAN gpa=5.00 attempts=10 error=None
+2026-11-06T11:48:05 [42/757] serial=147 status=ok roll_used=108874 returned=ABDULLAHIL JAMI gpa=5.00 attempts=3 error=None
+2026-11-06T11:48:08 [43/757] serial=148 status=ok roll_used=108875 returned=RAKIB HOSSAIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:11 [44/757] serial=149 status=ok roll_used=108876 returned=MD. SIFAT RAHMAN gpa=5.00 attempts=7 error=None
+2026-11-06T11:48:16 [45/757] serial=150 status=ok roll_used=108877 returned=RAFSAN ZAMAN SABITH gpa=5.00 attempts=10 error=None
+2026-11-06T11:48:17 [46/757] serial=151 status=ok roll_used=108878 returned=TAHMID ALAM gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:21 [47/757] serial=152 status=ok roll_used=108879 returned=ABIDUR RAHMAN RATUL gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:24 [48/757] serial=153 status=ok roll_used=108880 returned=MD. EFTIKHAR EZAZ gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:26 [49/757] serial=154 status=ok roll_used=108881 returned=MAITRAYA BARUA gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:29 [50/757] serial=155 status=ok roll_used=108882 returned=RAYHANUL KARIM gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:33 [51/757] serial=156 status=ok roll_used=108883 returned=ABDUL KAHHAR MAHIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:35 [52/757] serial=157 status=ok roll_used=108884 returned=TAHMIDUL HAQUE gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:39 [53/757] serial=158 status=ok roll_used=108885 returned=MD. ZAYED BIN ZAKARIA gpa=5.00 attempts=2 error=None
+2026-11-06T11:48:54 [54/757] serial=159 status=ok roll_used=108886 returned=ASADULLAHIL GALIB KHAN gpa=5.00 attempts=19 error=None
+2026-11-06T11:48:57 [55/757] serial=160 status=ok roll_used=108887 returned=AHONAB SHAHARIAR SHAFI gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:01 [56/757] serial=161 status=ok roll_used=108888 returned=AHNAF MUSFIC SAMIR gpa=5.00 attempts=6 error=None
+2026-11-06T11:49:04 [57/757] serial=162 status=ok roll_used=108889 returned=AHMED RAYHAN KARIM RUPOM gpa=5.00 attempts=10 error=None
+2026-11-06T11:49:07 [58/757] serial=163 status=ok roll_used=108890 returned=IBNE AL FAISAL gpa=5.00 attempts=10 error=None
+2026-11-06T11:49:09 [59/757] serial=164 status=ok roll_used=108891 returned=WASEEM SAFWAAN SAAD gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:12 [60/757] serial=165 status=ok roll_used=108892 returned=NAZIUR RAHMAN gpa=4.50 attempts=2 error=None
+2026-11-06T11:49:15 [61/757] serial=166 status=ok roll_used=108893 returned=ARIFUL ISLAM ABIR gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:18 [62/757] serial=167 status=ok roll_used=108894 returned=MAHFUZUL ISLAM KHAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:21 [63/757] serial=168 status=ok roll_used=108895 returned=MIR BILAWAL BIN AHMED gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:27 [64/757] serial=169 status=ok roll_used=108896 returned=SUSMOY GHOSH gpa=4.50 attempts=16 error=None
+2026-11-06T11:49:30 [65/757] serial=170 status=ok roll_used=108897 returned=RAFIN AHMED gpa=4.50 attempts=2 error=None
+2026-11-06T11:49:33 [66/757] serial=171 status=ok roll_used=108898 returned=SIRAJUL ISLAM RIFAT gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:35 [67/757] serial=172 status=ok roll_used=108899 returned=NAZIM RAJ DHRUBO gpa=5.00 attempts=3 error=None
+2026-11-06T11:49:39 [68/757] serial=173 status=ok roll_used=108900 returned=ABDULLAH AL NUHIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:42 [69/757] serial=174 status=ok roll_used=108901 returned=SADAB MONOWAR ADIB gpa=4.58 attempts=2 error=None
+2026-11-06T11:49:45 [70/757] serial=175 status=ok roll_used=108902 returned=MISKATUR RAHMAN NAYAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:48 [71/757] serial=176 status=ok roll_used=108903 returned=TABSIR MAHMOOD gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:51 [72/757] serial=177 status=ok roll_used=108904 returned=IBNUL MOBASHAR gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:54 [73/757] serial=178 status=ok roll_used=108905 returned=MD. RAZWAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:49:57 [74/757] serial=179 status=ok roll_used=108906 returned=M S YEASER ADEEB gpa=5.00 attempts=2 error=None
+2026-11-06T11:50:00 [75/757] serial=180 status=ok roll_used=108907 returned=MD. NAIMUN NABIL gpa=5.00 attempts=2 error=None
+2026-11-06T11:50:04 [76/757] serial=181 status=ok roll_used=108908 returned=MD ATAUR RAHMAN gpa=4.92 attempts=2 error=None
+2026-11-06T11:50:06 [77/757] serial=182 status=ok roll_used=108909 returned=MOHAMMAD SAMSUL AREFIN FAISAL gpa=5.00 attempts=2 error=None
+2026-11-06T11:50:11 [78/757] serial=183 status=ok roll_used=108910 returned=ZUBAYER AHMMED gpa=5.00 attempts=11 error=None
+2026-11-06T11:50:14 [79/757] serial=184 status=ok roll_used=108911 returned=MD. MAHEDI HASAN gpa=4.83 attempts=2 error=None
+2026-11-06T11:50:17 [80/757] serial=185 status=invalid_reg roll_used=None returned=None gpa=None attempts=4 error=invalid registration/roll
+2026-11-06T11:50:20 [81/757] serial=186 status=ok roll_used=108912 returned=ARAFAT ROHMAN gpa=4.75 attempts=1 error=None
+2026-11-06T11:50:22 [82/757] serial=187 status=ok roll_used=108913 returned=MD. JUBAYER HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:25 [83/757] serial=188 status=ok roll_used=108914 returned=MD. MINHAJUL ABRAR gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:28 [84/757] serial=189 status=ok roll_used=108915 returned=ABDULLAH MOHIUDDIN NAHIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:31 [85/757] serial=190 status=ok roll_used=108916 returned=JOBAER MAHATHIR LEEON gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:36 [86/757] serial=191 status=ok roll_used=108917 returned=MD. SAKIB HOSEN gpa=4.83 attempts=9 error=None
+2026-11-06T11:50:39 [87/757] serial=192 status=ok roll_used=108918 returned=MD. ABRAR BIN RASHED AYON gpa=4.75 attempts=1 error=None
+2026-11-06T11:50:41 [88/757] serial=193 status=ok roll_used=108919 returned=SAYED ARAFAT HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:45 [89/757] serial=194 status=ok roll_used=108920 returned=MOHAMMAD MAHMUD HASAN SHUVO gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:46 [90/757] serial=195 status=ok roll_used=108921 returned=MUSALLAM RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:50:49 [91/757] serial=196 status=ok roll_used=108922 returned=MAHFUZUR RAHMAN gpa=4.08 attempts=1 error=None
+2026-11-06T11:50:50 [92/757] serial=197 status=ok roll_used=108923 returned=MD. BAYAZID HOSSAIN gpa=4.83 attempts=1 error=None
+2026-11-06T11:50:53 [93/757] serial=198 status=ok roll_used=108924 returned=ABDUR RAHMAN gpa=4.83 attempts=1 error=None
+2026-11-06T11:50:57 [94/757] serial=199 status=ok roll_used=108925 returned=RATUL HASAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:51:00 [95/757] serial=200 status=ok roll_used=108926 returned=MD. MAHIR MUBARRAT gpa=4.92 attempts=1 error=None
+2026-11-06T11:51:09 [96/757] serial=201 status=ok roll_used=108927 returned=MD. JUBAYER gpa=4.83 attempts=12 error=None
+2026-11-06T11:51:11 [97/757] serial=202 status=ok roll_used=108928 returned=ZUBAYER AREFIN PRIYO gpa=5.00 attempts=1 error=None
+2026-11-06T11:51:14 [98/757] serial=203 status=ok roll_used=108929 returned=A. B. M. SHAH SAFIAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:51:16 [99/757] serial=204 status=ok roll_used=108930 returned=SWAPNIL SEN gpa=5.00 attempts=2 error=None
+2026-11-06T11:51:18 [100/757] serial=205 status=ok roll_used=108931 returned=MAHIN RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:51:18 cool-down 20s
+2026-11-06T11:51:41 [101/757] serial=206 status=ok roll_used=108932 returned=MD. RAKIB BHUIYAN ROBIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:51:44 [102/757] serial=207 status=ok roll_used=108933 returned=FARHAN BIN ALAM gpa=5.00 attempts=1 error=None
+2026-11-06T11:51:59 [103/757] serial=208 status=ok roll_used=108934 returned=NAVO NAJIF SHARIF gpa=5.00 attempts=10 error=None
+2026-11-06T11:52:02 [104/757] serial=209 status=ok roll_used=108935 returned=HASAN MAHMUD SHAFI gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:06 [105/757] serial=210 status=ok roll_used=108936 returned=K. M. AL AMIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:08 [106/757] serial=211 status=ok roll_used=108937 returned=SUAIB MAHBUB PATHAN gpa=5.00 attempts=4 error=None
+2026-11-06T11:52:10 [107/757] serial=212 status=ok roll_used=108938 returned=MD. IKRAMUL MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:12 [108/757] serial=213 status=ok roll_used=108939 returned=ABDULLAH AL MAMUN FARAJI gpa=4.67 attempts=1 error=None
+2026-11-06T11:52:16 [109/757] serial=214 status=ok roll_used=108940 returned=MD. ABDULLAH AL SHAFI gpa=5.00 attempts=2 error=None
+2026-11-06T11:52:27 [110/757] serial=215 status=ok roll_used=108941 returned=SHEIKH MONTASIR RAIYAN gpa=5.00 attempts=5 error=None
+2026-11-06T11:52:29 [111/757] serial=216 status=ok roll_used=108942 returned=FARDIN HOSSAIN gpa=5.00 attempts=2 error=None
+2026-11-06T11:52:32 [112/757] serial=217 status=ok roll_used=108943 returned=SAYEED MD. RAFI gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:35 [113/757] serial=218 status=ok roll_used=108944 returned=MD. ARYAN MIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:39 [114/757] serial=219 status=ok roll_used=108945 returned=MD. SOHRAB HOSSEN gpa=5.00 attempts=9 error=None
+2026-11-06T11:52:42 [115/757] serial=220 status=ok roll_used=108946 returned=MD. YEASIN KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:46 [116/757] serial=221 status=ok roll_used=108947 returned=MD. MAHMUDUL HASAN NAEEM gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:49 [117/757] serial=222 status=ok roll_used=108948 returned=SHOUVIK CHANDA gpa=5.00 attempts=1 error=None
+2026-11-06T11:52:54 [118/757] serial=223 status=ok roll_used=108949 returned=A F M SALEH SAAD gpa=5.00 attempts=9 error=None
+2026-11-06T11:52:56 [119/757] serial=224 status=ok roll_used=108950 returned=MD. JAMIL HOSSAIN SAZEED gpa=5.00 attempts=3 error=None
+2026-11-06T11:53:00 [120/757] serial=225 status=ok roll_used=108951 returned=TAHMID TAJWAR gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:02 [121/757] serial=226 status=ok roll_used=108952 returned=MD. TANVIR ISLAM MITHUN gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:06 [122/757] serial=227 status=ok roll_used=108953 returned=FAHAD AHAMMOD SIAM gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:10 [123/757] serial=228 status=ok roll_used=108954 returned=SUBRATA CHANDRA ROY gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:12 [124/757] serial=229 status=ok roll_used=108955 returned=TAWSIF AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:15 [125/757] serial=230 status=ok roll_used=108956 returned=MD.ABU JAFOR gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:18 [126/757] serial=231 status=ok roll_used=108957 returned=MAHADE HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:21 [127/757] serial=232 status=ok roll_used=108958 returned=HASNATUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:23 [128/757] serial=233 status=ok roll_used=108959 returned=MD. NAHIAN AHAMMAD gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:26 [129/757] serial=234 status=ok roll_used=108960 returned=SANJADUL AREFIN RAHAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:29 [130/757] serial=235 status=ok roll_used=108961 returned=ABDUL MUKIT gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:32 [131/757] serial=236 status=ok roll_used=108962 returned=MD. FARHAN BHUIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:36 [132/757] serial=237 status=ok roll_used=108963 returned=MD. RIFAT HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:39 [133/757] serial=238 status=ok roll_used=108964 returned=MD. RAKIBUL HASSAN RIFAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:40 [134/757] serial=239 status=ok roll_used=108965 returned=MD. FAYAKUZZAMAN NAHID gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:44 [135/757] serial=240 status=ok roll_used=108966 returned=ABDULLAH AL NISHAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:47 [136/757] serial=241 status=ok roll_used=108967 returned=MD. ABIR SHADAT SAMI gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:50 [137/757] serial=242 status=ok roll_used=108968 returned=AHNAF TAZWAR NADID gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:54 [138/757] serial=243 status=ok roll_used=108969 returned=MD. MUBASSER ALI JARIF gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:56 [139/757] serial=244 status=ok roll_used=108970 returned=ADIB HASAN SADIK gpa=5.00 attempts=1 error=None
+2026-11-06T11:53:59 [140/757] serial=245 status=ok roll_used=108971 returned=SADIKUL ISLAM SADI gpa=5.00 attempts=9 error=None
+2026-11-06T11:54:02 [141/757] serial=246 status=ok roll_used=108972 returned=ASHRAFUL HAQUE EMON gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:04 [142/757] serial=247 status=ok roll_used=108973 returned=MD. SHAHRIAR HASAN SOUROV gpa=4.83 attempts=1 error=None
+2026-11-06T11:54:07 [143/757] serial=248 status=ok roll_used=108974 returned=M. ISRAT AL JUBAIR gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:09 [144/757] serial=249 status=ok roll_used=108975 returned=WASIF ALAM ADITTA gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:12 [145/757] serial=250 status=ok roll_used=108976 returned=FAHIM AL ABDULLAH gpa=5.00 attempts=8 error=None
+2026-11-06T11:54:15 [146/757] serial=251 status=ok roll_used=108977 returned=MOHAMMAD ABU SAYEED gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:18 [147/757] serial=252 status=ok roll_used=108978 returned=MUHAMMAD MUSHFIKUR RAHMAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:54:21 [148/757] serial=253 status=ok roll_used=108979 returned=ASADDUZZAMAN ABIR gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:25 [149/757] serial=254 status=ok roll_used=108980 returned=MD. TAWKIR ABRAR TAMAGHNA gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:38 [150/757] serial=255 status=ok roll_used=108981 returned=TASIN AHMMED JOY gpa=5.00 attempts=9 error=None
+2026-11-06T11:54:42 [151/757] serial=256 status=ok roll_used=108982 returned=SHAFIN SHAHRIAR gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:45 [152/757] serial=257 status=ok roll_used=108983 returned=MD. MOSTAFIZUR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:48 [153/757] serial=258 status=ok roll_used=108984 returned=MD. TANVIR AHAMMED ABIR gpa=5.00 attempts=2 error=None
+2026-11-06T11:54:50 [154/757] serial=259 status=ok roll_used=108985 returned=MARUF HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:52 [155/757] serial=260 status=ok roll_used=108986 returned=ABDULLAH ASHIK gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:55 [156/757] serial=261 status=ok roll_used=108987 returned=NAWFAL BIN MAMUN gpa=5.00 attempts=1 error=None
+2026-11-06T11:54:59 [157/757] serial=262 status=ok roll_used=108988 returned=PRITHIBI SAHA gpa=5.00 attempts=2 error=None
+2026-11-06T11:55:04 [158/757] serial=263 status=ok roll_used=108989 returned=FAIYAZ AL HADAD gpa=5.00 attempts=8 error=None
+2026-11-06T11:55:06 [159/757] serial=264 status=ok roll_used=108990 returned=MD. SHAFIQUL ISLAM MAHI gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:09 [160/757] serial=265 status=ok roll_used=108991 returned=MAHIR TAJWAR gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:13 [161/757] serial=266 status=ok roll_used=108992 returned=ISHTIAQ AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:16 [162/757] serial=267 status=ok roll_used=108993 returned=MD. FAHMID HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:20 [163/757] serial=268 status=ok roll_used=108994 returned=TAHSIN ISLAM SRIJON gpa=5.00 attempts=9 error=None
+2026-11-06T11:55:24 [164/757] serial=269 status=ok roll_used=108995 returned=TAMJIDUR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:26 [165/757] serial=270 status=ok roll_used=108996 returned=MD. ASIBUL ISLAM gpa=4.83 attempts=1 error=None
+2026-11-06T11:55:28 [166/757] serial=271 status=ok roll_used=108997 returned=YEASIN ARAFAT gpa=4.33 attempts=1 error=None
+2026-11-06T11:55:31 [167/757] serial=272 status=ok roll_used=108998 returned=MD. FAYSAL MIA gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:35 [168/757] serial=273 status=ok roll_used=108999 returned=MD. MAINUDDIN BIN JAMAN ROHAN gpa=5.00 attempts=8 error=None
+2026-11-06T11:55:37 [169/757] serial=274 status=ok roll_used=109000 returned=PARTHO SAROTHI ROY gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:40 [170/757] serial=275 status=ok roll_used=109001 returned=TARIKUL ISLAM TANJIL gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:43 [171/757] serial=276 status=ok roll_used=109002 returned=MOHYMINUL AL NAHIAN gpa=5.00 attempts=2 error=None
+2026-11-06T11:55:46 [172/757] serial=277 status=ok roll_used=109003 returned=SOHIDUL ISLAM SAYEM gpa=4.75 attempts=1 error=None
+2026-11-06T11:55:50 [173/757] serial=278 status=ok roll_used=109004 returned=MD. SANJID gpa=4.92 attempts=3 error=None
+2026-11-06T11:55:52 [174/757] serial=279 status=ok roll_used=109005 returned=FATIN NIHAL gpa=5.00 attempts=1 error=None
+2026-11-06T11:55:55 [175/757] serial=280 status=ok roll_used=109006 returned=MD. AHSAN HABIB gpa=4.67 attempts=1 error=None
+2026-11-06T11:55:58 [176/757] serial=281 status=ok roll_used=109007 returned=MD. ZAHIDUL ISLAM gpa=4.67 attempts=1 error=None
+2026-11-06T11:56:00 [177/757] serial=282 status=ok roll_used=109008 returned=MUHAMMAD NEYAMUL ISLAM gpa=4.67 attempts=1 error=None
+2026-11-06T11:56:03 [178/757] serial=283 status=ok roll_used=109009 returned=MAHMUD HOSSAIN gpa=4.25 attempts=1 error=None
+2026-11-06T11:56:06 [179/757] serial=284 status=ok roll_used=109010 returned=MD. ANAMUL HAQUE SAJAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:08 [180/757] serial=285 status=ok roll_used=109011 returned=ABIR AHAMED gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:10 [181/757] serial=286 status=ok roll_used=109012 returned=ISTIAK ALOM TASIN gpa=4.83 attempts=1 error=None
+2026-11-06T11:56:13 [182/757] serial=287 status=ok roll_used=109013 returned=MD. NAJMUL HAQUE gpa=4.58 attempts=1 error=None
+2026-11-06T11:56:15 [183/757] serial=288 status=ok roll_used=109014 returned=MD. MUJAHID HOSEN MAHI gpa=5.00 attempts=2 error=None
+2026-11-06T11:56:19 [184/757] serial=289 status=ok roll_used=109015 returned=SAJID AL HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:21 [185/757] serial=290 status=ok roll_used=109016 returned=MD. MUHTASIM FUWAD MAHIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:23 [186/757] serial=291 status=ok roll_used=109017 returned=ISTIAK AHMED SIAM gpa=5.00 attempts=2 error=None
+2026-11-06T11:56:26 [187/757] serial=292 status=ok roll_used=109018 returned=TOWHIDUR RAHMAN DIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:31 [188/757] serial=293 status=ok roll_used=109019 returned=YASIR ANAM KHAN MAHI gpa=5.00 attempts=9 error=None
+2026-11-06T11:56:34 [189/757] serial=294 status=ok roll_used=109020 returned=MD. SHAWKET JAMAN SHADIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:37 [190/757] serial=295 status=ok roll_used=109021 returned=HASNAIN BIN NAZIM gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:40 [191/757] serial=296 status=ok roll_used=109022 returned=YEASINARAFAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:43 [192/757] serial=297 status=ok roll_used=109023 returned=MD. IMRAN AHAMMED SIFAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:47 [193/757] serial=298 status=ok roll_used=109024 returned=MD. ABDULLAH ALL RIDOY gpa=4.92 attempts=1 error=None
+2026-11-06T11:56:49 [194/757] serial=299 status=ok roll_used=109025 returned=MD. ABDULLAH AL MAHMUD gpa=4.83 attempts=1 error=None
+2026-11-06T11:56:52 [195/757] serial=300 status=ok roll_used=109026 returned=MD. ASLAM SHEKH gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:55 [196/757] serial=301 status=ok roll_used=109027 returned=SAIF REDWAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:56:58 [197/757] serial=302 status=ok roll_used=109028 returned=ARITRA DAS gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:00 [198/757] serial=303 status=ok roll_used=109029 returned=MD. MAHMUDUL HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:02 [199/757] serial=304 status=ok roll_used=109030 returned=MD. ABDUL HIE BUKHARI gpa=4.92 attempts=2 error=None
+2026-11-06T11:57:06 [200/757] serial=305 status=ok roll_used=109031 returned=ABDUL KADER ZIHAD gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:06 cool-down 20s
+2026-11-06T11:57:28 [201/757] serial=306 status=ok roll_used=109032 returned=MD.TANVIR AHAMMED gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:31 [202/757] serial=307 status=ok roll_used=109033 returned=MD TAHMIDOR RAHMAN TAMIM gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:34 [203/757] serial=308 status=ok roll_used=109034 returned=MAHMUDUL HASAN SHIFAT gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:36 [204/757] serial=309 status=ok roll_used=109035 returned=JANNATO ADON SOAEB gpa=5.00 attempts=4 error=None
+2026-11-06T11:57:39 [205/757] serial=310 status=ok roll_used=109036 returned=MD. EHSAN ULLAH gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:42 [206/757] serial=311 status=ok roll_used=109037 returned=MD. ANAS RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:44 [207/757] serial=312 status=ok roll_used=109038 returned=MD. RAGHIB RIZWAN RAHIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:47 [208/757] serial=313 status=ok roll_used=109039 returned=MOSHFIQUR FAHAD gpa=5.00 attempts=1 error=None
+2026-11-06T11:57:49 [209/757] serial=314 status=ok roll_used=109040 returned=MD. TALHA TASIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:02 [210/757] serial=315 status=ok roll_used=109041 returned=MD. JUBAIR HOSSAIN gpa=4.58 attempts=17 error=None
+2026-11-06T11:58:05 [211/757] serial=316 status=ok roll_used=109042 returned=MD. RUDRO BISWAS gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:08 [212/757] serial=317 status=ok roll_used=109043 returned=FAHIM AHMED DURJOY gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:11 [213/757] serial=318 status=ok roll_used=109044 returned=ARISH ARITRA PAUL gpa=5.00 attempts=2 error=None
+2026-11-06T11:58:15 [214/757] serial=319 status=ok roll_used=109045 returned=REZAUL KARIM gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:17 [215/757] serial=320 status=ok roll_used=109046 returned=DIN ISLAM PARVEZ BADHON gpa=4.83 attempts=1 error=None
+2026-11-06T11:58:30 [216/757] serial=321 status=ok roll_used=109047 returned=KAMRUL ISLAM gpa=5.00 attempts=10 error=None
+2026-11-06T11:58:33 [217/757] serial=322 status=ok roll_used=109048 returned=ALIF MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:48 [218/757] serial=323 status=ok roll_used=109049 returned=SAKIB MAHAMOOD RAFI gpa=5.00 attempts=17 error=None
+2026-11-06T11:58:51 [219/757] serial=324 status=ok roll_used=109050 returned=S. M. SABIT HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:54 [220/757] serial=325 status=ok roll_used=109051 returned=UDVASH PAUL gpa=5.00 attempts=1 error=None
+2026-11-06T11:58:57 [221/757] serial=326 status=ok roll_used=109052 returned=MD. SHORIFUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:00 [222/757] serial=327 status=ok roll_used=109053 returned=PRANTO SHIKARI gpa=5.00 attempts=9 error=None
+2026-11-06T11:59:03 [223/757] serial=328 status=ok roll_used=109054 returned=IMTIYAJ ALAM EMON gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:06 [224/757] serial=329 status=ok roll_used=109055 returned=MAHIR AFSAR gpa=5.00 attempts=5 error=None
+2026-11-06T11:59:10 [225/757] serial=330 status=ok roll_used=109056 returned=MD SAZOL AHMED gpa=4.75 attempts=6 error=None
+2026-11-06T11:59:13 [226/757] serial=331 status=ok roll_used=109057 returned=MD. SADIK KHAN gpa=4.00 attempts=2 error=None
+2026-11-06T11:59:16 [227/757] serial=332 status=ok roll_used=109058 returned=MD. ASHRAFUL HUQ TUHIN gpa=4.83 attempts=1 error=None
+2026-11-06T11:59:20 [228/757] serial=333 status=ok roll_used=109059 returned=NAFSIN AL ABRAR gpa=5.00 attempts=9 error=None
+2026-11-06T11:59:22 [229/757] serial=334 status=ok roll_used=109060 returned=S. M. MAHIR FISHAL gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:24 [230/757] serial=335 status=ok roll_used=109061 returned=MD. SALIM SADMAN gpa=4.83 attempts=1 error=None
+2026-11-06T11:59:28 [231/757] serial=336 status=ok roll_used=109062 returned=MD. ABU SAYEM TASNIM gpa=5.00 attempts=9 error=None
+2026-11-06T11:59:31 [232/757] serial=337 status=ok roll_used=109063 returned=MD. MEHEDI HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:34 [233/757] serial=338 status=ok roll_used=109064 returned=MD. MAHFUZ HAQUE KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:36 [234/757] serial=339 status=ok roll_used=109065 returned=CHOWDHURY MONJIR RUHUL gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:38 [235/757] serial=340 status=ok roll_used=109066 returned=MD. NAZMUL HUDA gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:39 [236/757] serial=341 status=ok roll_used=109067 returned=FAHIM HASAN EUSHA gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:42 [237/757] serial=342 status=ok roll_used=109068 returned=ROKIM MAHMUD SHIAM gpa=5.00 attempts=7 error=None
+2026-11-06T11:59:45 [238/757] serial=343 status=ok roll_used=109069 returned=AL-MUKITUR RAHMAN TAHSIN gpa=5.00 attempts=1 error=None
+2026-11-06T11:59:53 [239/757] serial=344 status=ok roll_used=109070 returned=TABIR HOSSAIN gpa=5.00 attempts=13 error=None
+2026-11-06T11:59:57 [240/757] serial=345 status=ok roll_used=109071 returned=MD. ISHFAR MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:00 [241/757] serial=346 status=ok roll_used=109072 returned=MD. RAJIN SALEH NIROB gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:02 [242/757] serial=347 status=ok roll_used=109073 returned=PARTHA SHARMA gpa=5.00 attempts=7 error=None
+2026-11-06T12:00:05 [243/757] serial=348 status=ok roll_used=109074 returned=SHUVRO CHANDRA PAUL RUDRO gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:09 [244/757] serial=349 status=ok roll_used=109075 returned=ARPON DAS gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:12 [245/757] serial=350 status=ok roll_used=109076 returned=MD. MAHFUJ KHAN gpa=4.50 attempts=1 error=None
+2026-11-06T12:00:14 [246/757] serial=351 status=ok roll_used=109077 returned=MD. SOUROV SARKER gpa=4.67 attempts=1 error=None
+2026-11-06T12:00:17 [247/757] serial=352 status=ok roll_used=109078 returned=MD. TANVIR ISLAM SIFAT gpa=4.92 attempts=1 error=None
+2026-11-06T12:00:20 [248/757] serial=353 status=ok roll_used=109079 returned=PRINCE MOHAMMAD RAJ gpa=4.83 attempts=1 error=None
+2026-11-06T12:00:25 [249/757] serial=354 status=ok roll_used=109080 returned=PUSHPO JEET ROY gpa=5.00 attempts=9 error=None
+2026-11-06T12:00:28 [250/757] serial=355 status=ok roll_used=109081 returned=MD. JIHADUL ISLAM JIHAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:31 [251/757] serial=356 status=ok roll_used=109082 returned=SK. MOHAMMAD ZAFRI gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:34 [252/757] serial=357 status=ok roll_used=109083 returned=MD. MAHIN CHOWDHURY gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:48 [253/757] serial=358 status=ok roll_used=109084 returned=MD. PARVES RAHMAN REDOY gpa=4.92 attempts=17 error=None
+2026-11-06T12:00:51 [254/757] serial=359 status=ok roll_used=109085 returned=S. M. IMTIAJ RAYHAN gpa=4.92 attempts=6 error=None
+2026-11-06T12:00:54 [255/757] serial=360 status=ok roll_used=109086 returned=KAZI FEROZ AL NOYON gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:56 [256/757] serial=361 status=ok roll_used=109087 returned=MD. ALMUJAHID KOUSHIK gpa=5.00 attempts=1 error=None
+2026-11-06T12:00:58 [257/757] serial=362 status=ok roll_used=109088 returned=ISHTEHAQ BIN MOHAMMAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:01 [258/757] serial=363 status=ok roll_used=109089 returned=MD. SHIHAB UDDIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:05 [259/757] serial=364 status=ok roll_used=109090 returned=S. M. FARDIN AHMED RAFIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:06 [260/757] serial=365 status=ok roll_used=109091 returned=TORIKUL ISLAM gpa=4.75 attempts=3 error=None
+2026-11-06T12:01:09 [261/757] serial=366 status=ok roll_used=109092 returned=MD. JUNAYED IBNA ALAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:12 [262/757] serial=367 status=ok roll_used=109093 returned=MD. ISTIAQUE AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:15 [263/757] serial=368 status=ok roll_used=109094 returned=ANZAM REESHAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:18 [264/757] serial=369 status=ok roll_used=109095 returned=ABDULLAH AL FAHAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:21 [265/757] serial=370 status=ok roll_used=109096 returned=FUAD AL MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:26 [266/757] serial=371 status=ok roll_used=109097 returned=RUDRA CHAKRABORTY gpa=5.00 attempts=9 error=None
+2026-11-06T12:01:28 [267/757] serial=372 status=ok roll_used=109098 returned=MAHAMUDUL HOQUE NASIF gpa=4.83 attempts=1 error=None
+2026-11-06T12:01:31 [268/757] serial=373 status=ok roll_used=109099 returned=MD. REDWAN RASHID MIJI gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:33 [269/757] serial=374 status=ok roll_used=109100 returned=OISHIK BARAI SHRESTHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:37 [270/757] serial=375 status=ok roll_used=109101 returned=MOHAMMAD SAADAT AL NOOR gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:38 [271/757] serial=376 status=ok roll_used=109102 returned=MD. ASIFUR RAHMAN OLI gpa=4.83 attempts=1 error=None
+2026-11-06T12:01:41 [272/757] serial=377 status=ok roll_used=109103 returned=MD. HIMEL AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:01:54 [273/757] serial=378 status=ok roll_used=109104 returned=NAZMUS SAKIB gpa=5.00 attempts=11 error=None
+2026-11-06T12:01:57 [274/757] serial=379 status=ok roll_used=109105 returned=MD. JABID HASSAN gpa=5.00 attempts=2 error=None
+2026-11-06T12:02:01 [275/757] serial=380 status=ok roll_used=109106 returned=MIRAZ SHAHRIAR gpa=5.00 attempts=9 error=None
+2026-11-06T12:02:04 [276/757] serial=381 status=ok roll_used=109107 returned=KHONDAKER FORRUKH AHMED SADD gpa=4.25 attempts=1 error=None
+2026-11-06T12:02:07 [277/757] serial=382 status=ok roll_used=109108 returned=ABDULLAH AL SHIHAB gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:10 [278/757] serial=383 status=ok roll_used=109109 returned=MD. YASIR ARAFATH gpa=4.17 attempts=2 error=None
+2026-11-06T12:02:13 [279/757] serial=384 status=ok roll_used=109110 returned=MD. MARUF HASSAN MURAD gpa=5.00 attempts=5 error=None
+2026-11-06T12:02:16 [280/757] serial=385 status=ok roll_used=109111 returned=ABIR HASAN KANON gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:20 [281/757] serial=386 status=ok roll_used=109112 returned=ANAS MEAH gpa=4.83 attempts=1 error=None
+2026-11-06T12:02:23 [282/757] serial=387 status=ok roll_used=109113 returned=IBRAHIM RAIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:27 [283/757] serial=388 status=ok roll_used=109114 returned=SAHRIAR BORHAN SAAD gpa=5.00 attempts=2 error=None
+2026-11-06T12:02:30 [284/757] serial=389 status=ok roll_used=109115 returned=MD. ABDULLAH AL NOMAN gpa=5.00 attempts=5 error=None
+2026-11-06T12:02:33 [285/757] serial=390 status=ok roll_used=109116 returned=ADIB EHOSAN KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:36 [286/757] serial=391 status=ok roll_used=109117 returned=MD. RAHAT HOSEN gpa=4.83 attempts=1 error=None
+2026-11-06T12:02:40 [287/757] serial=392 status=ok roll_used=109118 returned=SAMUDRA DAS gpa=4.75 attempts=2 error=None
+2026-11-06T12:02:42 [288/757] serial=393 status=ok roll_used=109119 returned=ABU LAYECH AHAMMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:46 [289/757] serial=394 status=ok roll_used=109120 returned=MD. ASIF HOSSAIN RABBY gpa=5.00 attempts=9 error=None
+2026-11-06T12:02:48 [290/757] serial=395 status=ok roll_used=109121 returned=ANANYO SAHA gpa=5.00 attempts=5 error=None
+2026-11-06T12:02:52 [291/757] serial=396 status=ok roll_used=109122 returned=DIBBO MOLLICK gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:55 [292/757] serial=397 status=ok roll_used=109123 returned=MD. FARHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:02:58 [293/757] serial=398 status=ok roll_used=109124 returned=NAVIDUL HASAN SIHAB gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:00 [294/757] serial=399 status=ok roll_used=109125 returned=ASHIKUR  RAHMAN gpa=4.67 attempts=1 error=None
+2026-11-06T12:03:04 [295/757] serial=400 status=ok roll_used=109126 returned=MD. RIFAT HOSEN gpa=4.83 attempts=2 error=None
+2026-11-06T12:03:06 [296/757] serial=401 status=ok roll_used=109127 returned=KAZI FAHIM ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:09 [297/757] serial=402 status=ok roll_used=109128 returned=MD. IMRAN HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:12 [298/757] serial=403 status=ok roll_used=109129 returned=NAZMUS SAKIB HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:17 [299/757] serial=404 status=ok roll_used=109130 returned=BADHON BISWAS gpa=4.92 attempts=9 error=None
+2026-11-06T12:03:20 [300/757] serial=405 status=ok roll_used=109131 returned=MUNTASIR UL HOQUE KAFI gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:20 cool-down 20s
+2026-11-06T12:03:42 [301/757] serial=406 status=ok roll_used=109132 returned=ARGHO GHOSH gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:46 [302/757] serial=407 status=ok roll_used=109133 returned=MONOJEET PAUL gpa=5.00 attempts=9 error=None
+2026-11-06T12:03:48 [303/757] serial=408 status=ok roll_used=109134 returned=MD. SHIHAB UDDIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:51 [304/757] serial=409 status=ok roll_used=109135 returned=MD. NAYEM ISLAM NOYON gpa=4.83 attempts=1 error=None
+2026-11-06T12:03:53 [305/757] serial=410 status=ok roll_used=109136 returned=MD. SAHARIYA HASAN gpa=4.92 attempts=1 error=None
+2026-11-06T12:03:55 [306/757] serial=411 status=ok roll_used=109137 returned=IMTIAZ BIN NUR HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:03:58 [307/757] serial=412 status=ok roll_used=109138 returned=MAHADI IBNE MALEK gpa=4.75 attempts=1 error=None
+2026-11-06T12:04:01 [308/757] serial=413 status=ok roll_used=109139 returned=JAYED HASSAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:04 [309/757] serial=414 status=ok roll_used=109140 returned=ANUDOY BHATTACHARJEE gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:07 [310/757] serial=415 status=ok roll_used=109141 returned=MD. SHAFIUL AZAM SAIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:10 [311/757] serial=416 status=ok roll_used=109142 returned=MD. NUR ALOM gpa=None attempts=1 error=None
+2026-11-06T12:04:13 [312/757] serial=417 status=ok roll_used=109143 returned=MD. MEHRAJ KAMAL ABIR gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:16 [313/757] serial=418 status=ok roll_used=109144 returned=MD. LIKSON ALI gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:19 [314/757] serial=419 status=ok roll_used=109145 returned=MD EHTESHAMUL HAQUE ANOY gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:22 [315/757] serial=420 status=ok roll_used=109146 returned=MD. TANVIR ALMAS IMON gpa=4.58 attempts=1 error=None
+2026-11-06T12:04:26 [316/757] serial=421 status=ok roll_used=109147 returned=NAZMUL ALOM gpa=4.92 attempts=1 error=None
+2026-11-06T12:04:28 [317/757] serial=422 status=ok roll_used=109148 returned=YEASIN MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:37 [318/757] serial=423 status=ok roll_used=109149 returned=HOSNAY AZMI AKANDA TANAZ gpa=5.00 attempts=3 error=None
+2026-11-06T12:04:39 [319/757] serial=424 status=ok roll_used=109150 returned=ABDUL KADER ZILANI gpa=4.92 attempts=1 error=None
+2026-11-06T12:04:43 [320/757] serial=425 status=ok roll_used=109151 returned=MOHAMMAD MOHIT gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:47 [321/757] serial=426 status=ok roll_used=109152 returned=MD. ASADUL HAQUE SAIMOON gpa=4.92 attempts=9 error=None
+2026-11-06T12:04:50 [322/757] serial=427 status=ok roll_used=109153 returned=MD. ABIR AL AREFIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:04:52 [323/757] serial=428 status=ok roll_used=109154 returned=MD. ARIFUL ISLAM EMON gpa=5.00 attempts=2 error=None
+2026-11-06T12:04:54 [324/757] serial=429 status=ok roll_used=109155 returned=S. A. FUAD gpa=4.50 attempts=1 error=None
+2026-11-06T12:04:57 [325/757] serial=430 status=ok roll_used=109156 returned=ABDULLAH IBN AHSAN gpa=4.42 attempts=7 error=None
+2026-11-06T12:05:01 [326/757] serial=431 status=ok roll_used=109157 returned=MD. TAUHID ISLAM gpa=4.50 attempts=2 error=None
+2026-11-06T12:05:03 [327/757] serial=432 status=ok roll_used=109158 returned=MD. IRFAN DEWAN gpa=4.42 attempts=1 error=None
+2026-11-06T12:05:06 [328/757] serial=433 status=ok roll_used=109159 returned=SAAD ISLAM EVAN gpa=None attempts=1 error=None
+2026-11-06T12:05:09 [329/757] serial=434 status=ok roll_used=109160 returned=MD. TAHMID UDDIN gpa=4.83 attempts=1 error=None
+2026-11-06T12:05:12 [330/757] serial=435 status=ok roll_used=109161 returned=ABIR HOSSEN gpa=4.75 attempts=1 error=None
+2026-11-06T12:05:26 [331/757] serial=436 status=ok roll_used=109162 returned=MD. RAKIB HASSAN gpa=5.00 attempts=17 error=None
+2026-11-06T12:05:37 [332/757] serial=437 status=ok roll_used=109163 returned=MD. ABDUL KAIYUM ROMIK gpa=4.75 attempts=14 error=None
+2026-11-06T12:05:40 [333/757] serial=438 status=ok roll_used=109164 returned=MEHEDI HASAN JIDAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:05:43 [334/757] serial=439 status=ok roll_used=109165 returned=TAHSIN NAZIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:05:46 [335/757] serial=440 status=ok roll_used=109166 returned=SADMAN RASHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:05:49 [336/757] serial=441 status=ok roll_used=109167 returned=PRITAM SAHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:05:52 [337/757] serial=442 status=ok roll_used=109168 returned=MD. TAWSIF ALAM SARKAR gpa=4.83 attempts=1 error=None
+2026-11-06T12:06:06 [338/757] serial=443 status=ok roll_used=109169 returned=MD. NAYEEM ISLAM gpa=5.00 attempts=17 error=None
+2026-11-06T12:06:09 [339/757] serial=444 status=ok roll_used=109170 returned=MD. RAKIBUL ISLAM gpa=4.92 attempts=1 error=None
+2026-11-06T12:06:10 [340/757] serial=445 status=ok roll_used=109171 returned=MD. MEHEDI HASAN OVI gpa=4.92 attempts=1 error=None
+2026-11-06T12:06:12 [341/757] serial=446 status=ok roll_used=109172 returned=MD. RIFAT HASAN gpa=5.00 attempts=3 error=None
+2026-11-06T12:06:24 [342/757] serial=447 status=ok roll_used=109173 returned=ZIHADUL ISLAM SADAT gpa=4.67 attempts=9 error=None
+2026-11-06T12:06:26 [343/757] serial=448 status=ok roll_used=109174 returned=MD. MONIRUL ISLAM gpa=4.75 attempts=1 error=None
+2026-11-06T12:06:31 [344/757] serial=449 status=ok roll_used=109175 returned=SHOYEB BIN ARIF gpa=4.67 attempts=9 error=None
+2026-11-06T12:06:34 [345/757] serial=450 status=ok roll_used=109176 returned=M.M MUSHFIQ BIN MUSA gpa=5.00 attempts=1 error=None
+2026-11-06T12:06:39 [346/757] serial=451 status=ok roll_used=109177 returned=MD. RAKIBUL ISLAM gpa=4.83 attempts=3 error=None
+2026-11-06T12:06:42 [347/757] serial=452 status=ok roll_used=109178 returned=TAHSINUR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:06:45 [348/757] serial=453 status=ok roll_used=109179 returned=ABRAR FAHIM gpa=3.83 attempts=1 error=None
+2026-11-06T12:06:48 [349/757] serial=454 status=ok roll_used=109180 returned=ABDULLAH AL MAMUN gpa=4.75 attempts=1 error=None
+2026-11-06T12:06:51 [350/757] serial=455 status=ok roll_used=109181 returned=MD. SHIHABUL SAKIB JISHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:06:53 [351/757] serial=456 status=ok roll_used=109182 returned=SAKIR BIN SELIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:06:56 [352/757] serial=457 status=ok roll_used=109183 returned=ABU IBNA MOYALLIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:06:59 [353/757] serial=458 status=ok roll_used=109184 returned=NAFIUN ISLAM SHAFIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:01 [354/757] serial=459 status=ok roll_used=109185 returned=MD. SHARIFUL ALAM gpa=4.83 attempts=1 error=None
+2026-11-06T12:07:04 [355/757] serial=460 status=ok roll_used=109186 returned=SHEIKH AL JUBAYER SRABON gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:07 [356/757] serial=461 status=ok roll_used=109187 returned=MD. REZA CHOWDHURY gpa=5.00 attempts=2 error=None
+2026-11-06T12:07:10 [357/757] serial=462 status=ok roll_used=109188 returned=MD. RAKIBUL ISLAM REDOM gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:13 [358/757] serial=463 status=ok roll_used=109189 returned=SHAHRIAR ABIR gpa=5.00 attempts=5 error=None
+2026-11-06T12:07:17 [359/757] serial=464 status=ok roll_used=109190 returned=MD. ARAFAT RAHMAN SHANTO gpa=4.92 attempts=2 error=None
+2026-11-06T12:07:21 [360/757] serial=465 status=ok roll_used=109191 returned=MD. RAIYAN SARKAR gpa=5.00 attempts=8 error=None
+2026-11-06T12:07:24 [361/757] serial=466 status=ok roll_used=109192 returned=MD. ASADUR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:27 [362/757] serial=467 status=ok roll_used=109193 returned=MD. SAMIUL HAQUE gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:30 [363/757] serial=468 status=ok roll_used=109194 returned=JAHIN JAWAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:33 [364/757] serial=469 status=ok roll_used=109195 returned=MD. NURUZZAMAN KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:35 [365/757] serial=470 status=ok roll_used=109196 returned=T M HASIN ALMAS gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:38 [366/757] serial=471 status=ok roll_used=109197 returned=ARIAN ESHAN gpa=5.00 attempts=2 error=None
+2026-11-06T12:07:42 [367/757] serial=472 status=ok roll_used=109198 returned=T M HASIN ARMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:44 [368/757] serial=473 status=ok roll_used=109199 returned=MD. SAJID AREFIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:47 [369/757] serial=474 status=ok roll_used=109200 returned=MD. AL-OMAR-ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:49 [370/757] serial=475 status=ok roll_used=109201 returned=RAHIM KHAN PRACHURJA gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:52 [371/757] serial=476 status=ok roll_used=109202 returned=MD. OMAR FARUK MIA gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:55 [372/757] serial=477 status=ok roll_used=109203 returned=AHMAD ALAM TOHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:57 [373/757] serial=478 status=ok roll_used=109204 returned=MD. SADMAN SAMIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:07:59 [374/757] serial=479 status=ok roll_used=109205 returned=MD. ABU SHAID ASIF gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:01 [375/757] serial=480 status=ok roll_used=109206 returned=MD. TALHA JUBAIR gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:04 [376/757] serial=481 status=ok roll_used=109207 returned=ZUBAIR FERDOWS gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:08 [377/757] serial=482 status=ok roll_used=109208 returned=MD SHAWKAT ALAM OBHI gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:25 [378/757] serial=483 status=ok roll_used=109209 returned=MUHAMMAD GAZI HASANUL BANNA gpa=5.00 attempts=23 error=None
+2026-11-06T12:08:29 [379/757] serial=484 status=ok roll_used=109210 returned=SANEYAT MANOBIK gpa=5.00 attempts=9 error=None
+2026-11-06T12:08:32 [380/757] serial=485 status=ok roll_used=109211 returned=MD. AKAID MIA gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:35 [381/757] serial=486 status=ok roll_used=109212 returned=MUHAMMAD SAIFUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:38 [382/757] serial=487 status=ok roll_used=109213 returned=ISMAIL JABIULLAH gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:41 [383/757] serial=488 status=ok roll_used=109214 returned=TASFIM HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:44 [384/757] serial=489 status=ok roll_used=109215 returned=ADITYA BARMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:47 [385/757] serial=490 status=ok roll_used=109216 returned=NAEEMUR RAHMAN NAHIAN gpa=4.67 attempts=2 error=None
+2026-11-06T12:08:49 [386/757] serial=491 status=ok roll_used=109217 returned=NAGIB AL MAHFUZ gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:52 [387/757] serial=492 status=ok roll_used=109218 returned=SYED MD SHEHAB SHARAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:54 [388/757] serial=493 status=ok roll_used=109219 returned=ABDULLA AL MASRUR gpa=5.00 attempts=1 error=None
+2026-11-06T12:08:57 [389/757] serial=494 status=ok roll_used=109220 returned=MONTASIR AHAMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:00 [390/757] serial=495 status=ok roll_used=109221 returned=MD MIRAZ KHAN PRINCE gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:03 [391/757] serial=496 status=ok roll_used=109222 returned=IFTEKHAR AHMED SIFAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:06 [392/757] serial=497 status=ok roll_used=109223 returned=ADIB HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:08 [393/757] serial=498 status=ok roll_used=109224 returned=SHAHDIN SHAHRIAR gpa=5.00 attempts=2 error=None
+2026-11-06T12:09:11 [394/757] serial=499 status=ok roll_used=109225 returned=TALUKDER ZAHIN ABRAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:15 [395/757] serial=500 status=ok roll_used=109226 returned=MD. SADMAN SAKIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:18 [396/757] serial=501 status=ok roll_used=109227 returned=ADNAN FARAZI gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:21 [397/757] serial=502 status=ok roll_used=109228 returned=NAVID ISLAM SAFIN gpa=5.00 attempts=2 error=None
+2026-11-06T12:09:24 [398/757] serial=503 status=ok roll_used=109229 returned=ARMAN ALAM BHUIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:27 [399/757] serial=504 status=ok roll_used=109230 returned=KIBRIA HASAN ANIK gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:30 [400/757] serial=505 status=ok roll_used=109231 returned=MD. ALNAF SAJIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:09:30 cool-down 20s
+2026-11-06T12:09:51 [401/757] serial=506 status=ok roll_used=109232 returned=PROTYOY NANDI gpa=5.00 attempts=3 error=None
+2026-11-06T12:09:54 [402/757] serial=507 status=ok roll_used=109233 returned=NAYON HOSSEN REMON gpa=5.00 attempts=9 error=None
+2026-11-06T12:09:57 [403/757] serial=508 status=ok roll_used=109234 returned=EMAMUL HAQUE FOWAD gpa=4.58 attempts=3 error=None
+2026-11-06T12:10:00 [404/757] serial=509 status=ok roll_used=109235 returned=MD. FAIRUZ RAHMAN gpa=None attempts=1 error=None
+2026-11-06T12:10:02 [405/757] serial=510 status=ok roll_used=109236 returned=ABDUS SAMI KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:05 [406/757] serial=511 status=ok roll_used=109237 returned=MD. NABIL RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:08 [407/757] serial=512 status=ok roll_used=109238 returned=MD ANAS HOSSAIN AZAN gpa=4.92 attempts=1 error=None
+2026-11-06T12:10:11 [408/757] serial=513 status=ok roll_used=109239 returned=MUHID YASIR gpa=4.92 attempts=2 error=None
+2026-11-06T12:10:13 [409/757] serial=514 status=ok roll_used=109240 returned=MD. SHAJIBUR RAHMAN RONY gpa=4.92 attempts=1 error=None
+2026-11-06T12:10:15 [410/757] serial=515 status=ok roll_used=109241 returned=MUBASHIR HOSSAIN NISHAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:18 [411/757] serial=516 status=ok roll_used=109242 returned=MOHAMMAD TAHSIN UDDIN AHMED HAMIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:21 [412/757] serial=517 status=ok roll_used=109243 returned=MD. NABIL gpa=4.92 attempts=1 error=None
+2026-11-06T12:10:24 [413/757] serial=518 status=ok roll_used=109244 returned=ARHAM AKHYAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:27 [414/757] serial=519 status=ok roll_used=109245 returned=MEGDAD AHMED gpa=4.50 attempts=1 error=None
+2026-11-06T12:10:31 [415/757] serial=520 status=ok roll_used=109246 returned=SAAD SIDDIQUE gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:36 [416/757] serial=521 status=ok roll_used=109247 returned=ASAD ABIR gpa=4.50 attempts=9 error=None
+2026-11-06T12:10:39 [417/757] serial=522 status=ok roll_used=109248 returned=MOMENUL HOQ gpa=4.75 attempts=1 error=None
+2026-11-06T12:10:52 [418/757] serial=523 status=ok roll_used=109249 returned=SIRAJUM MONIR gpa=5.00 attempts=10 error=None
+2026-11-06T12:10:55 [419/757] serial=524 status=ok roll_used=109250 returned=MD. AHNAF HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:10:58 [420/757] serial=525 status=ok roll_used=109251 returned=TOUFIKUL ALAM SHIHAB gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:01 [421/757] serial=526 status=ok roll_used=109252 returned=MD. ABDULLAH AL NOMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:05 [422/757] serial=527 status=ok roll_used=109253 returned=TANVIR AHMED SORNAV gpa=5.00 attempts=9 error=None
+2026-11-06T12:11:08 [423/757] serial=528 status=ok roll_used=109254 returned=MD. ISHMAM RUBAT NEHAL gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:10 [424/757] serial=529 status=ok roll_used=109255 returned=TASDIAD MD. HABIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:12 [425/757] serial=530 status=ok roll_used=109256 returned=ZIHAN AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:16 [426/757] serial=531 status=ok roll_used=109257 returned=MD. RISHAD MONDOL gpa=4.92 attempts=1 error=None
+2026-11-06T12:11:19 [427/757] serial=532 status=ok roll_used=109258 returned=MD. IMTIAZ IRSAL INAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:21 [428/757] serial=533 status=ok roll_used=109259 returned=MUZTABA ABEED ARJAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:24 [429/757] serial=534 status=ok roll_used=109260 returned=YASIR HAMID PRANZAL gpa=5.00 attempts=2 error=None
+2026-11-06T12:11:27 [430/757] serial=535 status=ok roll_used=109261 returned=ZAMIL AHMED gpa=5.00 attempts=9 error=None
+2026-11-06T12:11:31 [431/757] serial=536 status=ok roll_used=109262 returned=AARYAAN RAZZAQUE gpa=5.00 attempts=3 error=None
+2026-11-06T12:11:34 [432/757] serial=537 status=ok roll_used=109263 returned=MUJAHIDUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:37 [433/757] serial=538 status=ok roll_used=109264 returned=MARJAN MAHDI gpa=5.00 attempts=2 error=None
+2026-11-06T12:11:40 [434/757] serial=539 status=ok roll_used=109265 returned=AL SHAHRIAR MAZUMDER RAKIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:43 [435/757] serial=540 status=ok roll_used=109266 returned=MD. SHAMSUL AREFIN SAIF gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:45 [436/757] serial=541 status=ok roll_used=109267 returned=IFAZ HOSSAIN TASIN gpa=5.00 attempts=2 error=None
+2026-11-06T12:11:47 [437/757] serial=542 status=ok roll_used=109268 returned=MD. JUNAYED HOSEN gpa=5.00 attempts=1 error=None
+2026-11-06T12:11:59 [438/757] serial=543 status=ok roll_used=109269 returned=HASAN MAHMUD SAYED SAFIN gpa=5.00 attempts=11 error=None
+2026-11-06T12:12:02 [439/757] serial=544 status=ok roll_used=109270 returned=MD. ASHIK SAFWAN ANONDO gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:04 [440/757] serial=545 status=ok roll_used=109271 returned=MD. SHAHORIYER HASAN SAYEM gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:08 [441/757] serial=546 status=ok roll_used=109272 returned=MD. JARIF ANAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:11 [442/757] serial=547 status=ok roll_used=109273 returned=MD. TANVIR ANZUM TANIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:15 [443/757] serial=548 status=ok roll_used=109274 returned=MD. MUSTAKIM RAHAMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:18 [444/757] serial=549 status=ok roll_used=109275 returned=MD. MAHIN MUNOWAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:20 [445/757] serial=550 status=ok roll_used=109276 returned=MD. IMRAN ALI RAJ gpa=4.42 attempts=2 error=None
+2026-11-06T12:12:24 [446/757] serial=551 status=ok roll_used=109277 returned=MD. AMIR HAMZA gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:26 [447/757] serial=552 status=ok roll_used=109278 returned=MD. SHIFAT-AL-REZA gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:29 [448/757] serial=553 status=ok roll_used=109279 returned=MD. MARUF ISLAM MUNNA gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:33 [449/757] serial=554 status=ok roll_used=109280 returned=MD. SHAHARIAR ISLAM ARNOB gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:36 [450/757] serial=555 status=ok roll_used=109281 returned=NOBEL DAS gpa=4.83 attempts=1 error=None
+2026-11-06T12:12:39 [451/757] serial=556 status=ok roll_used=109282 returned=ATIUR RAHMAN gpa=4.58 attempts=1 error=None
+2026-11-06T12:12:42 [452/757] serial=557 status=ok roll_used=109283 returned=KAZI REFAT ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:45 [453/757] serial=558 status=ok roll_used=109284 returned=MD. MUNTASIR RAHMAN SIAM gpa=4.67 attempts=1 error=None
+2026-11-06T12:12:49 [454/757] serial=559 status=ok roll_used=109285 returned=MD. ABID HASSAN gpa=4.92 attempts=1 error=None
+2026-11-06T12:12:51 [455/757] serial=560 status=ok roll_used=109286 returned=MD ZULKAR NAYEN gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:54 [456/757] serial=561 status=ok roll_used=109287 returned=MD. RAIYAN MEZBAH gpa=5.00 attempts=1 error=None
+2026-11-06T12:12:57 [457/757] serial=562 status=ok roll_used=109288 returned=PRYONTO SAHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:00 [458/757] serial=563 status=ok roll_used=109289 returned=SAJIB BABU RABIDASH gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:03 [459/757] serial=564 status=ok roll_used=109290 returned=ABDULLAH AL MUEID gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:07 [460/757] serial=565 status=ok roll_used=109291 returned=SHAN DHAR gpa=5.00 attempts=9 error=None
+2026-11-06T12:13:10 [461/757] serial=566 status=ok roll_used=109292 returned=MD. RASIN HOQUE gpa=5.00 attempts=9 error=None
+2026-11-06T12:13:13 [462/757] serial=567 status=ok roll_used=109293 returned=AHAD-BIN-SHOFIQUE gpa=5.00 attempts=9 error=None
+2026-11-06T12:13:16 [463/757] serial=568 status=ok roll_used=109294 returned=MD. SOMRAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:19 [464/757] serial=569 status=ok roll_used=109295 returned=MD. SOUROV SARKER gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:22 [465/757] serial=570 status=ok roll_used=109296 returned=MD. SAKIB ADNAN SARKER gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:24 [466/757] serial=571 status=ok roll_used=109297 returned=MD. AKID RAIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:27 [467/757] serial=572 status=ok roll_used=109298 returned=MD. FARDIL HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:31 [468/757] serial=573 status=ok roll_used=109299 returned=MD. HISHAM WALID SAAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:34 [469/757] serial=574 status=ok roll_used=109300 returned=MD. HOZAIFA ROHOMAN HANIF gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:37 [470/757] serial=575 status=ok roll_used=109301 returned=MD. ABDUR RAHIM HUDA gpa=4.75 attempts=1 error=None
+2026-11-06T12:13:40 [471/757] serial=576 status=ok roll_used=109302 returned=MD. ARAFAT RAHMAN gpa=4.67 attempts=1 error=None
+2026-11-06T12:13:42 [472/757] serial=577 status=ok roll_used=109303 returned=MD. WALID HASSAN RAHIM gpa=4.83 attempts=5 error=None
+2026-11-06T12:13:45 [473/757] serial=578 status=ok roll_used=109304 returned=MD. WAISE SALEH AKNDO gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:47 [474/757] serial=579 status=ok roll_used=109305 returned=MOHAMMAD SAMIN ASHHAB gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:50 [475/757] serial=580 status=ok roll_used=109306 returned=MD. ABRAR GALIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:53 [476/757] serial=581 status=ok roll_used=109307 returned=MD. SAKIB SIDDIK gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:56 [477/757] serial=582 status=ok roll_used=109308 returned=TASNEEM HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:13:58 [478/757] serial=583 status=ok roll_used=109309 returned=MD. NOOR NOBI gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:01 [479/757] serial=584 status=ok roll_used=109310 returned=MD. IBRAHIM MOZUMDER gpa=4.92 attempts=1 error=None
+2026-11-06T12:14:03 [480/757] serial=585 status=ok roll_used=109311 returned=MD. SABBIR KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:07 [481/757] serial=586 status=ok roll_used=109312 returned=SYED ABDUR RAHMAN FAHIM gpa=4.92 attempts=1 error=None
+2026-11-06T12:14:09 [482/757] serial=587 status=ok roll_used=109313 returned=MD. ARAFAT RAHMAN BHUIYAN gpa=5.00 attempts=4 error=None
+2026-11-06T12:14:11 [483/757] serial=588 status=ok roll_used=109314 returned=FAHAD ISLAM RIMON gpa=5.00 attempts=7 error=None
+2026-11-06T12:14:16 [484/757] serial=589 status=ok roll_used=109315 returned=FAHIM MAHMUD gpa=5.00 attempts=9 error=None
+2026-11-06T12:14:20 [485/757] serial=590 status=ok roll_used=109316 returned=MAZHARUL ISLAM gpa=5.00 attempts=8 error=None
+2026-11-06T12:14:23 [486/757] serial=591 status=ok roll_used=109317 returned=MANJUM AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:26 [487/757] serial=592 status=ok roll_used=109318 returned=AUBDULLA AL MUHIT gpa=4.58 attempts=1 error=None
+2026-11-06T12:14:41 [488/757] serial=593 status=ok roll_used=109319 returned=AARAF ABDULLAH SAAD gpa=5.00 attempts=17 error=None
+2026-11-06T12:14:45 [489/757] serial=594 status=ok roll_used=109320 returned=MEHRAB AZIZ CHOWDHURY gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:47 [490/757] serial=595 status=ok roll_used=109321 returned=TANVIR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:49 [491/757] serial=596 status=ok roll_used=109322 returned=SAJID AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:51 [492/757] serial=597 status=ok roll_used=109323 returned=MD. TAHSIN HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:54 [493/757] serial=598 status=ok roll_used=109324 returned=NEHAD HUSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:14:57 [494/757] serial=599 status=ok roll_used=109325 returned=ANKON DAS SUN gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:01 [495/757] serial=600 status=ok roll_used=109326 returned=MOHAMMAD RIAT AZIZ gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:04 [496/757] serial=601 status=ok roll_used=109327 returned=EISHA MOHAMMAD MOHIUDDIN gpa=5.00 attempts=9 error=None
+2026-11-06T12:15:14 [497/757] serial=602 status=ok roll_used=109328 returned=ATIK HASAN gpa=5.00 attempts=13 error=None
+2026-11-06T12:15:17 [498/757] serial=603 status=ok roll_used=109329 returned=MD TAHAJIB HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:20 [499/757] serial=604 status=ok roll_used=109330 returned=MD. RAKIBUL HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:23 [500/757] serial=605 status=ok roll_used=109331 returned=TASFIR MOHAMMAD ARYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:23 cool-down 20s
+2026-11-06T12:15:45 [501/757] serial=606 status=ok roll_used=109332 returned=SANDWIPAN SAHA DIP gpa=5.00 attempts=1 error=None
+2026-11-06T12:15:48 [502/757] serial=607 status=ok roll_used=109333 returned=MD. SHIMUL HOSSAIN gpa=5.00 attempts=2 error=None
+2026-11-06T12:15:52 [503/757] serial=608 status=ok roll_used=109334 returned=MUSFIQUR RAHMAN gpa=5.00 attempts=4 error=None
+2026-11-06T12:15:54 [504/757] serial=609 status=ok roll_used=109335 returned=MOHAMMAD HUSNUL MAAB KABIR gpa=5.00 attempts=2 error=None
+2026-11-06T12:15:57 [505/757] serial=610 status=ok roll_used=109336 returned=MD. MEHEDI HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:01 [506/757] serial=611 status=ok roll_used=109337 returned=MD. IMRAN SARKER gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:04 [507/757] serial=612 status=ok roll_used=109338 returned=MD. NAHID HASAN NIBIR gpa=5.00 attempts=9 error=None
+2026-11-06T12:16:07 [508/757] serial=613 status=ok roll_used=109339 returned=MUNTASIR MAHMUD KHAN JUNAID gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:09 [509/757] serial=614 status=ok roll_used=109340 returned=SHAHDEEN HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:13 [510/757] serial=615 status=ok roll_used=109341 returned=MD. MUSTAK SHAHRIAR SAHIL gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:16 [511/757] serial=616 status=ok roll_used=109342 returned=JUNAID RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:18 [512/757] serial=617 status=ok roll_used=109343 returned=REDOAN  HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:22 [513/757] serial=618 status=ok roll_used=109344 returned=MD. MOUDUD AHMED LAMUN gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:25 [514/757] serial=619 status=ok roll_used=109345 returned=MD. MERAZUL KABIR gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:28 [515/757] serial=620 status=ok roll_used=109346 returned=ASHRAFUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:32 [516/757] serial=621 status=ok roll_used=109347 returned=NAFIS MD. JUBAYER gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:34 [517/757] serial=622 status=ok roll_used=109348 returned=MD. MARUF AL ARAFAT gpa=4.67 attempts=6 error=None
+2026-11-06T12:16:37 [518/757] serial=623 status=ok roll_used=109349 returned=SRIJON KUMAR SHILL gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:41 [519/757] serial=624 status=ok roll_used=109350 returned=SAKHWAT HOSSAIN SAIKOT gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:43 [520/757] serial=625 status=ok roll_used=109351 returned=ASHFAK ALI MAHIR gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:48 [521/757] serial=626 status=ok roll_used=109352 returned=MD. SIAM CHOWDHURY gpa=5.00 attempts=1 error=None
+2026-11-06T12:16:57 [522/757] serial=627 status=ok roll_used=109353 returned=MD. ARAFAT SHARIAR SHIMANTO gpa=5.00 attempts=1 error=None
+2026-11-06T12:17:06 [523/757] serial=628 status=ok roll_used=109354 returned=ABDUL MOSABBIR AL FAHIM gpa=4.75 attempts=1 error=None
+2026-11-06T12:22:40 start records=862 pending=236 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T12:22:42 [1/236] serial=33 status=invalid_reg roll_used=None returned=None gpa=None attempts=3 error=invalid registration/roll
+2026-11-06T12:22:44 [2/236] serial=185 status=invalid_reg roll_used=None returned=None gpa=None attempts=4 error=invalid registration/roll
+2026-11-06T12:22:47 [3/236] serial=629 status=ok roll_used=109355 returned=TANVIR MAHTAB SIMANTO gpa=5.00 attempts=1 error=None
+2026-11-06T12:22:50 [4/236] serial=630 status=ok roll_used=109356 returned=MD. AHANAF AHMED AMIO gpa=5.00 attempts=8 error=None
+2026-11-06T12:22:53 [5/236] serial=631 status=ok roll_used=109357 returned=MD. AHSAN HABIB gpa=5.00 attempts=6 error=None
+2026-11-06T12:22:56 [6/236] serial=632 status=ok roll_used=109358 returned=MD. MYJIDUL ISLAM NIHAL gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:00 [7/236] serial=633 status=ok roll_used=109359 returned=KHONDOKER ALIFUZZAMAN RAAJ gpa=5.00 attempts=2 error=None
+2026-11-06T12:23:05 [8/236] serial=634 status=ok roll_used=109360 returned=IBTISAM E ARIF gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:08 [9/236] serial=635 status=ok roll_used=109361 returned=ISHRAK ZAMAN ARIAN gpa=4.83 attempts=1 error=None
+2026-11-06T12:23:13 [10/236] serial=636 status=ok roll_used=109362 returned=KHALID HASSAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:17 [11/236] serial=637 status=ok roll_used=109363 returned=TA- SEEN ALAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:20 [12/236] serial=638 status=ok roll_used=109364 returned=TAHMID SARKER FAHAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:23 [13/236] serial=639 status=ok roll_used=109365 returned=H. M. MUKTADIR FAHIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:26 [14/236] serial=640 status=ok roll_used=109366 returned=MD. JUHAIR AN JUM JUHIN gpa=4.83 attempts=1 error=None
+2026-11-06T12:23:29 [15/236] serial=641 status=ok roll_used=109367 returned=MD. TAIYEB HOSSAIN BHUIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:32 [16/236] serial=642 status=ok roll_used=109368 returned=ISTIUK AHMED DRUVO gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:34 [17/236] serial=643 status=ok roll_used=109369 returned=TAFSIR UDDIN AHMED gpa=4.00 attempts=1 error=None
+2026-11-06T12:23:38 [18/236] serial=644 status=ok roll_used=109370 returned=MD. TAWWANUR RAHMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:41 [19/236] serial=645 status=ok roll_used=109371 returned=MD. SIAM SARKAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:44 [20/236] serial=646 status=ok roll_used=109372 returned=MUNTACIR MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:46 [21/236] serial=647 status=ok roll_used=109373 returned=TAJWER AHMED SHAZIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:50 [22/236] serial=648 status=ok roll_used=109374 returned=MAHIN WASIT gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:53 [23/236] serial=649 status=ok roll_used=109375 returned=MUSHFIQUR RAHMAN SHAFIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:23:57 [24/236] serial=650 status=ok roll_used=109376 returned=ZIDAN ARBI gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:00 [25/236] serial=651 status=ok roll_used=109377 returned=SYED JOYNUL ABEDIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:16 [26/236] serial=652 status=ok roll_used=109378 returned=DHRUBA TALUKDAR gpa=5.00 attempts=7 error=None
+2026-11-06T12:24:18 [27/236] serial=653 status=ok roll_used=109379 returned=MD. SHAJID PARVEZ gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:22 [28/236] serial=654 status=ok roll_used=109380 returned=NIRUPOM ROY gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:25 [29/236] serial=655 status=ok roll_used=109381 returned=AL SABA AHMED RAZA gpa=5.00 attempts=2 error=None
+2026-11-06T12:24:28 [30/236] serial=656 status=ok roll_used=109382 returned=MINHAZ MAHAMUD gpa=4.58 attempts=1 error=None
+2026-11-06T12:24:32 [31/236] serial=657 status=ok roll_used=109383 returned=NAIMUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:35 [32/236] serial=658 status=ok roll_used=109384 returned=BARJAK MEHBUB ZEHAN gpa=4.83 attempts=1 error=None
+2026-11-06T12:24:39 [33/236] serial=659 status=ok roll_used=109385 returned=SHOFIQUL  ISLAM gpa=None attempts=1 error=None
+2026-11-06T12:24:41 [34/236] serial=660 status=ok roll_used=109386 returned=ABDUR RAHMAN gpa=4.75 attempts=2 error=None
+2026-11-06T12:24:44 [35/236] serial=661 status=ok roll_used=109387 returned=MOHAMMAD REDWAN HOSSEN gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:47 [36/236] serial=662 status=ok roll_used=109388 returned=ADIAT NOOR gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:50 [37/236] serial=663 status=ok roll_used=109389 returned=MD. NIHON ALAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:53 [38/236] serial=664 status=ok roll_used=109390 returned=EVAN HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:24:56 [39/236] serial=665 status=ok roll_used=109391 returned=SAZID AZIZ BISWAS gpa=4.83 attempts=1 error=None
+2026-11-06T12:24:59 [40/236] serial=666 status=ok roll_used=109392 returned=EIHAN HASSAN NIBIR gpa=5.00 attempts=2 error=None
+2026-11-06T12:25:02 [41/236] serial=667 status=ok roll_used=109393 returned=MD. MUHTASIM UDDIN SHAAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:05 [42/236] serial=668 status=ok roll_used=109394 returned=MD. SAJID ISLAM gpa=4.75 attempts=9 error=None
+2026-11-06T12:25:07 [43/236] serial=669 status=ok roll_used=109395 returned=KAZI JUBAYER AHMED ARAF gpa=5.00 attempts=9 error=None
+2026-11-06T12:25:11 [44/236] serial=670 status=ok roll_used=109396 returned=JOY PRAMANIK gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:17 [45/236] serial=671 status=ok roll_used=109397 returned=AARAF AHMED gpa=5.00 attempts=17 error=None
+2026-11-06T12:25:21 [46/236] serial=672 status=ok roll_used=109398 returned=MD. IBNE SHEHAB ABID gpa=5.00 attempts=2 error=None
+2026-11-06T12:25:24 [47/236] serial=673 status=ok roll_used=109399 returned=A.K.M. ABRAR ARHAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:39 [48/236] serial=674 status=ok roll_used=109400 returned=MUSHFIKUR RAHAMAN gpa=5.00 attempts=17 error=None
+2026-11-06T12:25:42 [49/236] serial=675 status=ok roll_used=109401 returned=TAMZID SHARIF ARKO gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:44 [50/236] serial=676 status=ok roll_used=109402 returned=SHEIKH MOHAMMED MUHIBBULLAH gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:46 [51/236] serial=677 status=ok roll_used=109403 returned=MAHIR AHANAF  NOOR gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:49 [52/236] serial=678 status=ok roll_used=109404 returned=MD. JOBAYER HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:53 [53/236] serial=679 status=ok roll_used=109405 returned=MIR YAZDAN RUHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:56 [54/236] serial=680 status=ok roll_used=109406 returned=AHMAD BIN NOOR gpa=5.00 attempts=1 error=None
+2026-11-06T12:25:59 [55/236] serial=681 status=ok roll_used=109407 returned=MD YEAJ UDDIN AHMMED RIFAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:02 [56/236] serial=682 status=ok roll_used=109408 returned=ZAHIN AZMAYEEN KHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:05 [57/236] serial=683 status=ok roll_used=109409 returned=MD. SHEFAYET ULLAH ABIR gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:09 [58/236] serial=684 status=ok roll_used=109410 returned=TAFSIN AHAMED gpa=5.00 attempts=9 error=None
+2026-11-06T12:26:23 [59/236] serial=685 status=ok roll_used=109411 returned=MD. MUKIT SARKAR gpa=5.00 attempts=16 error=None
+2026-11-06T12:26:26 [60/236] serial=686 status=ok roll_used=109412 returned=BONY YEAMIN CHOWDHURY gpa=4.67 attempts=1 error=None
+2026-11-06T12:26:29 [61/236] serial=687 status=ok roll_used=109413 returned=HIMEL KUNDU gpa=4.83 attempts=1 error=None
+2026-11-06T12:26:31 [62/236] serial=688 status=ok roll_used=109414 returned=IFFAT  SHARIAR  ARKO gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:33 [63/236] serial=689 status=ok roll_used=109415 returned=MD. TAUSIF AL MOHIT gpa=4.50 attempts=1 error=None
+2026-11-06T12:26:36 [64/236] serial=690 status=ok roll_used=109416 returned=JUNER-AL-ANNAF gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:39 [65/236] serial=691 status=ok roll_used=109417 returned=MUHAMMAD AFIF RAHAMAN TASNIM gpa=5.00 attempts=2 error=None
+2026-11-06T12:26:42 [66/236] serial=692 status=ok roll_used=109418 returned=SAIF AHMED gpa=4.50 attempts=4 error=None
+2026-11-06T12:26:45 [67/236] serial=693 status=ok roll_used=109419 returned=TAHSAN HAQUE ARNOB gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:49 [68/236] serial=694 status=ok roll_used=109420 returned=AHMED ABDULLAH ADEEB gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:51 [69/236] serial=695 status=ok roll_used=109421 returned=SHEIKH HASIBUL ABEDIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:53 [70/236] serial=696 status=ok roll_used=109422 returned=MD. ALEM SIAM gpa=5.00 attempts=8 error=None
+2026-11-06T12:26:57 [71/236] serial=697 status=ok roll_used=109423 returned=KAZI AHAMMED SADAF gpa=5.00 attempts=1 error=None
+2026-11-06T12:26:59 [72/236] serial=698 status=ok roll_used=109424 returned=SUFI SADMAM SAJIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:01 [73/236] serial=699 status=ok roll_used=109425 returned=SALMAN AHMED gpa=5.00 attempts=8 error=None
+2026-11-06T12:27:03 [74/236] serial=700 status=ok roll_used=109426 returned=JAYED HASAN gpa=5.00 attempts=3 error=None
+2026-11-06T12:27:06 [75/236] serial=701 status=ok roll_used=109427 returned=MD. ABDUL KAIOM SIAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:09 [76/236] serial=702 status=ok roll_used=109428 returned=ABID AHMED gpa=5.00 attempts=3 error=None
+2026-11-06T12:27:12 [77/236] serial=703 status=ok roll_used=109429 returned=MOHAMMAD SAFAYAT SHOWKAT  CHOWDHURY gpa=5.00 attempts=4 error=None
+2026-11-06T12:27:16 [78/236] serial=704 status=ok roll_used=109430 returned=MD TAHMID HASAN LABIB gpa=4.83 attempts=1 error=None
+2026-11-06T12:27:19 [79/236] serial=705 status=ok roll_used=109431 returned=SHAHARIYAR SAJID gpa=4.58 attempts=1 error=None
+2026-11-06T12:27:22 [80/236] serial=706 status=ok roll_used=109432 returned=ABDUL SHAHID RAHAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:26 [81/236] serial=707 status=ok roll_used=109433 returned=MD. SHAD-E-NOOR gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:28 [82/236] serial=708 status=ok roll_used=109434 returned=SADMAN SADIQ RIHAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:31 [83/236] serial=709 status=ok roll_used=109435 returned=MD. RIZVI MAHMUD RIAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:35 [84/236] serial=710 status=ok roll_used=109436 returned=MD. TAREK gpa=5.00 attempts=1 error=None
+2026-11-06T12:27:38 [85/236] serial=711 status=ok roll_used=109437 returned=MD. AMIR HOSEN gpa=4.58 attempts=4 error=None
+2026-11-06T12:27:42 [86/236] serial=712 status=ok roll_used=109438 returned=ABDULLAH AL ABID gpa=5.00 attempts=9 error=None
+2026-11-06T12:27:47 [87/236] serial=713 status=ok roll_used=109439 returned=NAYEM ARBAB FAHIM gpa=5.00 attempts=7 error=None
+2026-11-06T12:28:02 [88/236] serial=714 status=ok roll_used=109440 returned=MD ALAMIN HOSSEN gpa=5.00 attempts=10 error=None
+2026-11-06T12:28:04 [89/236] serial=715 status=ok roll_used=109441 returned=LIMON SHARKER gpa=5.00 attempts=1 error=None
+2026-11-06T12:28:09 [90/236] serial=716 status=ok roll_used=109442 returned=PRIJOM DAS gpa=5.00 attempts=9 error=None
+2026-11-06T12:28:14 [91/236] serial=717 status=ok roll_used=109443 returned=NAFIS IBNE ABID gpa=4.83 attempts=9 error=None
+2026-11-06T12:28:17 [92/236] serial=718 status=ok roll_used=109444 returned=MOHAMMAD SIAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:28:21 [93/236] serial=719 status=ok roll_used=109445 returned=MD. HASAN gpa=5.00 attempts=9 error=None
+2026-11-06T12:28:25 [94/236] serial=720 status=ok roll_used=109446 returned=MRINMOY CHOWDHURY gpa=5.00 attempts=1 error=None
+2026-11-06T12:28:28 [95/236] serial=721 status=ok roll_used=109447 returned=MD. JISAN ISLAM gpa=4.83 attempts=1 error=None
+2026-11-06T12:28:31 [96/236] serial=722 status=ok roll_used=109448 returned=MD. SIYAM gpa=4.67 attempts=10 error=None
+2026-11-06T12:28:34 [97/236] serial=723 status=ok roll_used=109449 returned=SIFAT ABDULLAH IBN MASUD gpa=5.00 attempts=9 error=None
+2026-11-06T12:28:37 [98/236] serial=724 status=ok roll_used=109450 returned=MD. FOYEZ ULLAH gpa=4.67 attempts=1 error=None
+2026-11-06T12:28:40 [99/236] serial=725 status=ok roll_used=109451 returned=MD. ARAFAT-UL-ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:28:42 [100/236] serial=726 status=ok roll_used=109452 returned=MD. ARIFUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:28:42 cool-down 20s
+2026-11-06T12:29:05 [101/236] serial=727 status=ok roll_used=109453 returned=ROHIT ROY gpa=5.00 attempts=4 error=None
+2026-11-06T12:29:07 [102/236] serial=728 status=ok roll_used=109454 returned=NAFIZ AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:10 [103/236] serial=729 status=ok roll_used=109455 returned=MD. NIME UR JAHAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:13 [104/236] serial=730 status=ok roll_used=109456 returned=AHSAN ULLAH MOTTAQI gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:17 [105/236] serial=731 status=ok roll_used=109457 returned=MD. MAYEM RAHMAN ARNOB gpa=5.00 attempts=6 error=None
+2026-11-06T12:29:19 [106/236] serial=732 status=ok roll_used=109458 returned=MD. MOIN UDDIN BHUIYAN FAHIM gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:23 [107/236] serial=733 status=ok roll_used=109459 returned=MD MUNTASIR ARMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:26 [108/236] serial=734 status=ok roll_used=109460 returned=NUR MOHAMMAD KAFI gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:30 [109/236] serial=735 status=ok roll_used=109461 returned=MD. AHNAF TAHMID gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:33 [110/236] serial=736 status=ok roll_used=109462 returned=TAUSIF JAWAD gpa=5.00 attempts=9 error=None
+2026-11-06T12:29:37 [111/236] serial=737 status=ok roll_used=109463 returned=SUMIT SAHA gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:39 [112/236] serial=738 status=ok roll_used=109464 returned=DIPRAJ GHOSH DIP gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:44 [113/236] serial=739 status=ok roll_used=109465 returned=MD. SHAFIQUL ISLAM gpa=5.00 attempts=9 error=None
+2026-11-06T12:29:47 [114/236] serial=740 status=ok roll_used=109466 returned=SHEKH MD. ABDULLAH AL RAHAT gpa=5.00 attempts=1 error=None
+2026-11-06T12:29:50 [115/236] serial=741 status=ok roll_used=109467 returned=TOWFIQ MAHMUD CHOWDHURY gpa=5.00 attempts=9 error=None
+2026-11-06T12:29:53 [116/236] serial=742 status=ok roll_used=109468 returned=LIKHAN TALUKDER gpa=5.00 attempts=2 error=None
+2026-11-06T12:30:02 [117/236] serial=743 status=ok roll_used=109469 returned=MD. SAMIUL ISLAM TUSAR gpa=4.83 attempts=14 error=None
+2026-11-06T12:30:05 [118/236] serial=744 status=ok roll_used=109470 returned=MD. MAHIB gpa=4.75 attempts=1 error=None
+2026-11-06T12:30:08 [119/236] serial=745 status=ok roll_used=109471 returned=QUAZI MAHAMUDUL HASSAN MAHI gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:10 [120/236] serial=746 status=ok roll_used=109472 returned=MD. APPLE MAHMUD gpa=4.08 attempts=4 error=None
+2026-11-06T12:30:12 [121/236] serial=747 status=ok roll_used=109473 returned=MD. BAYEZID RIFAT gpa=4.50 attempts=1 error=None
+2026-11-06T12:30:15 [122/236] serial=748 status=ok roll_used=109474 returned=ABU BAKAR RAFI gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:22 [123/236] serial=749 status=ok roll_used=109475 returned=ABDUL MUHAIMIN MOJUMDAR gpa=5.00 attempts=10 error=None
+2026-11-06T12:30:25 [124/236] serial=750 status=ok roll_used=109476 returned=MD. ASHRAFUL ALAM SARKAR RAFI gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:29 [125/236] serial=751 status=ok roll_used=109477 returned=S. M MAHDIN gpa=5.00 attempts=8 error=None
+2026-11-06T12:30:32 [126/236] serial=752 status=ok roll_used=109478 returned=RAFSUN RAHMAN SAKI gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:34 [127/236] serial=753 status=ok roll_used=109479 returned=MD JUNAID HAQUE gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:38 [128/236] serial=754 status=ok roll_used=109480 returned=JAWWAD UL AMIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:43 [129/236] serial=755 status=ok roll_used=109481 returned=MD. SHAHARIAR NAFISH gpa=5.00 attempts=9 error=None
+2026-11-06T12:30:46 [130/236] serial=756 status=ok roll_used=109482 returned=MD. SHAWON gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:48 [131/236] serial=757 status=ok roll_used=109483 returned=MOHAMMAD AFNAN AHMED BHUIYAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:52 [132/236] serial=758 status=ok roll_used=109484 returned=NAFI TAZUAR TASIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:30:54 [133/236] serial=759 status=ok roll_used=109485 returned=MD. TAHMID ISLAM TANIM gpa=4.50 attempts=2 error=None
+2026-11-06T12:30:58 [134/236] serial=760 status=ok roll_used=109486 returned=TANVIR  AHMED ROCKY gpa=4.83 attempts=1 error=None
+2026-11-06T12:31:06 [135/236] serial=761 status=ok roll_used=109487 returned=TANVIR HASAN gpa=5.00 attempts=3 error=None
+2026-11-06T12:31:08 [136/236] serial=762 status=ok roll_used=109488 returned=AIMON MAHIM ABID gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:11 [137/236] serial=763 status=ok roll_used=109489 returned=KHONDKER MOINUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:14 [138/236] serial=764 status=ok roll_used=109490 returned=MD. MUIN KHAN YEASH gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:16 [139/236] serial=765 status=ok roll_used=109491 returned=UTSHA BHATTACHARYA gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:19 [140/236] serial=766 status=ok roll_used=109492 returned=MD. RAICHUL ISLAM KHAN gpa=4.92 attempts=5 error=None
+2026-11-06T12:31:22 [141/236] serial=767 status=ok roll_used=109493 returned=ABUNUR MD. MUHAIMIN RANA gpa=5.00 attempts=2 error=None
+2026-11-06T12:31:26 [142/236] serial=768 status=ok roll_used=109494 returned=DIBOS DAS gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:29 [143/236] serial=769 status=ok roll_used=109495 returned=TAHSIN AHAMMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:31 [144/236] serial=770 status=ok roll_used=109496 returned=SYED ZAWAT AFNAN PROTTAY gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:34 [145/236] serial=771 status=ok roll_used=109497 returned=MAHROOS MARSHAD gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:37 [146/236] serial=772 status=ok roll_used=109498 returned=MUHAMMAD MAIMUN ISLAM SUNNY gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:41 [147/236] serial=773 status=ok roll_used=109499 returned=MD. TAUHID ISLAM gpa=5.00 attempts=9 error=None
+2026-11-06T12:31:43 [148/236] serial=774 status=ok roll_used=109500 returned=ABRAR SHAFI CHOWDHURY gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:46 [149/236] serial=775 status=ok roll_used=109501 returned=KHANDAKER HASAN AL AZIM JARIF gpa=4.83 attempts=1 error=None
+2026-11-06T12:31:49 [150/236] serial=776 status=ok roll_used=109502 returned=AHMED AFFAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:31:51 [151/236] serial=777 status=ok roll_used=109503 returned=T. M. SHAHRIAR IMRAN gpa=4.50 attempts=6 error=None
+2026-11-06T12:31:54 [152/236] serial=778 status=ok roll_used=109504 returned=MD. ABDUR RAHMAN SARKER gpa=4.83 attempts=1 error=None
+2026-11-06T12:31:57 [153/236] serial=779 status=ok roll_used=109505 returned=MD MAHATHIR BIN MAHBUB gpa=3.92 attempts=1 error=None
+2026-11-06T12:32:00 [154/236] serial=780 status=ok roll_used=109506 returned=MAHBUB IQBAL BEDHAN gpa=4.92 attempts=1 error=None
+2026-11-06T12:32:03 [155/236] serial=781 status=ok roll_used=109507 returned=MD. KAWSAR AHMMED DURJOY gpa=4.42 attempts=1 error=None
+2026-11-06T12:32:07 [156/236] serial=782 status=ok roll_used=109508 returned=MAHMID MURSHED gpa=4.75 attempts=1 error=None
+2026-11-06T12:32:26 [157/236] serial=783 status=ok roll_used=109509 returned=TAHMID ABDULLAH gpa=4.50 attempts=23 error=None
+2026-11-06T12:32:29 [158/236] serial=784 status=ok roll_used=109510 returned=FARHAN KABIR gpa=4.67 attempts=9 error=None
+2026-11-06T12:32:32 [159/236] serial=785 status=ok roll_used=109511 returned=MD.  MIR  JAHAN  AHAMAD  BEJOY gpa=4.25 attempts=1 error=None
+2026-11-06T12:32:36 [160/236] serial=786 status=ok roll_used=109512 returned=AL SAMAD EUSHA gpa=4.33 attempts=2 error=None
+2026-11-06T12:32:39 [161/236] serial=787 status=ok roll_used=109513 returned=ABDULLAH AL MARUF gpa=4.08 attempts=1 error=None
+2026-11-06T12:32:43 [162/236] serial=788 status=ok roll_used=109514 returned=ABDULLAH AL EMON gpa=4.83 attempts=1 error=None
+2026-11-06T12:32:45 [163/236] serial=789 status=ok roll_used=109515 returned=S M KAMRUL HASAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:32:47 [164/236] serial=790 status=ok roll_used=109516 returned=MD. IMTIAJ NUR gpa=5.00 attempts=1 error=None
+2026-11-06T12:32:49 [165/236] serial=791 status=ok roll_used=109517 returned=S M SHAHANUR RAHMAN SOHAN gpa=4.83 attempts=4 error=None
+2026-11-06T12:32:52 [166/236] serial=792 status=ok roll_used=109518 returned=MD. WASIUL ISLAM SHUPTO gpa=4.58 attempts=1 error=None
+2026-11-06T12:32:54 [167/236] serial=793 status=ok roll_used=109519 returned=KAZI SHORAB gpa=4.92 attempts=1 error=None
+2026-11-06T12:32:57 [168/236] serial=794 status=ok roll_used=109520 returned=ABIR MAHMUD gpa=5.00 attempts=1 error=None
+2026-11-06T12:33:00 [169/236] serial=795 status=ok roll_used=109521 returned=ABDULLAH AL NOKIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:33:05 [170/236] serial=796 status=ok roll_used=109522 returned=ABU SHOAIB HOWLADER gpa=4.58 attempts=9 error=None
+2026-11-06T12:33:08 [171/236] serial=797 status=ok roll_used=109523 returned=MD. SIFAT SHEIKH gpa=4.58 attempts=1 error=None
+2026-11-06T12:33:12 [172/236] serial=798 status=ok roll_used=109524 returned=MD. NUR NEHAN gpa=4.75 attempts=1 error=None
+2026-11-06T12:33:15 [173/236] serial=799 status=ok roll_used=109525 returned=MD. ASHIQUR RAHMAN TUTUL gpa=4.33 attempts=1 error=None
+2026-11-06T12:33:17 [174/236] serial=800 status=ok roll_used=109526 returned=MUSTAHSIN TONOY gpa=4.50 attempts=1 error=None
+2026-11-06T12:33:21 [175/236] serial=801 status=ok roll_used=109527 returned=FAHAD BIN MONZUR gpa=4.83 attempts=1 error=None
+2026-11-06T12:33:25 [176/236] serial=802 status=ok roll_used=109528 returned=MD. EHATESAM  HAQUE SIAM gpa=4.33 attempts=1 error=None
+2026-11-06T12:33:28 [177/236] serial=803 status=ok roll_used=109529 returned=M.K MAHIM HOSSAIN gpa=4.67 attempts=1 error=None
+2026-11-06T12:33:30 [178/236] serial=804 status=ok roll_used=109530 returned=ABDULLAH AHMED gpa=5.00 attempts=1 error=None
+2026-11-06T12:33:34 [179/236] serial=805 status=ok roll_used=109531 returned=MOHAMMAD ADEL gpa=4.83 attempts=1 error=None
+2026-11-06T12:33:37 [180/236] serial=806 status=ok roll_used=109532 returned=MD. ABDULLAH AL FAHIM gpa=4.75 attempts=1 error=None
+2026-11-06T12:33:40 [181/236] serial=807 status=ok roll_used=109533 returned=MUHTADI BIN HAFIZ MAHEEN gpa=5.00 attempts=1 error=None
+2026-11-06T12:33:42 [182/236] serial=808 status=ok roll_used=109534 returned=MD. SABBIR AHMED gpa=4.83 attempts=1 error=None
+2026-11-06T12:33:45 [183/236] serial=809 status=ok roll_used=109535 returned=MD. SHAHADAT HOSSEN RESHAD gpa=4.92 attempts=1 error=None
+2026-11-06T12:33:47 [184/236] serial=810 status=ok roll_used=109536 returned=MOHAMMAD TOUSIF RASHID gpa=4.83 attempts=1 error=None
+2026-11-06T12:33:50 [185/236] serial=811 status=ok roll_used=109537 returned=MD. SIAM HOSSAIN gpa=5.00 attempts=1 error=None
+2026-11-06T12:33:55 [186/236] serial=812 status=ok roll_used=109538 returned=MD. SHARIA ZAMAN gpa=5.00 attempts=9 error=None
+2026-11-06T12:33:59 [187/236] serial=813 status=ok roll_used=109539 returned=IFTEKHER HOSSAIN NAHID gpa=5.00 attempts=4 error=None
+2026-11-06T12:34:02 [188/236] serial=814 status=ok roll_used=109540 returned=MD. SHAHNEWAZ gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:04 [189/236] serial=815 status=ok roll_used=109541 returned=MOHAMMAD TAHACIFUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:07 [190/236] serial=816 status=ok roll_used=109542 returned=MD JAHIDUL ISLAM gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:09 [191/236] serial=817 status=ok roll_used=109543 returned=MD. ISFAQ BIN HOSSAIN gpa=4.83 attempts=1 error=None
+2026-11-06T12:34:12 [192/236] serial=818 status=ok roll_used=109544 returned=MD SHAHRIAR HAFIZ gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:15 [193/236] serial=819 status=ok roll_used=109545 returned=MD. ABDULLAH AL RIFAT gpa=4.50 attempts=1 error=None
+2026-11-06T12:34:17 [194/236] serial=820 status=ok roll_used=109546 returned=SAIKAT MONDOL gpa=4.33 attempts=2 error=None
+2026-11-06T12:34:20 [195/236] serial=821 status=ok roll_used=109547 returned=FARHAN FUAD SIAM gpa=4.75 attempts=1 error=None
+2026-11-06T12:34:24 [196/236] serial=822 status=ok roll_used=109548 returned=APURBO SARKER gpa=4.92 attempts=4 error=None
+2026-11-06T12:34:27 [197/236] serial=823 status=ok roll_used=109549 returned=MD. SAGOR SHIKDAR gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:29 [198/236] serial=824 status=ok roll_used=109550 returned=MEHERAZ HOSEN TOSIN gpa=4.83 attempts=1 error=None
+2026-11-06T12:34:33 [199/236] serial=825 status=ok roll_used=109551 returned=MD. ABID SAHARIAYA gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:35 [200/236] serial=826 status=ok roll_used=109552 returned=MD. MONIRUJJAMAN JONI gpa=5.00 attempts=1 error=None
+2026-11-06T12:34:35 cool-down 20s
+2026-11-06T12:34:59 [201/236] serial=827 status=ok roll_used=109553 returned=MD. MOSTAK PK. gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:02 [202/236] serial=828 status=ok roll_used=109554 returned=AMIMUL IHSAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:06 [203/236] serial=829 status=ok roll_used=109555 returned=MD. ABU WAFA ROBI gpa=5.00 attempts=7 error=None
+2026-11-06T12:35:10 [204/236] serial=830 status=ok roll_used=109556 returned=SHANTO BISHWAS gpa=4.92 attempts=1 error=None
+2026-11-06T12:35:13 [205/236] serial=831 status=ok roll_used=109557 returned=MD. RASHIK RAIYAN gpa=4.33 attempts=1 error=None
+2026-11-06T12:35:17 [206/236] serial=832 status=ok roll_used=109558 returned=MD. TOUHIDUL ISLAM JIDAN gpa=None attempts=1 error=None
+2026-11-06T12:35:21 [207/236] serial=833 status=ok roll_used=109559 returned=NIVON MONDAL gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:25 [208/236] serial=834 status=ok roll_used=109560 returned=MD. ASADULLAH AHMED gpa=4.33 attempts=1 error=None
+2026-11-06T12:35:39 [209/236] serial=835 status=ok roll_used=109561 returned=SHEIKH JUNAED ALAM gpa=5.00 attempts=17 error=None
+2026-11-06T12:35:42 [210/236] serial=836 status=ok roll_used=109562 returned=MD. SHAHARIAR AHMED gpa=5.00 attempts=9 error=None
+2026-11-06T12:35:45 [211/236] serial=837 status=ok roll_used=109563 returned=MD. SHAFAAT AHMED SHOVON gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:49 [212/236] serial=838 status=ok roll_used=109564 returned=MD. MAHDI HASAN MOHIB gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:51 [213/236] serial=839 status=ok roll_used=109565 returned=MD. MAHRUJ TAMIM gpa=4.75 attempts=1 error=None
+2026-11-06T12:35:55 [214/236] serial=840 status=ok roll_used=109566 returned=MD. RAFIUZZAMAN gpa=5.00 attempts=1 error=None
+2026-11-06T12:35:58 [215/236] serial=841 status=ok roll_used=109567 returned=ADNAN SIDDIQUE SIAM gpa=5.00 attempts=13 error=None
+2026-11-06T12:36:01 [216/236] serial=842 status=ok roll_used=109568 returned=MD. ARMAN gpa=4.50 attempts=1 error=None
+2026-11-06T12:36:04 [217/236] serial=843 status=ok roll_used=109569 returned=S.M. ABRARUL HAQUE gpa=5.00 attempts=2 error=None
+2026-11-06T12:36:07 [218/236] serial=844 status=ok roll_used=109570 returned=ABDULLAH ALIF gpa=5.00 attempts=1 error=None
+2026-11-06T12:36:11 [219/236] serial=845 status=ok roll_used=109571 returned=AHNAF OITIYYO gpa=4.17 attempts=5 error=None
+2026-11-06T12:36:14 [220/236] serial=846 status=ok roll_used=109572 returned=RAAD SHARAAR gpa=4.58 attempts=1 error=None
+2026-11-06T12:36:15 [221/236] serial=847 status=ok roll_used=109573 returned=TASNIMUL HASAN KHAN gpa=4.25 attempts=2 error=None
+2026-11-06T12:36:19 [222/236] serial=848 status=ok roll_used=109574 returned=YAMIN IBTISAM gpa=4.25 attempts=1 error=None
+2026-11-06T12:36:22 [223/236] serial=849 status=invalid_reg roll_used=None returned=None gpa=None attempts=3 error=invalid registration/roll
+2026-11-06T12:36:26 [224/236] serial=850 status=invalid_reg roll_used=None returned=None gpa=None attempts=11 error=invalid registration/roll
+2026-11-06T12:36:28 [225/236] serial=851 status=ok roll_used=108754 returned=MD. MOMINUL HOWLADAR gpa=4.83 attempts=3 error=None
+2026-11-06T12:36:31 [226/236] serial=852 status=invalid_reg roll_used=None returned=None gpa=None attempts=4 error=invalid registration/roll
+2026-11-06T12:36:34 [227/236] serial=853 status=invalid_reg roll_used=None returned=None gpa=None attempts=4 error=invalid registration/roll
+2026-11-06T12:36:36 [228/236] serial=854 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:37 [229/236] serial=855 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:39 [230/236] serial=856 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:41 [231/236] serial=857 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:42 [232/236] serial=858 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:44 [233/236] serial=859 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:46 [234/236] serial=860 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:48 [235/236] serial=861 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:49 [236/236] serial=862 status=missing_roll roll_used=None returned=None gpa=None attempts=0 error=None
+2026-11-06T12:36:49 done total=862 counts={'ok': 847, 'invalid_reg': 6, 'missing_roll': 9} verified=845 elapsed=00:14:09
+2026-11-06T14:29:25 start records=6 pending=6 out=results/marksheets_20261106_104600 board=10 year=2026
+2026-11-06T14:29:28 [1/6] serial=33 status=ok roll_used=109575 returned=MOHAMMAD RADIT MEHSAN gpa=4.75 attempts=2 error=None
+2026-11-06T14:29:30 [2/6] serial=185 status=ok roll_used=900133 returned=MD.FATIN ANJUM gpa=4.17 attempts=3 error=None
+2026-11-06T14:29:34 [3/6] serial=849 status=ok roll_used=109577 returned=RAFSANJANI ROWNAK gpa=5.00 attempts=1 error=None
+2026-11-06T14:29:53 [4/6] serial=850 status=ok roll_used=109578 returned=MD. ASFAR HOQUE gpa=5.00 attempts=17 error=None
+2026-11-06T14:29:58 [5/6] serial=852 status=ok roll_used=108833 returned=MD. MAHFUZ AHAMED ASHIK gpa=4.83 attempts=9 error=None
+2026-11-06T14:30:01 [6/6] serial=853 status=ok roll_used=109576 returned=RAZIN ISLAM SIKDER gpa=4.42 attempts=1 error=None
+2026-11-06T14:30:01 done total=862 counts={'ok': 853, 'missing_roll': 9} verified=851 elapsed=00:00:35

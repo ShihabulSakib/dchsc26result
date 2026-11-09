@@ -1,0 +1,42 @@
+[
+  {
+    "serial_no": 33,
+    "expected_name": "Mohammad Radit Mehsan",
+    "returned_name": null,
+    "name_match": null,
+    "name_similarity": null,
+    "expected_reg": "2110987858",
+    "returned_reg": null,
+    "reg_match": null,
+    "expected_gpa": null,
+    "returned_gpa": null,
+    "gpa_match": null,
+    "roll_used": null,
+    "subject_count": 0,
+    "total_marks": 0,
+    "status": "invalid_reg",
+    "flags": [
+      "invalid_reg"
+    ]
+  },
+  {
+    "serial_no": 107,
+    "expected_name": "MD. NUR SADIK",
+    "returned_name": "MD. NUR SADIK",
+    "name_match": true,
+    "name_similarity": 1.0,
+    "expected_reg": "2112843824",
+    "returned_reg": "2112843824",
+    "reg_match": true,
+    "expected_gpa": "4.83",
+    "returned_gpa": "5.00",
+    "gpa_match": false,
+    "roll_used": "108834",
+    "subject_count": 7,
+    "total_marks": 1084,
+    "status": "ok",
+    "flags": [
+      "gpa_mismatch"
+    ]
+  }
+]

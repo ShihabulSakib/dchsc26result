@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-06T11:41:27",
+  "elapsed_s": 11.2,
+  "elapsed": "00:00:11",
+  "total": 3,
+  "counts": {
+    "ok": 3
+  },
+  "verified": 3,
+  "flags": {},
+  "output": "results/test_primary_20261106_114115"
+}

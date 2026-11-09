@@ -1,0 +1,48 @@
+[
+  {
+    "serial_no": 33,
+    "source": {
+      "id": 51,
+      "name": "Mohammad Radit Mehsan",
+      "college_roll": "1202425010036",
+      "admission_roll": "2110987858",
+      "father_name": "Mohammad Abdullahil Baki",
+      "mother_name": "Jannatul Fardous Lipi",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "Mohammad Radit Mehsan",
+      "name_returned": null,
+      "hsc_roll_primary": "108759",
+      "hsc_roll_alt": "108760",
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110987858",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 2,
+      "api_attempts": 11,
+      "duration_s": 2.76,
+      "fetched_at": "2026-11-06T11:39:16",
+      "error": "invalid registration/roll"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-06T11:40:27",
+  "elapsed_s": 7.9,
+  "elapsed": "00:00:07",
+  "total": 2,
+  "counts": {
+    "invalid_reg": 1,
+    "ok": 1
+  },
+  "verified": 1,
+  "flags": {
+    "invalid_reg": 1,
+    "gpa_mismatch": 1
+  },
+  "output": "results/test_rollfix_raw_20261106_114019"
+}

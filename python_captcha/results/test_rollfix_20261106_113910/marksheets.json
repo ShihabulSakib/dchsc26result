@@ -1,0 +1,646 @@
+[
+  {
+    "serial_no": 28,
+    "source": {
+      "id": 84,
+      "name": "FAHIM SHAHRIAR SHAWN",
+      "college_roll": "1202425010031",
+      "admission_roll": "131541",
+      "father_name": "MD SHOWKAT OSMAN",
+      "mother_name": "NUR ASMANI",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "FAHIM SHAHRIAR SHAWN",
+      "name_returned": "FAHIM SHAHRIAR SHAWN",
+      "hsc_roll_primary": "108754",
+      "hsc_roll_alt": "108755",
+      "roll_used": "108755",
+      "returned_roll": "108755",
+      "registration_no": "2113269577",
+      "returned_reg": "2113269577",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "4.83",
+      "gpa_match": false,
+      "subject_count": 7,
+      "total_marks": 1059,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "146"
+        },
+        {
+          "code": "107-108",
+          "grade": "A+",
+          "subject": "ENGLISH",
+          "marks": "171"
+        },
+        {
+          "code": "275",
+          "grade": "A",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "077"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "175"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "171"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "165"
+        },
+        {
+          "code": "178-179",
+          "grade": "A",
+          "subject": "BIOLOGY",
+          "marks": "154"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": false,
+      "flags": [
+        "gpa_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 3,
+      "duration_s": 1.48,
+      "fetched_at": "2026-11-06T11:39:12",
+      "error": null
+    }
+  },
+  {
+    "serial_no": 33,
+    "source": {
+      "id": 51,
+      "name": "Mohammad Radit Mehsan",
+      "college_roll": "1202425010036",
+      "admission_roll": "2110987858",
+      "father_name": "Mohammad Abdullahil Baki",
+      "mother_name": "Jannatul Fardous Lipi",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "Mohammad Radit Mehsan",
+      "name_returned": null,
+      "hsc_roll_primary": "108759",
+      "hsc_roll_alt": "108760",
+      "roll_used": null,
+      "returned_roll": null,
+      "registration_no": "2110987858",
+      "returned_reg": null,
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": null,
+    "verification": {
+      "status": "invalid_reg",
+      "verified": false,
+      "name_match": null,
+      "name_similarity": null,
+      "reg_match": null,
+      "gpa_match": null,
+      "flags": [
+        "invalid_reg"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 2,
+      "api_attempts": 11,
+      "duration_s": 2.76,
+      "fetched_at": "2026-11-06T11:39:16",
+      "error": "invalid registration/roll"
+    }
+  },
+  {
+    "serial_no": 107,
+    "source": {
+      "id": 141,
+      "name": "MD. NUR SADIK",
+      "college_roll": "1202425010114",
+      "admission_roll": "184671",
+      "father_name": "Md. Shahnewaj Sadik",
+      "mother_name": "Mst.Noor Mahal",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. NUR SADIK",
+      "name_returned": "MD. NUR SADIK",
+      "hsc_roll_primary": "108833",
+      "hsc_roll_alt": "108835",
+      "roll_used": "108834",
+      "returned_roll": "108834",
+      "registration_no": "2112843824",
+      "returned_reg": "2112843824",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "4.83",
+      "gpa_match": false,
+      "subject_count": 7,
+      "total_marks": 1084,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "157"
+        },
+        {
+          "code": "107-108",
+          "grade": "A",
+          "subject": "ENGLISH",
+          "marks": "154"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "086"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "175"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "180"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "159"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "173"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": false,
+      "flags": [
+        "gpa_mismatch"
+      ]
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 2,
+      "duration_s": 0.46,
+      "fetched_at": "2026-11-06T11:39:18",
+      "error": null
+    }
+  },
+  {
+    "serial_no": 108,
+    "source": {
+      "id": 49,
+      "name": "AHMED MOZAM NIPUN",
+      "college_roll": "1202425010115",
+      "admission_roll": "230637",
+      "father_name": "MD. MUKTIZAR RAHMAN SARDAR",
+      "mother_name": "UMMA KULSOME",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "AHMED MOZAM NIPUN",
+      "name_returned": "AHMED MOZAM NIPUN",
+      "hsc_roll_primary": "108834",
+      "hsc_roll_alt": "108836",
+      "roll_used": "108835",
+      "returned_roll": "108835",
+      "registration_no": "2117728383",
+      "returned_reg": "2117728383",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "5.00",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 1085,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "150"
+        },
+        {
+          "code": "107-108",
+          "grade": "A+",
+          "subject": "ENGLISH",
+          "marks": "168"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "086"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "180"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "159"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "167"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "175"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 2,
+      "duration_s": 1.35,
+      "fetched_at": "2026-11-06T11:39:21",
+      "error": null
+    }
+  },
+  {
+    "serial_no": 109,
+    "source": {
+      "id": 92,
+      "name": "ATIF AT TASDIK",
+      "college_roll": "1202425010116",
+      "admission_roll": "231341",
+      "father_name": "Md. Taizul Islam",
+      "mother_name": "Mst. Farzana Yasmin",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "ATIF AT TASDIK",
+      "name_returned": "ATIF AT TASDIK",
+      "hsc_roll_primary": "108835",
+      "hsc_roll_alt": "108837",
+      "roll_used": "108836",
+      "returned_roll": "108836",
+      "registration_no": "2117717516",
+      "returned_reg": "2117717516",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "5.00",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 1156,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "158"
+        },
+        {
+          "code": "107-108",
+          "grade": "A+",
+          "subject": "ENGLISH",
+          "marks": "176"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "088"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "181"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "166"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "189"
+        },
+        {
+          "code": "129-130",
+          "grade": "A+",
+          "subject": "STATISTICS",
+          "marks": "198"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 3,
+      "duration_s": 0.47,
+      "fetched_at": "2026-11-06T11:39:23",
+      "error": null
+    }
+  },
+  {
+    "serial_no": 148,
+    "source": {
+      "id": 315,
+      "name": "RAKIB HOSSAIN",
+      "college_roll": "1202425010156",
+      "admission_roll": "219614",
+      "father_name": "IQBAL HOSSAIN",
+      "mother_name": "ANJUMAN ARA",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "RAKIB HOSSAIN",
+      "name_returned": "RAKIB HOSSAIN",
+      "hsc_roll_primary": "108874",
+      "hsc_roll_alt": "108876",
+      "roll_used": "108875",
+      "returned_roll": "108875",
+      "registration_no": "2110980907",
+      "returned_reg": "2110980907",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "5.00",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 1096,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A+",
+          "subject": "BANGLA",
+          "marks": "169"
+        },
+        {
+          "code": "107-108",
+          "grade": "A",
+          "subject": "ENGLISH",
+          "marks": "155"
+        },
+        {
+          "code": "275",
+          "grade": "A",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "077"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "172"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "172"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "176"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "175"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 2,
+      "duration_s": 2.24,
+      "fetched_at": "2026-11-06T11:39:27",
+      "error": null
+    }
+  },
+  {
+    "serial_no": 149,
+    "source": {
+      "id": 316,
+      "name": "MD. SIFAT RAHMAN",
+      "college_roll": "1202425010157",
+      "admission_roll": "230610",
+      "father_name": "MD. ATAUR RAHMAN",
+      "mother_name": "MST. SHEFALI BEGUM",
+      "group": "Science",
+      "session": "2024-2025"
+    },
+    "identity": {
+      "name_expected": "MD. SIFAT RAHMAN",
+      "name_returned": "MD. SIFAT RAHMAN",
+      "hsc_roll_primary": "108875",
+      "hsc_roll_alt": "108877",
+      "roll_used": "108876",
+      "returned_roll": "108876",
+      "registration_no": "2117712925",
+      "returned_reg": "2117712925",
+      "board": "Dhaka",
+      "board_id": 10,
+      "pass_year": 2026,
+      "exam_type": "HSC"
+    },
+    "marksheet": {
+      "institute": "DHAKA COLLEGE",
+      "eiin": 107977,
+      "group": "SCIENCE",
+      "session": "2024-25",
+      "result": "P",
+      "gpa": "5.00",
+      "gpa_expected": "5.00",
+      "gpa_match": true,
+      "subject_count": 7,
+      "total_marks": 1075,
+      "subjects": [
+        {
+          "code": "101-102",
+          "grade": "A",
+          "subject": "BANGLA",
+          "marks": "157"
+        },
+        {
+          "code": "107-108",
+          "grade": "A+",
+          "subject": "ENGLISH",
+          "marks": "167"
+        },
+        {
+          "code": "275",
+          "grade": "A+",
+          "subject": "INFORMATION & COMMUNICATION TECHNOLOGY",
+          "marks": "080"
+        },
+        {
+          "code": "174-175",
+          "grade": "A+",
+          "subject": "PHYSICS",
+          "marks": "169"
+        },
+        {
+          "code": "176-177",
+          "grade": "A+",
+          "subject": "CHEMISTRY",
+          "marks": "172"
+        },
+        {
+          "code": "265-266",
+          "grade": "A+",
+          "subject": "HIGHER MATHEMATICS",
+          "marks": "161"
+        },
+        {
+          "code": "178-179",
+          "grade": "A+",
+          "subject": "BIOLOGY",
+          "marks": "169"
+        }
+      ]
+    },
+    "verification": {
+      "status": "ok",
+      "verified": true,
+      "name_match": true,
+      "name_similarity": 1.0,
+      "reg_match": true,
+      "gpa_match": true,
+      "flags": []
+    },
+    "fetch": {
+      "captcha_attempts": 1,
+      "api_attempts": 2,
+      "duration_s": 1.33,
+      "fetched_at": "2026-11-06T11:39:30",
+      "error": null
+    }
+  }
+]

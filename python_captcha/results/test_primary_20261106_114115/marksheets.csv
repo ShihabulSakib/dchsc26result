@@ -1,0 +1,4 @@
+serial_no,id,name,name_returned,college_roll,hsc_roll_primary,hsc_roll_alt,roll_used,registration_no,returned_reg,board,pass_year,group,session,institute,result,gpa,gpa_expected,gpa_match,name_match,name_similarity,reg_match,verified,flags,subject_count,total_marks,captcha_attempts,api_attempts,duration_s,status
+1,1,MD.  NAGIB  MAHAFUZ,MD.  NAGIB  MAHAFUZ,1202425010001,108727,,108727,2113269092,2113269092,Dhaka,2026,SCIENCE,2024-25,DHAKA COLLEGE,P,5.00,5.00,True,True,1.0,True,True,,7,1071,1,1,2.21,ok
+3,13,SAZID MAHMUD,SAZID MAHMUD,1202425010003,108729,,108729,2113269515,2113269515,Dhaka,2026,SCIENCE,2024-25,DHAKA COLLEGE,P,5.00,5.00,True,True,1.0,True,True,,7,1096,2,7,2.86,ok
+106,47,K.M SIFAOWA SAKOM,K.M SIFAOWA SAKOM,1202425010112,108832,108833,108832,2110987928,2110987928,Dhaka,2026,SCIENCE,2024-25,DHAKA COLLEGE,P,5.00,5.00,True,True,1.0,True,True,,7,1114,1,1,2.31,ok
